@@ -33,38 +33,38 @@
 	
     <!--// Main Wrapper \\-->
     <div class="careplus-main-wrapper">
-
-        <!--// Header \\-->
-        <header id="careplus-header" class="careplus-header-one">
-            
-            <!--// Main Header \\-->
-            <div class="careplus-main-header">
-                <div class="container">
-                    <div class="row">
-                        <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
-                        <aside class="col-md-9">
-                            <ul class="careplus-infolist">
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                    <a href="mailto:yourdomain@name.com">hello@hepiqc.com</a>
-                                    <a href="mailto:yourdomain@name.com">info@hepiqc.com</a>
-                                </li>
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-clock-o"></i>
-                                    <span>9:00 am - 05:00 am</span>
-                                    <span>Monday - Friday</span>
-                                </li>
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-map-marker"></i>
-                                    <span>3rd Floor, Federal Ministry of Health, Abuja </span>
-                                </li>
-                            </ul>
-                            
-                        </aside>
+    
+            <!--// Header \\-->
+            <header id="careplus-header" class="careplus-header-one">
+                
+                <!--// Main Header \\-->
+                <div class="careplus-main-header">
+                    <div class="container">
+                        <div class="row">
+                            <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
+                            <aside class="col-md-9">
+                                <ul class="careplus-infolist">
+                                    <li>
+                                        <i class="careplus-bgcolor-two fa fa-envelope"></i>
+                                        <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
+                                        <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                    </li>
+                                    <li>
+                                        <i class="careplus-bgcolor-two fa fa-clock-o"></i>
+                                        <span>9:00 am - 05:00 am</span>
+                                        <span>Monday - Friday</span>
+                                    </li>
+                                    <li>
+                                        <i class="careplus-bgcolor-two fa fa-map-marker"></i>
+                                        <span>3rd Floor, Federal Ministry of Health, Abuja </span>
+                                    </li>
+                                </ul>
+                                
+                            </aside>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!--// Main Header \\-->
+                <!--// Main Header \\-->
 
             <!--// Navigation Section \\-->
             <div class="careplus-navigation-section careplus-bgcolor">
@@ -87,7 +87,7 @@
                                         <li><a href="{{url('/about')}}">About</a>
     
                                         </li>
-                                        <li><a href="404.html">Projects</a>
+                                        <li><a href="{{url('/#')}}">Projects</a>
                                             <ul class="careplus-dropdown-menu">
                                                 <li><a href="404.html">Research on the Ageing Population</a>
                                                     <ul class="careplus-dropdown-menu">
@@ -242,93 +242,89 @@
 
         <!--// Footer \\-->
         <footer id="careplus-footer" class="careplus-footer-one">
-            <span class="careplus-footer-transparent"></span>
-            <!--// Footer Widget \\-->
-            <div class="careplus-footer-widget">
-                <div class="container">
-                    <div class="row">
-                        <!--// Widget Contact Info \\-->
-                        <aside class="col-md-4 widget widget_contact_info">
-                            <a href="{{url('/')}}"class="footer-logo"><img src="images/footer-logo.png" alt=""></a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisci elit. Sed et elementum nulla, eu placerat felis. Et mtin orci lacus, id varius.</p>
+        <span class="careplus-footer-transparent"></span>
+        <!--// Footer Widget \\-->
+        <div class="careplus-footer-widget">
+            <div class="container">
+                <div class="row">
+                    <!--// Widget Contact Info \\-->
+                    <aside class="col-md-4 widget widget_contact_info">
+                        <a href="{{url('/')}}"class="footer-logo"><img src="images/header-hepiqc.png" alt=""></a>
+                        <p>HEPIQ-C - Healthcare package for the elderly.</p>
+                        <ul>
+                            <li>
+                                <h6>Call Us At:</h6>
+                                <span>+234 806 - 5769 - 433</span>
+                            </li>
+                            <li>
+                                <h6>Mail Us At:</h6>
+                                <a href="mailto:info@hepiqc.com">info@hepiqc.com</a>
+                            </li>
+                            <li>
+                                <h6>Our Location:</h6>
+                                <span>Federal Ministry of Health, Abuja </span>
+                            </li>
+                        </ul>
+                    </aside>
+                    <!--// Widget Contact Info \\-->
+
+                    <!--// Widget Useful Link \\-->
+                    <aside class="col-md-4 widget widget_useful_link">
+                        <h2 class="careplus-footer-title">Useful Links</h2>
+                        <ul>
+                            <li><a href="{{url('/')}}">Home</a></li>
+                            <li><a href="{{url('/blog')}}">Blog</a></li>
+                            <li><a href="{{url('/about')}}">About</a></li>
+                            <li><a href="{{url('/privacy')}}">Privacy</a></li>
+                            <li><a href="{{url('/contact')}}">Contact</a></li>
+                            <li><a href="{{url('/fag')}}">FAQ</a></li>
+                            <li><a href="{{url('/gallery')}}">Gallery</a></li>
+                            <li><a href="{{url('/terms')}}">Terms of Use</a></li>
+                        </ul>
+                    </aside>
+                    <!--// Widget Useful Link \\-->
+
+                    <!--// Widget Newsletter \\-->
+                    <aside class="col-md-4 widget widget_newsletter">
+                        <h2 class="careplus-footer-title">Our Newsletter</h2>
+                        <p>Sign up with your email address to recieve news and update.</p>
+                        <form>
                             <ul>
-                                <li>
-                                    <h6>Call Us At:</h6>
-                                    <span>+123 45 678 - (923) 987 65 432</span>
-                                </li>
-                                <li>
-                                    <h6>Mail Us At:</h6>
-                                    <a href="mailto:yourdomain@name.com">hello@care.com - info@exam.com</a>
-                                </li>
-                                <li>
-                                    <h6>Our Location:</h6>
-                                    <span>2925 Swick Hill Street, lotte, NC </span>
-                                </li>
+                                <li><input value="Your Name" onblur="if(this.value == '') { this.value ='Your Name'; }" onfocus="if(this.value =='Your Name') { this.value = ''; }" tabindex="0" type="text"></li>
+                                <li><input value="Your Email" onblur="if(this.value == '') { this.value ='Your Email'; }" onfocus="if(this.value =='Your Email') { this.value = ''; }" tabindex="0" type="email"></li>
+                                <li><label><input type="submit" value="Subscribe"><span></span></label></li>
                             </ul>
-                        </aside>
-                        <!--// Widget Contact Info \\-->
+                        </form>
+                    </aside>
+                    <!--// Widget Newsletter \\-->
 
-                        <!--// Widget Useful Link \\-->
-                        <aside class="col-md-4 widget widget_useful_link">
-                            <h2 class="careplus-footer-title">Useful Links</h2>
-                            <ul>
-                                <li><a href="404.html">Dental</a></li>
-                                <li><a href="404.html">Cardiology</a></li>
-                                <li><a href="404.html">Nuclear Magnetic</a></li>
-                                <li><a href="404.html">Hourly Care</a></li>
-                                <li><a href="404.html">Pregnancy</a></li>
-                                <li><a href="404.html">Respite Care</a></li>
-                                <li><a href="404.html">For Disabled</a></li>
-                                <li><a href="404.html">Insurance Claim</a></li>
-                                <li><a href="404.html">Prostheses</a></li>
-                                <li><a href="404.html">Patient Reports</a></li>
-                                <li><a href="404.html">Traumatology</a></li>
-                                <li><a href="404.html">Appointment</a></li>
-                            </ul>
-                        </aside>
-                        <!--// Widget Useful Link \\-->
+                </div>
+            </div>
+        </div>
+        <!--// Footer Widget \\-->
 
-                        <!--// Widget Newsletter \\-->
-                        <aside class="col-md-4 widget widget_newsletter">
-                            <h2 class="careplus-footer-title">Our Newsletter</h2>
-                            <p>Nunc ut volutpat ex. Morbi risus elit, mattis in mi ne mollis blandit erat.</p>
-                            <form>
-                                <ul>
-                                    <li><input value="Your Name" onblur="if(this.value == '') { this.value ='Your Name'; }" onfocus="if(this.value =='Your Name') { this.value = ''; }" tabindex="0" type="text"></li>
-                                    <li><input value="Your Email" onblur="if(this.value == '') { this.value ='Your Email'; }" onfocus="if(this.value =='Your Email') { this.value = ''; }" tabindex="0" type="email"></li>
-                                    <li><label><input type="submit" value="Subscribe"><span></span></label></li>
-                                </ul>
-                            </form>
-                        </aside>
-                        <!--// Widget Newsletter \\-->
-
+        <!--// Copy Right \\-->
+        <div class="careplus-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p><i class="fa fa-copyright"></i> 2018, All Right Reserved - by <a href="index-html.html">HEPIQ-C</a></p>
+                        <a href="#" class="careplus-back-top"><i class="fa fa-angle-up"></i></a>
+                        <ul class="careplus-footer-social">
+                            <li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+                            <li><a href="https://twitter.com/login" class="fa fa-twitter-square"></a></li>
+                            <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
+                            <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <!--// Footer Widget \\-->
-
-            <!--// Copy Right \\-->
-            <div class="careplus-copyright">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p><i class="fa fa-copyright"></i> 2017, All Right Reserved - by <a href="index-html.html">EyeCix</a></p>
-                            <a href="#" class="careplus-back-top"><i class="fa fa-angle-up"></i></a>
-                            <ul class="careplus-footer-social">
-                                <li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
-                                <li><a href="https://twitter.com/login" class="fa fa-twitter-square"></a></li>
-                                <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
-                                <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// Copy Right \\-->
+        </div>
+        <!--// Copy Right \\-->
 
 
-        </footer>
-        <!--// Footer \\-->
+    </footer>
+    <!--// Footer \\-->
 
 	<div class="clearfix"></div>
     </div>

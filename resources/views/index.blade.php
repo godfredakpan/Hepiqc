@@ -738,14 +738,14 @@
                         <aside class="col-md-4 widget widget_useful_link">
                             <h2 class="careplus-footer-title">Useful Links</h2>
                             <ul>
-                                <li><a href="404.html">Home</a></li>
-                                <li><a href="404.html">Blog</a></li>
-                                <li><a href="404.html">About</a></li>
-                                <li><a href="404.html">FAQs</a></li>
-                                <li><a href="404.html">Contact</a></li>
-                                <li><a href="404.html">Privacy Policy</a></li>
-                                <li><a href="404.html">Gallery</a></li>
-                                <li><a href="404.html">Terms of Use</a></li>
+                                <li><a href="{{url('/')}}">Home</a></li>
+                                <li><a href="{{url('/blog')}}">Blog</a></li>
+                                <li><a href="{{url('/about')}}">About</a></li>
+                                <li><a href="{{url('/privacy')}}">Privacy</a></li>
+                                <li><a href="{{url('/contact')}}">Contact</a></li>
+                                <li><a href="{{url('/fag')}}">FAQ</a></li>
+                                <li><a href="{{url('/gallery')}}">Gallery</a></li>
+                                <li><a href="{{url('/terms')}}">Terms of Use</a></li>
                             </ul>
                         </aside>
                         <!--// Widget Useful Link \\-->

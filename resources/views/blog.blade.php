@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from eyecix.com/html/careplus/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:50:01 GMT -->
+<!-- Mirrored from eyecix.com/html/Hepiq-C Project/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:50:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CarePlus Blog Detail</title>
+    <title>Hepiq-C Project Blog Detail</title>
 
     <!-- Css Files -->
     <link href="/css/bootstrap.css" rel="stylesheet">
@@ -30,46 +30,46 @@
   <body>
 	
     <!--// Main Wrapper \\-->
-    <div class="careplus-main-wrapper">
-
-        <!--// Header \\-->
-        <header id="careplus-header" class="careplus-header-one">
-            
-            <!--// Main Header \\-->
-            <div class="careplus-main-header">
-                <div class="container">
-                    <div class="row">
-                        <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
-                        <aside class="col-md-9">
-                            <ul class="careplus-infolist">
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                    <a href="mailto:yourdomain@name.com">hello@health.com</a>
-                                    <a href="mailto:yourdomain@name.com">info@medical.com</a>
-                                </li>
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-clock-o"></i>
-                                    <span>9:00 am - 12:00 am</span>
-                                    <span>7:00 pm - 10:00 pm</span>
-                                </li>
-                                <li>
-                                    <i class="careplus-bgcolor-two fa fa-map-marker"></i>
-                                    <span>2925 Swick Hill Street, lotte, NC 28202</span>
-                                </li>
-                            </ul>
-                            <a href="#" class="careplus-booking-btn careplus-bgcolor-two">Book Appointment</a>
-                        </aside>
+    <div class="Hepiq-C Project-main-wrapper">
+    
+            <!--// Header \\-->
+            <header id="Hepiq-C Project-header" class="Hepiq-C Project-header-one">
+                
+                <!--// Main Header \\-->
+                <div class="Hepiq-C Project-main-header">
+                    <div class="container">
+                        <div class="row">
+                            <aside class="col-md-3"><a href="{{url('/')}}"class="Hepiq-C Project-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
+                            <aside class="col-md-9">
+                                <ul class="Hepiq-C Project-infolist">
+                                    <li>
+                                        <i class="Hepiq-C Project-bgcolor-two fa fa-envelope"></i>
+                                        <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
+                                        <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                    </li>
+                                    <li>
+                                        <i class="Hepiq-C Project-bgcolor-two fa fa-clock-o"></i>
+                                        <span>9:00 am - 05:00 am</span>
+                                        <span>Monday - Friday</span>
+                                    </li>
+                                    <li>
+                                        <i class="Hepiq-C Project-bgcolor-two fa fa-map-marker"></i>
+                                        <span>3rd Floor, Federal Ministry of Health, Abuja </span>
+                                    </li>
+                                </ul>
+                                
+                            </aside>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!--// Main Header \\-->
+                <!--// Main Header \\-->
 
             <!--// Navigation Section \\-->
-            <div class="careplus-navigation-section careplus-bgcolor">
+            <div class="Hepiq-C Project-navigation-section Hepiq-C Project-bgcolor">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="careplus-navinner">
+                            <div class="Hepiq-C Project-navinner">
                                 <nav class="navbar navbar-default">
                                     <div class="navbar-header">
                                       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="true">
@@ -83,22 +83,22 @@
                                       <ul class="nav navbar-nav">
                                         <li><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="#">Appointments</a>
-                                            <ul class="careplus-dropdown-menu">
+                                            <ul class="Hepiq-C Project-dropdown-menu">
                                                 <li><a href="appointment.html">Time Table</a></li>
                                                 <li><a href="appointment-form.html">Appointment Booking</a></li>
                                             </ul>
                                         </li>
                                         <li class="active"><a href="#">Blogs</a>
-                                            <ul class="careplus-dropdown-menu">
+                                            <ul class="Hepiq-C Project-dropdown-menu">
                                                 <li><a href="blog-grid.html">Blog Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="blog-grid-wls.html">Blog Grid W/L/S</a></li>
                                                         <li><a href="blog-grid-wrs.html">Blog Grid W/R/S</a></li>
                                                         <li><a href="blog-grid.html">Blog Grid W/O/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="blog-modern.html">Blog Modern</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="blog-modern-wls.html">Blog Modern W/L/S</a></li>
                                                         <li><a href="blog-modern-wrs.html">Blog Modern W/R/S</a></li>
                                                         <li><a href="blog-modern.html">Blog Modern W/O/S</a></li>
@@ -106,25 +106,25 @@
                                                 </li>
                                                 <li><a href="blog-medium.html">Blog Medium</a></li>
                                                 <li><a href="blog-large.html">Blog Large</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="blog-large.html">Blog Large W/R/S</a></li>
                                                         <li><a href="blog-large-wls.html">Blog Large W/L/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="{{url('/blog')}}">Blog Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="{{url('/blog')}}">Blog Detail W/R/S</a></li>
                                                         <li><a href="blog-detail-wls.html">Blog Detail W/L/S</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="careplus-megamenu-li"><a href="#">Pages</a>
-                                            <ul class="careplus-megamenu">
+                                        <li class="Hepiq-C Project-megamenu-li"><a href="#">Pages</a>
+                                            <ul class="Hepiq-C Project-megamenu">
                                                 <li class="row">
                                                     <div class="col-md-2">
                                                         <h4>Link 1</h4>
-                                                        <ul class="careplus-megalist">
+                                                        <ul class="Hepiq-C Project-megalist">
                                                             <li><a href="team-grid.html">Team Grid W/O/S</a></li>
                                                             <li><a href="team-grid-wls.html">Team Grid W/L/S</a></li>
                                                             <li><a href="team-grid-wrs.html">Team Grid W/R/S</a></li>
@@ -135,7 +135,7 @@
                                                     </div>
                                                     <div class="col-md-2">
                                                         <h4>Link 2</h4>
-                                                        <ul class="careplus-megalist">
+                                                        <ul class="Hepiq-C Project-megalist">
                                                             <li><a href="team-medium.html">Team Medium W/O/S</a></li>
                                                             <li><a href="team-medium-wls.html">Team Medium W/L/S</a></li>
                                                             <li><a href="team-medium-wrs.html">Team Medium W/R/S</a></li>
@@ -146,7 +146,7 @@
                                                     </div>
                                                     <div class="col-md-2">
                                                         <h4>Link 3</h4>
-                                                        <ul class="careplus-megalist">
+                                                        <ul class="Hepiq-C Project-megalist">
                                                             <li><a href="gallery.html">Gallery</a></li>
                                                             <li><a href="gallery-view-two.html">Gallery View 2</a></li>
                                                             <li><a href="testimonial.html">Testimonial</a></li>
@@ -156,7 +156,7 @@
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-6">
-                                                        <a href="#" class="careplus-thumbnail">
+                                                        <a href="#" class="Hepiq-C Project-thumbnail">
                                                             <img src="extra-images/megamenu-frame.jpg" alt="">
                                                         </a>
                                                     </div>
@@ -164,22 +164,22 @@
                                             </ul>
                                         </li>
                                         <li><a href="#">Departments</a>
-                                            <ul class="careplus-dropdown-menu">
+                                            <ul class="Hepiq-C Project-dropdown-menu">
                                                 <li><a href="department-grid.html">Department Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="department-grid.html">Department Grid W/O/S</a></li>
                                                         <li><a href="department-grid-wls.html">Department Grid W/L/S</a></li>
                                                         <li><a href="department-grid-wrs.html">Department Grid W/R/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="department-list.html">Department List</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="department-list-wrs.html">Department List W/R/S</a></li>
                                                         <li><a href="department-list-wls.html">Department List W/L/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="department-detail.html">Department Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="department-detail.html">Department Detail W/R/S</a></li>
                                                         <li><a href="department-detail-wls.html">Department Detail W/L/S</a></li>
                                                     </ul>
@@ -187,34 +187,34 @@
                                             </ul>
                                         </li>
                                         <li><a href="#">Our Shop</a>
-                                            <ul class="careplus-dropdown-menu">
+                                            <ul class="Hepiq-C Project-dropdown-menu">
                                                 <li><a href="shop-grid.html">Shop Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="shop-grid.html">Shop Grid W/O/S</a></li>
                                                         <li><a href="shop-grid-wls.html">Shop Grid W/L/S</a></li>
                                                         <li><a href="shop-grid-wrs.html">Shop Grid W/R/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="shop-list.html">Shop List</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="shop-list-wrs.html">Shop List W/R/S</a></li>
                                                         <li><a href="shop-list-wls.html">Shop List W/L/S</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="shop-detail.html">Shop Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
+                                                    <ul class="Hepiq-C Project-dropdown-menu">
                                                         <li><a href="shop-detail.html">Shop Detail W/R/S</a></li>
                                                         <li><a href="shop-detail-wls.html">Shop Detail W/L/S</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="careplus-megamenu-li"><a href="#">Contact us</a>
-                                            <ul class="careplus-megamenu">
+                                        <li class="Hepiq-C Project-megamenu-li"><a href="#">Contact us</a>
+                                            <ul class="Hepiq-C Project-megamenu">
                                                 <li class="row">
                                                     <div class="col-md-2">
                                                         <h4>Links 1</h4>
-                                                        <ul class="careplus-megalist">
+                                                        <ul class="Hepiq-C Project-megalist">
                                                             <li><a href="faq.html">Faq</a></li>
                                                             <li><a href="404.html">404 Error Page</a></li>
                                                             <li><a href="search-result.html">Search Result</a></li>
@@ -224,14 +224,14 @@
                                                     </div>
                                                     <div class="col-md-5">
                                                         <h4>Docter text</h4>
-                                                        <div class="careplus-mega-text">
+                                                        <div class="Hepiq-C Project-mega-text">
                                                             <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love.</p>
                                                             <p>If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.</p>
                                                         </div>
                                                     </div>
                                                     <div class="col-md-5">
                                                         <h4>sub category widget</h4>
-                                                        <a href="#" class="careplus-thumbnail">
+                                                        <a href="#" class="Hepiq-C Project-thumbnail">
                                                             <img src="extra-images/mega-menuadd.jpg" alt="" />
                                                         </a>
                                                     </div>
@@ -241,10 +241,10 @@
                                       </ul>
                                     </div>
                                 </nav>
-                                <ul class="careplus-user-list">
-                                    <li><a href="#" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
-                                    <li><a href="#" class="careplus-color-two fa fa-shopping-cart"></a>
-                                        <div class="careplus-cart-box"> <p>No products in the cart.</p> </div>
+                                <ul class="Hepiq-C Project-user-list">
+                                    <li><a href="#" class="Hepiq-C Project-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
+                                    <li><a href="#" class="Hepiq-C Project-color-two fa fa-shopping-cart"></a>
+                                        <div class="Hepiq-C Project-cart-box"> <p>No products in the cart.</p> </div>
                                     </li>
                                 </ul>
                             </div>
@@ -258,9 +258,9 @@
         <!--// Header \\-->
 
 		<!--// SubHeader \\-->
-        <div class="careplus-subheader">
-            <div class="careplus-subheader-image">
-                <span class="careplus-dark-transparent"></span>
+        <div class="Hepiq-C Project-subheader">
+            <div class="Hepiq-C Project-subheader-image">
+                <span class="Hepiq-C Project-dark-transparent"></span>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -270,7 +270,7 @@
                     </div>
                 </div>
             </div>
-            <div class="careplus-breadcrumb">
+            <div class="Hepiq-C Project-breadcrumb">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -286,36 +286,36 @@
         <!--// SubHeader \\-->
 
 		<!--// Main Content \\-->
-		<div class="careplus-main-content">
+		<div class="Hepiq-C Project-main-content">
 
             <!--// Main section \\-->
-            <div class="careplus-main-section">
+            <div class="Hepiq-C Project-main-section">
                 <div class="container">
                     <div class="row">
 
                         <div class="col-md-9">
-                            <figure class="careplus-blog-thumb"><img src="extra-images/blog-detail-thumb.jpg" alt=""></figure>
-                            <div class="careplus-thumb-heading">
+                            <figure class="Hepiq-C Project-blog-thumb"><img src="extra-images/blog-detail-thumb.jpg" alt=""></figure>
+                            <div class="Hepiq-C Project-thumb-heading">
                                 <h2>Pellentesque Vitae Tortor Vel Sem Pulvinar</h2>
-                                <ul class="careplus-blog-option">
+                                <ul class="Hepiq-C Project-blog-option">
                                     <li><i class="fa fa-user"></i>George Hamilton</li>
                                     <li><i class="fa fa-calendar-o"></i>21 August, 2017</li>
                                 </ul>
                             </div>
-                            <div class="careplus-rich-editor">
+                            <div class="Hepiq-C Project-rich-editor">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac malesuada ante. Curabitur lacinia diam tempus tempor cons Sed vitae dignissim purus, eget aliquam libero. Duis et arcu a erat venenatis ornare eget nec urna. Nulla volutpat luctusv Aliquam tellus dui, luctus nec ornare at, aliquet ac nulla. Quisque vitae feugiat eros. Pellentesque tempus tortor nec tel ifend, id dictum nibh volutpat.</p>
                                 <p>Sed gravida, urna quis tempus sollicitudin, tellus urna suscipit nisl, id rhoncus ligula elit condimentum odio. Suspendisse la risus et porta dignissim, elit tellus iaculis tellus, eget efficitur elit magna eu orci. Phasellus tempor consectetur magna, at est malesuada ac. Phasellus non ipsum diam. Suspendisse potenti.</p>
                                 <blockquote><i class="fa fa-quote-right"></i>“Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero pellentesque feugiat. Etiam rhoncus leo in ligula egestas aliam. Pesent dui urna, vo lutpat a finibus nec, tristique ullamcorper nisi”</blockquote>
                                 <p>Sed gravida, urna quis tempus sollicitudin, tellus urna suscipit nisl, id rhoncus ligula elit condimentum odio. Suspendisse la risus et porta dignissim, elit tellus iaculis tellus, eget efficitur elit magna eu orci. Phasellus tempor consesacte magna, atef est malesuada ac. Phasellus non ipsum diam. Suspendisse potenti.</p>
                             </div>
-                            <div class="careplus-post-tags">
-                              <div class="careplus-tags">
+                            <div class="Hepiq-C Project-post-tags">
+                              <div class="Hepiq-C Project-tags">
                                  <span><i class="fa fa-tags"></i>Tags:</span>
                                  <a href="404.html">#diet</a>
                                  <a href="404.html">#health</a>
                                  <a href="404.html">#lifestyle</a>
                               </div>
-                              <div class="careplus-blog-social">
+                              <div class="Hepiq-C Project-blog-social">
                                  <span><i class="fa fa-share-alt"></i>Share:</span>
                                  <ul>
                                     <li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -325,35 +325,35 @@
                                  </ul>
                               </div>
                            </div>
-                           <div class="careplus-prenxt-post">
+                           <div class="Hepiq-C Project-prenxt-post">
                                 <ul>
                                     <li>
-                                        <div class="careplus-prev-post">
+                                        <div class="Hepiq-C Project-prev-post">
                                             <span></span>
                                             <h3><a href="404.html">Aliquam In Elit Vel Eros Tincidunt Pulvinar as</a></h3>
-                                            <a href="404.html" class="careplus-post-arrow"><i class="fa fa-angle-double-left"></i> Previous Post</a>
+                                            <a href="404.html" class="Hepiq-C Project-post-arrow"><i class="fa fa-angle-double-left"></i> Previous Post</a>
                                         </div>
                                     </li>
                                     <li>
-                                        <div class="careplus-next-post">
+                                        <div class="Hepiq-C Project-next-post">
                                             <span></span>
                                             <h3><a href="404.html">Pellentesque Vitae Tortor Vel Sem Pulvinar</a></h3>
-                                            <a href="404.html" class="careplus-post-arrow">Next Post<i class="fa fa-angle-double-right"></i> </a>
+                                            <a href="404.html" class="Hepiq-C Project-post-arrow">Next Post<i class="fa fa-angle-double-right"></i> </a>
                                         </div>
                                     </li>
                                 </ul>
                             </div>
-                            <div class="careplus-section-heading">
+                            <div class="Hepiq-C Project-section-heading">
                                 <h2>Related Blogs</h2>
                             </div>
-                            <div class="careplus-related-blog">
+                            <div class="Hepiq-C Project-related-blog">
                                 <ul class="row">
                                     <li class="col-md-6">
                                         <figure><a href="{{url('/blog')}}"><img src="extra-images/related-blog-img1.jpg" alt=""></a></figure>
-                                        <div class="careplus-related-blog-text">
+                                        <div class="Hepiq-C Project-related-blog-text">
                                             <a href="blog-detail.html" class="fa fa-angle-double-right"></a>
                                             <h5><a href="{{url('/blog')}}">Nunc ut volutat ex. Mor bi risus elit,</a></h5>
-                                            <ul class="careplus-blog-option">
+                                            <ul class="Hepiq-C Project-blog-option">
                                                 <li><i class="fa fa-user"></i><a href="404.html">John Gough</a></li>
                                                 <li><i class="fa fa-calendar-o"></i>21 August, 2017</li>
                                             </ul>
@@ -362,10 +362,10 @@
                                     </li>
                                     <li class="col-md-6">
                                         <figure><a href="{{url('/blog')}}"><img src="extra-images/related-blog-img2.jpg" alt=""></a></figure>
-                                        <div class="careplus-related-blog-text">
+                                        <div class="Hepiq-C Project-related-blog-text">
                                             <a href="blog-detail.html" class="fa fa-angle-double-right"></a>
                                             <h5><a href="{{url('/blog')}}">Nunc ut volutat ex. Mor bi risus elit,</a></h5>
-                                            <ul class="careplus-blog-option">
+                                            <ul class="Hepiq-C Project-blog-option">
                                                 <li><i class="fa fa-user"></i><a href="404.html">John Gough</a></li>
                                                 <li><i class="fa fa-calendar-o"></i>21 August, 2017</li>
                                             </ul>
@@ -376,7 +376,7 @@
                             </div>
                             <div class="comments-area">
                               <!--// coments \\-->
-                              <div class="careplus-section-heading"><h2>Comments</h2></div>
+                              <div class="Hepiq-C Project-section-heading"><h2>Comments</h2></div>
                               <ul class="comment-list">
                                  <li>
                                     <div class="thumb-list">
@@ -429,7 +429,7 @@
                               <!--// coments \\-->
                               <!--// comment-respond \\-->
                               <div class="comment-respond">
-                                 <div class="careplus-section-heading"><h2>Leave a Comment</h2></div>
+                                 <div class="Hepiq-C Project-section-heading"><h2>Leave a Comment</h2></div>
                                  <form>
                                     <p>
                                        <input type="text" value="Enter Your Name" onblur="if(this.value == '') { this.value ='Enter Your Name'; }" onfocus="if(this.value =='Enter Your Name') { this.value = ''; }">
@@ -439,7 +439,7 @@
                                        <input type="email" value="Enter Your Email" onblur="if(this.value == '') { this.value ='Enter Your Email'; }" onfocus="if(this.value =='Enter Your Email') { this.value = ''; }">
                                        <i class="fa fa-globe"></i>
                                     </p>
-                                    <p class="careplus-full-form">
+                                    <p class="Hepiq-C Project-full-form">
                                        <textarea name="comment" placeholder="Enter Your Comment" class="commenttextarea"></textarea>
                                        <i class="fa fa-comment"></i>
                                     </p>
@@ -455,7 +455,7 @@
                         <aside class="col-md-3">
 
                             <!--// Widget Search \\-->
-                            <div class="careplus-widget-heading"><h2>Search</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Search</h2></div>
                             <div class="widget widget_search">
                                 <form>
                                     <input type="text" value="Search Here" onblur="if(this.value == '') { this.value ='Search Here'; }" onfocus="if(this.value =='Search Here') { this.value = ''; }">
@@ -467,7 +467,7 @@
                             <!--// Widget Search \\-->
 
                             <!--// Widget Cetagories \\-->
-                            <div class="careplus-widget-heading"><h2>Departments</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Departments</h2></div>
                             <div class="widget widget_department">
                                 <ul>
                                     <li><a href="404.html"><i class="icon-medical-3"></i></a></li>
@@ -482,7 +482,7 @@
                             <!--// Widget Cetagories \\-->
 
                             <!--// Widget archive \\-->
-                            <div class="careplus-widget-heading"><h2>Our Cetagories</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Our Cetagories</h2></div>
                             <div class="widget widget_cetagories">
                               <ul>
                                  <li><a href="404.html">Blood Donors <span>(12)</span></a></li>
@@ -496,7 +496,7 @@
                             <!--// Widget archive \\-->
 
                             <!--// Widget archive \\-->
-                            <div class="careplus-widget-heading"><h2>Recent Posts</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Recent Posts</h2></div>
                             <div class="widget widget_populer_posts">
                                 <ul>
                                     <li>
@@ -525,7 +525,7 @@
                             <!--// Widget archive \\-->
 
                             <!--// Widget gallery \\-->
-                            <div class="careplus-widget-heading"><h2>Flicker Images</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Flicker Images</h2></div>
                             <div class="widget widget-gallery">
                                 <ul>
                                     <li><a data-fancybox-group="group" href="extra-images/widget-gallery-img1.jpg" class="fancybox"><img src="extra-images/widget-gallery-img1.jpg" alt=""><i class="fa fa-angle-double-right"></i></a></li>
@@ -539,7 +539,7 @@
                             <!--// Widget gallery \\-->
 
                             <!--// Widget archive \\-->
-                            <div class="careplus-widget-heading"><h2>Calendar Archieves</h2></div>
+                            <div class="Hepiq-C Project-widget-heading"><h2>Calendar Archieves</h2></div>
                             <div class="widget widget_cetagories">
                               <ul>
                                  <li><a href="404.html">August 2017 <span>(12)</span></a></li>
@@ -564,94 +564,90 @@
 		<!--// Main Content \\-->
 
         <!--// Footer \\-->
-        <footer id="careplus-footer" class="careplus-footer-one">
-            <span class="careplus-footer-transparent"></span>
-            <!--// Footer Widget \\-->
-            <div class="careplus-footer-widget">
-                <div class="container">
-                    <div class="row">
-                        <!--// Widget Contact Info \\-->
-                        <aside class="col-md-4 widget widget_contact_info">
-                            <a href="{{url('/')}}"class="footer-logo"><img src="images/footer-logo.png" alt=""></a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisci elit. Sed et elementum nulla, eu placerat felis. Et mtin orci lacus, id varius.</p>
+        <footer id="Hepiq-C Project-footer" class="Hepiq-C Project-footer-one">
+        <span class="Hepiq-C Project-footer-transparent"></span>
+        <!--// Footer Widget \\-->
+        <div class="Hepiq-C Project-footer-widget">
+            <div class="container">
+                <div class="row">
+                    <!--// Widget Contact Info \\-->
+                    <aside class="col-md-4 widget widget_contact_info">
+                        <a href="{{url('/')}}"class="footer-logo"><img src="images/header-hepiqc.png" alt=""></a>
+                        <p>HEPIQ-C - Healthcare package for the elderly.</p>
+                        <ul>
+                            <li>
+                                <h6>Call Us At:</h6>
+                                <span>+234 806 - 5769 - 433</span>
+                            </li>
+                            <li>
+                                <h6>Mail Us At:</h6>
+                                <a href="mailto:info@hepiqc.com">info@hepiqc.com</a>
+                            </li>
+                            <li>
+                                <h6>Our Location:</h6>
+                                <span>Federal Ministry of Health, Abuja </span>
+                            </li>
+                        </ul>
+                    </aside>
+                    <!--// Widget Contact Info \\-->
+
+                    <!--// Widget Useful Link \\-->
+                    <aside class="col-md-4 widget widget_useful_link">
+                        <h2 class="Hepiq-C Project-footer-title">Useful Links</h2>
+                        <ul>
+                            <li><a href="{{url('/')}}">Home</a></li>
+                            <li><a href="{{url('/blog')}}">Blog</a></li>
+                            <li><a href="{{url('/about')}}">About</a></li>
+                            <li><a href="{{url('/privacy')}}">Privacy</a></li>
+                            <li><a href="{{url('/contact')}}">Contact</a></li>
+                            <li><a href="{{url('/fag')}}">FAQ</a></li>
+                            <li><a href="{{url('/gallery')}}">Gallery</a></li>
+                            <li><a href="{{url('/terms')}}">Terms of Use</a></li>
+                        </ul>
+                    </aside>
+                    <!--// Widget Useful Link \\-->
+
+                    <!--// Widget Newsletter \\-->
+                    <aside class="col-md-4 widget widget_newsletter">
+                        <h2 class="Hepiq-C Project-footer-title">Our Newsletter</h2>
+                        <p>Sign up with your email address to recieve news and update.</p>
+                        <form>
                             <ul>
-                                <li>
-                                    <h6>Call Us At:</h6>
-                                    <span>+123 45 678 - (923) 987 65 432</span>
-                                </li>
-                                <li>
-                                    <h6>Mail Us At:</h6>
-                                    <a href="mailto:yourdomain@name.com">hello@care.com - info@exam.com</a>
-                                </li>
-                                <li>
-                                    <h6>Our Location:</h6>
-                                    <span>2925 Swick Hill Street, lotte, NC </span>
-                                </li>
+                                <li><input value="Your Name" onblur="if(this.value == '') { this.value ='Your Name'; }" onfocus="if(this.value =='Your Name') { this.value = ''; }" tabindex="0" type="text"></li>
+                                <li><input value="Your Email" onblur="if(this.value == '') { this.value ='Your Email'; }" onfocus="if(this.value =='Your Email') { this.value = ''; }" tabindex="0" type="email"></li>
+                                <li><label><input type="submit" value="Subscribe"><span></span></label></li>
                             </ul>
-                        </aside>
-                        <!--// Widget Contact Info \\-->
+                        </form>
+                    </aside>
+                    <!--// Widget Newsletter \\-->
 
-                        <!--// Widget Useful Link \\-->
-                        <aside class="col-md-4 widget widget_useful_link">
-                            <h2 class="careplus-footer-title">Useful Links</h2>
-                            <ul>
-                                <li><a href="404.html">Dental</a></li>
-                                <li><a href="404.html">Cardiology</a></li>
-                                <li><a href="404.html">Nuclear Magnetic</a></li>
-                                <li><a href="404.html">Hourly Care</a></li>
-                                <li><a href="404.html">Pregnancy</a></li>
-                                <li><a href="404.html">Respite Care</a></li>
-                                <li><a href="404.html">For Disabled</a></li>
-                                <li><a href="404.html">Insurance Claim</a></li>
-                                <li><a href="404.html">Prostheses</a></li>
-                                <li><a href="404.html">Patient Reports</a></li>
-                                <li><a href="404.html">Traumatology</a></li>
-                                <li><a href="404.html">Appointment</a></li>
-                            </ul>
-                        </aside>
-                        <!--// Widget Useful Link \\-->
+                </div>
+            </div>
+        </div>
+        <!--// Footer Widget \\-->
 
-                        <!--// Widget Newsletter \\-->
-                        <aside class="col-md-4 widget widget_newsletter">
-                            <h2 class="careplus-footer-title">Our Newsletter</h2>
-                            <p>Nunc ut volutpat ex. Morbi risus elit, mattis in mi ne mollis blandit erat.</p>
-                            <form>
-                                <ul>
-                                    <li><input value="Your Name" onblur="if(this.value == '') { this.value ='Your Name'; }" onfocus="if(this.value =='Your Name') { this.value = ''; }" tabindex="0" type="text"></li>
-                                    <li><input value="Your Email" onblur="if(this.value == '') { this.value ='Your Email'; }" onfocus="if(this.value =='Your Email') { this.value = ''; }" tabindex="0" type="email"></li>
-                                    <li><label><input type="submit" value="Subscribe"><span></span></label></li>
-                                </ul>
-                            </form>
-                        </aside>
-                        <!--// Widget Newsletter \\-->
-
+        <!--// Copy Right \\-->
+        <div class="Hepiq-C Project-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p><i class="fa fa-copyright"></i> 2018, All Right Reserved - by <a href="index-html.html">HEPIQ-C</a></p>
+                        <a href="#" class="Hepiq-C Project-back-top"><i class="fa fa-angle-up"></i></a>
+                        <ul class="Hepiq-C Project-footer-social">
+                            <li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+                            <li><a href="https://twitter.com/login" class="fa fa-twitter-square"></a></li>
+                            <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
+                            <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <!--// Footer Widget \\-->
-
-            <!--// Copy Right \\-->
-            <div class="careplus-copyright">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p><i class="fa fa-copyright"></i> 2017, All Right Reserved - by <a href="index-html.html">EyeCix</a></p>
-                            <a href="#" class="careplus-back-top"><i class="fa fa-angle-up"></i></a>
-                            <ul class="careplus-footer-social">
-                                <li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
-                                <li><a href="https://twitter.com/login" class="fa fa-twitter-square"></a></li>
-                                <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
-                                <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// Copy Right \\-->
+        </div>
+        <!--// Copy Right \\-->
 
 
-        </footer>
-        <!--// Footer \\-->
+    </footer>
+    <!--// Footer \\-->
 
 	<div class="clearfix"></div>
     </div>
@@ -661,7 +657,7 @@
     <div class="modal fade searchmodal" id="searchmodal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-body">
-                <a href="#" class="careplus-close-btn" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></a>
+                <a href="#" class="Hepiq-C Project-close-btn" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></a>
                 <form>
                     <input type="text" value="Type Your Keyword" onblur="if(this.value == '') { this.value ='Type Your Keyword'; }" onfocus="if(this.value =='Type Your Keyword') { this.value = ''; }">
                     <input type="submit" value="">
@@ -686,5 +682,5 @@
 
   </body>
 
-<!-- Mirrored from eyecix.com/html/careplus/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:50:12 GMT -->
+<!-- Mirrored from eyecix.com/html/Hepiq-C Project/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:50:12 GMT -->
 </html>
