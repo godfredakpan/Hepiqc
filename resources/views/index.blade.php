@@ -20,8 +20,6 @@
     <link href="/css/style.css" rel="stylesheet">
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
-    
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -85,7 +83,6 @@
                                       <ul class="nav navbar-nav">
                                         <li class="active"><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="{{url('/about')}}"> About</a>
-    
                                         </li>
                                         <li><a href="#">Projects</a>
                                             <ul class="careplus-dropdown-menu">
@@ -101,7 +98,6 @@
                                                         <li><a href="404.html">Long Term Training</a></li>
                                                     </ul>
                                                 </li>
-                                                
                                                 <li><a href="blog-large.html">Health Social Support</a>
                                                     <ul class="careplus-dropdown-menu">
                                                         <li><a href="404.html">Community Geriartric Services</a></li>
@@ -111,8 +107,6 @@
                                                 
                                             </ul>
                                         </li>
-                                        
-                                        
                                         
                                         <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
                                         </li>

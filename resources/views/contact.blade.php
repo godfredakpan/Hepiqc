@@ -110,10 +110,7 @@
                                                 </li>
                                                 
                                             </ul>
-                                        </li>
-                                        
-                                        
-                                        
+                                        </li>                                       
                                         <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
                                         </li>
                                       </ul>
