@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
+  
+<!-- Mirrored from eyecix.com/html/careplus/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:42:17 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CarePlus Blog Detail</title>
+    <title>Hepiq-C Project</title>
+    <!-- favicon -->
+    <link rel="icon" href="images/header-hepiqc.png" sizes="16x16" type="image/png">
 
     <!-- Css Files -->
     <link href="/css/bootstrap.css" rel="stylesheet">
@@ -18,10 +20,15 @@
     <link href="/css/style.css" rel="stylesheet">
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
-   
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
   <body>
-	
+    
     <!--// Main Wrapper \\-->
     <div class="careplus-main-wrapper">
 
@@ -30,31 +37,31 @@
             
             <!--// Main Header \\-->
             <div class="careplus-main-header">
-            <div class="container">
-                <div class="row">
-                    <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
-                    <aside class="col-md-9">
-                        <ul class="careplus-infolist">
-                            <li>
-                                <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
-                            </li>
-                            <li>
-                                <i class="careplus-bgcolor-two fa fa-clock-o"></i>
-                                <span>9:00 am - 05:00 am</span>
-                                <span>Monday - Friday</span>
-                            </li>
-                            <li>
-                                <i class="careplus-bgcolor-two fa fa-map-marker"></i>
-                                <span>3rd Floor, Federal Ministry of Health, Abuja </span>
-                            </li>
-                        </ul>
-                        
-                    </aside>
+                <div class="container">
+                    <div class="row">
+                        <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
+                        <aside class="col-md-9">
+                            <ul class="careplus-infolist">
+                                <li>
+                                    <i class="careplus-bgcolor-two fa fa-envelope"></i>
+                                    <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
+                                    <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                </li>
+                                <li>
+                                    <i class="careplus-bgcolor-two fa fa-clock-o"></i>
+                                    <span>9:00 am - 05:00 am</span>
+                                    <span>Monday - Friday</span>
+                                </li>
+                                <li>
+                                    <i class="careplus-bgcolor-two fa fa-map-marker"></i>
+                                    <span>3rd Floor, Federal Ministry of Health, Abuja </span>
+                                </li>
+                            </ul>
+                            
+                        </aside>
+                    </div>
                 </div>
             </div>
-        </div>
             <!--// Main Header \\-->
 
             <!--// Navigation Section \\-->
@@ -74,171 +81,40 @@
                                     </div>
                                     <div class="collapse navbar-collapse" id="navbar-collapse-1">
                                       <ul class="nav navbar-nav">
-                                        <li><a href="{{url('/')}}">Home</a></li>
-                                        <li><a href="#">Appointments</a>
+                                        <li class="active"><a href="{{url('/')}}">Home</a></li>
+                                        <li><a href="{{url('/about')}}"> About</a>
+                                        </li>
+                                        <li><a href="#">Projects</a>
                                             <ul class="careplus-dropdown-menu">
-                                                <li><a href="appointment.html">Time Table</a></li>
-                                                <li><a href="appointment-form.html">Appointment Booking</a></li>
+                                                <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
+                                                    <ul class="careplus-dropdown-menu">
+                                                        <li><a href="{{url('/project')}}">Clinical Research</a></li>
+                                                        <li><a href="{{url('/project')}}">Gerontology</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="{{url('/project')}}">Training of Health Workers</a>
+                                                    <ul class="careplus-dropdown-menu">
+                                                        <li><a href="{{url('/project')}}">Short Term Training</a></li>
+                                                        <li><a href="{{url('/project')}}">Long Term Training</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="blog-large.html">Health Social Support</a>
+                                                    <ul class="careplus-dropdown-menu">
+                                                        <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
+                                                        <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
+                                                    </ul>
+                                                </li>
+                                                
                                             </ul>
                                         </li>
-                                        <li class="active"><a href="#">Blogs</a>
-                                            <ul class="careplus-dropdown-menu">
-                                                <li><a href="blog-grid.html">Blog Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="blog-grid-wls.html">Blog Grid W/L/S</a></li>
-                                                        <li><a href="blog-grid-wrs.html">Blog Grid W/R/S</a></li>
-                                                        <li><a href="blog-grid.html">Blog Grid W/O/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="blog-modern.html">Blog Modern</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="blog-modern-wls.html">Blog Modern W/L/S</a></li>
-                                                        <li><a href="blog-modern-wrs.html">Blog Modern W/R/S</a></li>
-                                                        <li><a href="blog-modern.html">Blog Modern W/O/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="blog-medium.html">Blog Medium</a></li>
-                                                <li><a href="blog-large.html">Blog Large</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="blog-large.html">Blog Large W/R/S</a></li>
-                                                        <li><a href="blog-large-wls.html">Blog Large W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="{{url('/blog')}}">Blog Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="{{url('/blog')}}">Blog Detail W/R/S</a></li>
-                                                        <li><a href="blog-detail-wls.html">Blog Detail W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="careplus-megamenu-li"><a href="#">Pages</a>
-                                            <ul class="careplus-megamenu">
-                                                <li class="row">
-                                                    <div class="col-md-2">
-                                                        <h4>Link 1</h4>
-                                                        <ul class="careplus-megalist">
-                                                            <li><a href="team-grid.html">Team Grid W/O/S</a></li>
-                                                            <li><a href="team-grid-wls.html">Team Grid W/L/S</a></li>
-                                                            <li><a href="team-grid-wrs.html">Team Grid W/R/S</a></li>
-                                                            <li><a href="team-grid-wof.html">Team Grid W/O/F</a></li>
-                                                            <li><a href="{{url('/team')}}">Team List</a></li>
-                                                            <li><a href="team-list-wls.html">Team List W/L/S</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-2">
-                                                        <h4>Link 2</h4>
-                                                        <ul class="careplus-megalist">
-                                                            <li><a href="team-medium.html">Team Medium W/O/S</a></li>
-                                                            <li><a href="team-medium-wls.html">Team Medium W/L/S</a></li>
-                                                            <li><a href="team-medium-wrs.html">Team Medium W/R/S</a></li>
-                                                            <li><a href="team-detail-wls.html">Team Detail W/L/S</a></li>
-                                                            <li><a href="team-detail.html">Team Detail</a></li>
-                                                            <li><a href="pricing-plan.html">Pricing Plan</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-2">
-                                                        <h4>Link 3</h4>
-                                                        <ul class="careplus-megalist">
-                                                            <li><a href="gallery.html">Gallery</a></li>
-                                                            <li><a href="gallery-view-two.html">Gallery View 2</a></li>
-                                                            <li><a href="testimonial.html">Testimonial</a></li>
-                                                            <li><a href="{{url('/about')}}">About Us</a></li>
-                                                            <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <a href="#" class="careplus-thumbnail">
-                                                            <img src="extra-images/megamenu-frame.jpg" alt="">
-                                                        </a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Departments</a>
-                                            <ul class="careplus-dropdown-menu">
-                                                <li><a href="department-grid.html">Department Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="department-grid.html">Department Grid W/O/S</a></li>
-                                                        <li><a href="department-grid-wls.html">Department Grid W/L/S</a></li>
-                                                        <li><a href="department-grid-wrs.html">Department Grid W/R/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="department-list.html">Department List</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="department-list-wrs.html">Department List W/R/S</a></li>
-                                                        <li><a href="department-list-wls.html">Department List W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="department-detail.html">Department Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="department-detail.html">Department Detail W/R/S</a></li>
-                                                        <li><a href="department-detail-wls.html">Department Detail W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Our Shop</a>
-                                            <ul class="careplus-dropdown-menu">
-                                                <li><a href="shop-grid.html">Shop Grid</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="shop-grid.html">Shop Grid W/O/S</a></li>
-                                                        <li><a href="shop-grid-wls.html">Shop Grid W/L/S</a></li>
-                                                        <li><a href="shop-grid-wrs.html">Shop Grid W/R/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="shop-list.html">Shop List</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="shop-list-wrs.html">Shop List W/R/S</a></li>
-                                                        <li><a href="shop-list-wls.html">Shop List W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="shop-detail.html">Shop Detail</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="shop-detail.html">Shop Detail W/R/S</a></li>
-                                                        <li><a href="shop-detail-wls.html">Shop Detail W/L/S</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="careplus-megamenu-li"><a href="#">Contact us</a>
-                                            <ul class="careplus-megamenu">
-                                                <li class="row">
-                                                    <div class="col-md-2">
-                                                        <h4>Links 1</h4>
-                                                        <ul class="careplus-megalist">
-                                                            <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
-                                                            <li><a href="search-result.html">Search Result</a></li>
-                                                            <li><a href="search-result-wls.html">Search Result W/L/S</a></li>
-                                                            <li><a href="{{url('/contact')}}">Contact Us</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <h4>Docter text</h4>
-                                                        <div class="careplus-mega-text">
-                                                            <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love.</p>
-                                                            <p>If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <h4>sub category widget</h4>
-                                                        <a href="#" class="careplus-thumbnail">
-                                                            <img src="extra-images/mega-menuadd.jpg" alt="" />
-                                                        </a>
-                                                    </div>
-                                                </li>
-                                            </ul>
+                                        
+                                        <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
                                         </li>
                                       </ul>
                                     </div>
                                 </nav>
                                 <ul class="careplus-user-list">
                                     <li><a href="#" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
-                                    <li><a href="#" class="careplus-color-two fa fa-shopping-cart"></a>
-                                        <div class="careplus-cart-box"> <p>No products in the cart.</p> </div>
-                                    </li>
                                 </ul>
                             </div>
                         </div>

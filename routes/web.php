@@ -35,3 +35,9 @@ Route::get('/blog', function()
     return View::make('blog');
     
 });
+
+Route::get('/project', function()
+{
+    return View::make('project');
+    
+});
