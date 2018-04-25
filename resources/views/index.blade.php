@@ -86,22 +86,22 @@
                                         </li>
                                         <li><a href="#">Projects</a>
                                             <ul class="careplus-dropdown-menu">
-                                                <li><a href="404.html">Research on the Ageing Population</a>
+                                                <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Clinical Research</a></li>
-                                                        <li><a href="404.html">Gerontology</a></li>
+                                                        <li><a href="{{url('/project')}}">Clinical Research</a></li>
+                                                        <li><a href="{{url('/project')}}">Gerontology</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="404.html">Training of Health Workers</a>
+                                                <li><a href="{{url('/project')}}">Training of Health Workers</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Short Term Training</a></li>
-                                                        <li><a href="404.html">Long Term Training</a></li>
+                                                        <li><a href="{{url('/project')}}">Short Term Training</a></li>
+                                                        <li><a href="{{url('/project')}}">Long Term Training</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="blog-large.html">Health Social Support</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Community Geriartric Services</a></li>
-                                                        <li><a href="404.html">Resource Mobilization</a></li>
+                                                        <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
+                                                        <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
                                                     </ul>
                                                 </li>
                                                 
@@ -290,7 +290,7 @@
                                           Provides training for the healthcare workforce on care for elderly Nigerians.                                  
                                     </li>
                                 </ul>
-                                <a href="404.html" class="careplus-readmore-btn">Learn More <span></span></a>
+                                <a href="{{url('/project')}}" class="careplus-readmore-btn">Learn More <span></span></a>
                             </div>
                         </div>
 
@@ -328,7 +328,7 @@
                                                         <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
                                                         <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
                                                     </ul>
-                                                    <a href="404.html" class="careplus-readmore-btn">read more <span></span></a>
+                                                    <a href="{{url('/project')}}" class="careplus-readmore-btn">read more <span></span></a>
                                                 </div>
                                             </figcaption>
                                         </figure>
@@ -350,7 +350,7 @@
                                                         <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
                                                         <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
                                                     </ul>
-                                                    <a href="404.html" class="careplus-readmore-btn">read more <span></span></a>
+                                                    <a href="{{url('/project')}}" class="careplus-readmore-btn">read more <span></span></a>
                                                 </div>
                                             </figcaption>
                                         </figure>
@@ -372,7 +372,7 @@
                                                         <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
                                                         <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
                                                     </ul>
-                                                    <a href="404.html" class="careplus-readmore-btn">read more <span></span></a>
+                                                    <a href="{{url('/project')}}" class="careplus-readmore-btn">read more <span></span></a>
                                                 </div>
                                             </figcaption>
                                         </figure>
@@ -394,7 +394,7 @@
                                                         <li><a href="https://pk.linkedin.com/" class="fa fa-linkedin-square"></a></li>
                                                         <li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
                                                     </ul>
-                                                    <a href="404.html" class="careplus-readmore-btn">read more <span></span></a>
+                                                    <a href="{{url('/project')}}" class="careplus-readmore-btn">read more <span></span></a>
                                                 </div>
                                             </figcaption>
                                         </figure>

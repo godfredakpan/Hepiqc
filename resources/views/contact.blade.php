@@ -89,23 +89,23 @@
                                         </li>
                                         <li><a href="{{url('/#')}}">Projects</a>
                                             <ul class="careplus-dropdown-menu">
-                                                <li><a href="404.html">Research on the Ageing Population</a>
+                                                <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Clinical Research</a></li>
-                                                        <li><a href="404.html">Gerontology</a></li>
+                                                        <li><a href="{{url('/project')}}">Clinical Research</a></li>
+                                                        <li><a href="{{url('/project')}}">Gerontology</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="#">Training of Health Workers</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Short Term Training</a></li>
-                                                        <li><a href="404.html">Long Term Training</a></li>
+                                                        <li><a href="{{url('/project')}}">Short Term Training</a></li>
+                                                        <li><a href="{{url('/project')}}">Long Term Training</a></li>
                                                     </ul>
                                                 </li>
                                                 
                                                 <li><a href="#">Health Social Support</a>
                                                     <ul class="careplus-dropdown-menu">
-                                                        <li><a href="404.html">Community Geriartric Services</a></li>
-                                                        <li><a href="404.html">Resource Mobilization</a></li>
+                                                        <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
+                                                        <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
                                                     </ul>
                                                 </li>
                                                 
@@ -117,7 +117,7 @@
                                     </div>
                                 </nav>
                                 <ul class="careplus-user-list">
-                                    <li><a href="404.html" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
+                                    <li><a href="{{url('/project')}}" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
                                 </ul>
                             </div>
                         </div>
