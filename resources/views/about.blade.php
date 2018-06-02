@@ -167,7 +167,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="careplus-about-service">
-                                <h2>Well Come To <span>Care Plus</span></h2>
+                                <h2>Well Come To <span>Hepiqc</span></h2>
                                 <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et eleme ntum nulla, eu placerat felis. </h6>
                                 <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Cur abitur ultrices ligula eu libero pellentesque feugiat. Etiam rhoncus leo in lig ula egestas aliquam. Praesent dui urna, volutpat a finibus nec, tristique ull amcorper nisi.</p>
                                 <ul class="careplus-about-service-list">

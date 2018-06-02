@@ -152,7 +152,7 @@
                                                             <li><a href="testimonial.html">Testimonial</a></li>
                                                             <li><a href="{{url('/about')}}">About Us</a></li>
                                                             <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="404.html">404 Error Page</a></li>
+                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-6">
@@ -216,7 +216,7 @@
                                                         <h4>Links 1</h4>
                                                         <ul class="careplus-megalist">
                                                             <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="404.html">404 Error Page</a></li>
+                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
                                                             <li><a href="search-result.html">Search Result</a></li>
                                                             <li><a href="search-result-wls.html">Search Result W/L/S</a></li>
                                                             <li><a href="{{url('/contact')}}">Contact Us</a></li>
@@ -434,12 +434,12 @@
                             <div class="careplus-widget-heading"><h2>Departments</h2></div>
                             <div class="widget widget_department">
                                 <ul>
-                                    <li><a href="404.html"><i class="icon-medical-3"></i></a></li>
-                                    <li><a href="404.html"><i class="icon-medical-4"></i></a></li>
-                                    <li><a href="404.html"><i class="icon-eye3"></i></a></li>
-                                    <li><a href="404.html"><i class="icon-medical-5"></i></a></li>
-                                    <li><a href="404.html"><i class="icon-medical-6"></i></a></li>
-                                    <li><a href="404.html"><i class="icon-medical-3"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-medical-3"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-medical-4"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-eye3"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-medical-5"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-medical-6"></i></a></li>
+                                    <li><a href="{{url('/project')}}"><i class="icon-medical-3"></i></a></li>
                                 </ul>
                             </div>
 
@@ -449,12 +449,12 @@
                             <div class="careplus-widget-heading"><h2>Our Cetagories</h2></div>
                             <div class="widget widget_cetagories">
                               <ul>
-                                 <li><a href="404.html">Blood Donors <span>(12)</span></a></li>
-                                 <li><a href="404.html">Emergency Care <span>(08)</span></a></li>
-                                 <li><a href="404.html">Surgical Experts <span>(12)</span></a></li>
-                                 <li><a href="404.html">General Medicine <span>(08)</span></a></li>
-                                 <li><a href="404.html">Doctors Community <span>(12)</span></a></li>
-                                 <li><a href="404.html">Emergency Care <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">Blood Donors <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">Emergency Care <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">Surgical Experts <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">General Medicine <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">Doctors Community <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">Emergency Care <span>(08)</span></a></li>
                               </ul>
                             </div>
                             <!--// Widget archive \\-->
@@ -506,12 +506,12 @@
                             <div class="careplus-widget-heading"><h2>Calendar Archieves</h2></div>
                             <div class="widget widget_cetagories">
                               <ul>
-                                 <li><a href="404.html">August 2017 <span>(12)</span></a></li>
-                                 <li><a href="404.html">September 2017 <span>(08)</span></a></li>
-                                 <li><a href="404.html">October 2017 <span>(12)</span></a></li>
-                                 <li><a href="404.html">November 2017 <span>(08)</span></a></li>
-                                 <li><a href="404.html">January 2018 <span>(12)</span></a></li>
-                                 <li><a href="404.html">February 2018 <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">August 2017 <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">September 2017 <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">October 2017 <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">November 2017 <span>(08)</span></a></li>
+                                 <li><a href="{{url('/project')}}">January 2018 <span>(12)</span></a></li>
+                                 <li><a href="{{url('/project')}}">February 2018 <span>(08)</span></a></li>
                               </ul>
                             </div>
                             <!--// Widget archive \\-->

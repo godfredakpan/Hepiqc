@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from eyecix.com/html/careplus/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:03 GMT -->
+<!-- Mirrored from eyecix.com/html/careplus/{{url('/project')}} by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:03 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -152,7 +152,7 @@
                                                             <li><a href="testimonial.html">Testimonial</a></li>
                                                             <li><a href="{{url('/about')}}">About Us</a></li>
                                                             <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="404.html">404 Error Page</a></li>
+                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-6">
@@ -216,7 +216,7 @@
                                                         <h4>Links 1</h4>
                                                         <ul class="careplus-megalist">
                                                             <li><a href="faq.html">Faq</a></li>
-                                                            <li><a href="404.html">404 Error Page</a></li>
+                                                            <li><a href="{{url('/project')}}">404 Error Page</a></li>
                                                             <li><a href="search-result.html">Search Result</a></li>
                                                             <li><a href="search-result-wls.html">Search Result W/L/S</a></li>
                                                             <li><a href="{{url('/contact')}}">Contact Us</a></li>
@@ -346,18 +346,18 @@
                         <aside class="col-md-4 widget widget_useful_link">
                             <h2 class="careplus-footer-title">Useful Links</h2>
                             <ul>
-                                <li><a href="404.html">Dental</a></li>
-                                <li><a href="404.html">Cardiology</a></li>
-                                <li><a href="404.html">Nuclear Magnetic</a></li>
-                                <li><a href="404.html">Hourly Care</a></li>
-                                <li><a href="404.html">Pregnancy</a></li>
-                                <li><a href="404.html">Respite Care</a></li>
-                                <li><a href="404.html">For Disabled</a></li>
-                                <li><a href="404.html">Insurance Claim</a></li>
-                                <li><a href="404.html">Prostheses</a></li>
-                                <li><a href="404.html">Patient Reports</a></li>
-                                <li><a href="404.html">Traumatology</a></li>
-                                <li><a href="404.html">Appointment</a></li>
+                                <li><a href="{{url('/project')}}">Dental</a></li>
+                                <li><a href="{{url('/project')}}">Cardiology</a></li>
+                                <li><a href="{{url('/project')}}">Nuclear Magnetic</a></li>
+                                <li><a href="{{url('/project')}}">Hourly Care</a></li>
+                                <li><a href="{{url('/project')}}">Pregnancy</a></li>
+                                <li><a href="{{url('/project')}}">Respite Care</a></li>
+                                <li><a href="{{url('/project')}}">For Disabled</a></li>
+                                <li><a href="{{url('/project')}}">Insurance Claim</a></li>
+                                <li><a href="{{url('/project')}}">Prostheses</a></li>
+                                <li><a href="{{url('/project')}}">Patient Reports</a></li>
+                                <li><a href="{{url('/project')}}">Traumatology</a></li>
+                                <li><a href="{{url('/project')}}">Appointment</a></li>
                             </ul>
                         </aside>
                         <!--// Widget Useful Link \\-->
@@ -437,5 +437,5 @@
 
   </body>
 
-<!-- Mirrored from eyecix.com/html/careplus/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:03 GMT -->
+<!-- Mirrored from eyecix.com/html/careplus/{{url('/project')}} by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:03 GMT -->
 </html>
