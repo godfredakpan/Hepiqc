@@ -327,6 +327,10 @@
                         </div>
                         <div class="careplus-partners">
                             <ul>
+                              <li>
+                                    <figure><a href="https://otrac.ng" target="_blank"><img src="extra-images/gavi.png" alt=""></a> <span>Otrac</span></figure>
+                                </li>
+
                                 <li>
                                     <figure><a href="http://www.gavi.org" target="_blank"><img src="extra-images/gavi.png" alt=""></a> <span>GAVI Alliance</span></figure>
                                 </li>
@@ -349,7 +353,7 @@
         <!--// Main Section \\-->
             
         </div>
-        <!--// Main Content \\-->
+    <!--// Main Content \\-->
 
         <!--// Footer \\-->
         <footer id="careplus-footer" class="careplus-footer-one">

@@ -664,41 +664,44 @@
             </div>
             <!--// Main Section \\-->
 
-            <!--// Main Section \\-->
+           <!--// Main Section \\-->
             <div class="careplus-main-section careplus-partner-full">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="careplus-fancy-title">
-                                <h2>Our Partners</h2>
-                                <span><small></small><i class="icon-tool5"></i></span>
-                            </div>
-                            <div class="careplus-partners">
-                                <ul>
-                                    <li>
-                                        <figure><a href="http://www.gavi.org" target="_blank"><img src="extra-images/gavi.png" alt=""></a> <span>GAVI Alliance</span></figure>
-                                    </li>
-                                    <li>
-                                        <figure><a href="https://www.bcu.ac.uk" target="_blank"><img src="extra-images/bcu.png" alt=""></a> <span>BCU</span></figure>
-                                    </li>
-                                    <li>
-                                        <figure><a href="http://www.health.gov.ng" target="_blank"><img src="extra-images/fmh.png" style="width: 150" alt=""></a> <span>FMOH</span></figure>
-                                    </li>
-                                    
-                                    <li>
-                                        <figure><a href="https://who.int" target="_blank"><img src="extra-images/who.png" alt=""></a> <span>WHO</span></figure>
-                                    </li>
-                                </ul>
-                            </div>
+                            <h2>Our Partners</h2>
+                            <span><small></small><i class="icon-tool5"></i></span>
+                        </div>
+                        <div class="careplus-partners">
+                            <ul>
+                              <li>
+                                    <figure><a href="https://otrac.ng" target="_blank"><img src="extra-images/gavi.png" alt=""></a> <span>Otrac</span></figure>
+                                </li>
+
+                                <li>
+                                    <figure><a href="http://www.gavi.org" target="_blank"><img src="extra-images/gavi.png" alt=""></a> <span>GAVI Alliance</span></figure>
+                                </li>
+                                <li>
+                                    <figure><a href="https://www.bcu.ac.uk" target="_blank"><img src="extra-images/bcu.png" alt=""></a> <span>BCU</span></figure>
+                                </li>
+                                <li>
+                                    <figure><a href="http://www.health.gov.ng" target="_blank"><img src="extra-images/fmh.png" style="width: 150" alt=""></a> <span>FMOH</span></figure>
+                                </li>
+                                
+                                <li>
+                                    <figure><a href="https://who.int" target="_blank"><img src="extra-images/who.png" alt=""></a> <span>WHO</span></figure>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
-            <!--// Main Section \\-->
-
-           
-		</div>
-		<!--// Main Content \\-->
+        </div>
+        <!--// Main Section \\-->
+            
+        </div>
+        <!--// Main Content \\-->
 
         <!--// Footer \\-->
         <footer id="careplus-footer" class="careplus-footer-one">
