@@ -676,7 +676,7 @@
                         <div class="careplus-partners">
                             <ul>
                               <li>
-                                    <figure><a href="https://otrac.ng" target="_blank"><img src="extra-images/otrac.jpg" alt=""></a> <span>Otrac</span></figure>
+                                    <figure><a href="https://otrac.ng" target="_blank"><img src="extra-images/otrac.png" alt=""></a> <span>Otrac</span></figure>
                                 </li>
 
                                 <li>
