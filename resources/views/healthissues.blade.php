@@ -171,7 +171,6 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="careplus-about-service">
-                                <p>
                               <strong><h3>Health Issues</h3> </strong>
                           </p>
                           <ul>
