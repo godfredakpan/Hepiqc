@@ -44,8 +44,8 @@
                             <ul class="careplus-infolist">
                                 <li>
                                     <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                    <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                    <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                    <a href="mailto:aidu@hepiqc.com">saidu@hepiqc.com</a>
+                                    <a href="info@hepiqc.com"> info@hepiqc.com</a>
                                 </li>
                                 <li>
                                     <i class="careplus-bgcolor-two fa fa-clock-o"></i>
@@ -161,7 +161,9 @@
                                 <div class="col-md-12">
                                     <div class="careplus-banner-wrap">
                                         <h1><span>You Can’t</span>Always Be There<span>But We CAn</span></h1>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed entum nulla, eu placerat felis. Etiam tincidunt orci lacus is dolor fermentum sit amet.</p>
+                                        <p>“Every senior citizen deserves provision of health insurance in a bid to achieve universal health coverage”,
+                                        “Vaccination for the aged is an important and cost-effective public health intervention”,
+                                        </p>
                                         <div class="clearfix"></div>
                                         <a href="{{url('/about')}}" class="careplus-banner-btn">Read More <span></span></a>
                                     </div>
@@ -435,33 +437,36 @@
                                     </div>
                                     <div class="careplus-tabs-text">
                                         <div class="careplus-images-thumb-layer">
-                                            <h4>Health and Safety</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
+                                            <h4>Arthritis</h4>
+                                            <p>Arthritis is very common but is not well understood. Actually, “arthritis” is not a single disease; it is an informal way of referring to joint pain or joint disease. There are more than 100 different types of arthritis and related conditions. People of all ages, sexes and races can and do have arthritis. It is most common among women and occurs more frequently as people get older.</p>
+
+                                            <p>Common arthritis joint symptoms include swelling, pain, stiffness and decreased range of motion. Symptoms may come and go. They can be mild, moderate or severe. They may stay about the same for years, but may progress or get worse over time. Severe arthritis can result in chronic pain, inability to do daily activities and make it difficult to walk or climb stairs. Arthritis can cause permanent joint changes. These changes may be visible, such as knobby finger joints, but often the damage can only be seen on X-ray. Some types of arthritis also affect the heart, eyes, lungs, kidneys and skin as well as the joints.
+                                            There are different types of arthritis:</p>
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
-                                            <h4>Cognitive Health</h4>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            
+                                            <h4> Diabetes mellitus</h4>
+                                            <p>
+                                            Diabetes mellitus
+                                            Diabetes mellitus is a disease that prevents your body from properly using the energy from the food you eat</p>
+                                                                                        
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Mental Health</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
+                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
+                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Chronic Health Conditions</h4>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
+                                           <!--  <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p> -->
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Occupational Health</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
+                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
+                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
                                             
                                         </div>
                                         
