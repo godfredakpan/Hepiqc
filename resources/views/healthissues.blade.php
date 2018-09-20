@@ -48,8 +48,8 @@
                                <ul class="careplus-infolist">
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                       <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                       <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                       <a href="mailto:saidu@hepiqc.com">saidu@hepiqc.com</a>
+                                       <a href="mailto:info@hepiqc.com"> info@hepiqc.com</a>
                                    </li>
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-clock-o"></i>
@@ -242,37 +242,37 @@
                         <ul style="list-style: none;">
                               <li>
                                  
-                                      balancing activity with rest
+                                      Balancing activity with rest
                                 
                               </li>
                               <li>
                                 
-                                      using hot and cold therapies
+                                      Using hot and cold therapies
                                  
                               </li>
                               <li>
                                
-                                      regular physical activity
+                                      Regular physical activity
                                 
                               </li>
                               <li>
                                  
-                                      maintaining a healthy weight
+                                      Maintaining a healthy weight
                                   
                               </li>
                               <li>
                                  
-                                      strengthening the muscles around the joint for added support
+                                      Strengthening the muscles around the joint for added support
                                
                               </li>
                               <li>
                                
-                                      using assistive devices
+                                      Using assistive devices
                                  
                               </li>
                               <li>
                                 
-                                      taking over-the-counter (OTC) pain relievers or anti-inflammatory
+                                      Taking over-the-counter (OTC) pain relievers or anti-inflammatory
                                       medicines
                                   
                               </li>
