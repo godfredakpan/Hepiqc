@@ -18,7 +18,10 @@
     <link href="/css/style.css" rel="stylesheet">
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
-    
+        ul {
+  list-style: none !important;
+	}
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -168,38 +171,26 @@
                         <div class="col-md-12">
                             <div class="careplus-about-service">
                                 <p>
-                              <strong>Health Issues </strong>
+                              <strong><h3>Health Issues</h3> </strong>
                           </p>
                           <ul>
-                              <li>
-                                  <p>
-                                      Arthritis
-                                  </p>
+                              <li>Arthritis
+                                
                               </li>
                               <li>
-                                  <p>
-                                      Diabetes Mellitus
-                                  </p>
+                                Diabetes Mellitus
                               </li>
                               <li>
-                                  <p>
-                                      Heart Attack
-                                  </p>
+                                 Heart Attack
                               </li>
                               <li>
-                                  <p>
-                                      Hypertension
-                                  </p>
+                                Hypertension
                               </li>
                               <li>
-                                  <p>
-                                      Prostate cancer
-                                  </p>
+                                Prostate cancer
                               </li>
                               <li>
-                                  <p>
-                                      Glaucoma and Cataract
-                                  </p>
+                               Glaucoma and Cataract
                               </li>
                           </ul>
                           <p>
