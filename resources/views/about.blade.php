@@ -18,7 +18,7 @@
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
     <style>
-    ul {
+    ul, li {
   list-style: none !important;
 	}
     </style>
