@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from eyecix.com/html/careplus/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -44,8 +43,8 @@
                                <ul class="careplus-infolist">
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                       <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                       <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                       <a href="mailto:saidu@hepiqc.com">saidu@hepiqc.com</a>
+                                       <a href="mailto:info@hepiqc.com"> info@hepiqc.com</a>
                                    </li>
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-clock-o"></i>
@@ -169,7 +168,7 @@
                             <div class="careplus-about-service">
                                 <h2>Well Come To <span>Hepiqc</span></h2>
                                 <h6>HEPIQ-C is an Initiative of President Muhammadu Buhari’s Administration which was born out of the quest to improve the quality of healthcare for the aging population. </h6>
-                                <p>Prior to this time, there is relatively low commitment to healthy aging compared to other health interventions in Nigeria and across the African continent as a whole. Therefore, the need for a project on healthy aging is very imminent at the moment of global trending on healthcare for the aging population. This is in line with the global action strategy on health and aging (2016-2020). This Initiative has developed healthy ageing policies, strategic documents and frameworks. It is a drive with focus on improving health outcomes of Nigerian senior citizens, through performance-based project execution leading to system strengthening of the Nigeria’s  basic health care services and setting a model worth emulating by other African countries. With this target approach, with Hepiq-C Project, Nigeria will improve the quality of lives of about 18 million elderly population and their economic growth subsequently.</p>
+                                <p style="text-align: justify;">Prior to this time, there is relatively low commitment to healthy aging compared to other health interventions in Nigeria and across the African continent as a whole. Therefore, the need for a project on healthy aging is very imminent at the moment of global trending on healthcare for the aging population. This is in line with the global action strategy on health and aging (2016-2020). This Initiative has developed healthy ageing policies, strategic documents and frameworks. It is a drive with focus on improving health outcomes of Nigerian senior citizens, through performance-based project execution leading to system strengthening of the Nigeria’s  basic health care services and setting a model worth emulating by other African countries. With this target approach, with Hepiq-C Project, Nigeria will improve the quality of lives of about 18 million elderly population and their economic growth subsequently.</p>
                                 <ul class="careplus-about-service-list">
 
                                   <li><h3>Core Elements</h3></li>
@@ -193,7 +192,7 @@
                                 </ul>
                                 <ul class="careplus-about-service-list">
 
-                                  <li><h3>Objectives</h3></li>
+                                  <h3>Objectives</h3><br>
 
                                     <li>
                                         <h6><i class="fa fa-heart-o"></i>1</h6>
@@ -224,7 +223,7 @@
                     </div>
                   <div class="col-md-12">
                     <ul>
-                      <h3>Project Components</h3>
+                      <h3>Project Components</h3><br>
                       <p>The “HEPIQ-C Project” is aimed at addressing the fundamental pillars that ensures healthy aging through significant reduction of the leading causes of morbidity and mortality of the aged in Nigeria.The Initiative comprises of 4 components. Within each component, ambitious goals have been set, namely: </p>
                   <li>
                     <h6>A) Clinical care:</h6>
@@ -308,7 +307,7 @@
                 <div class="container">
                     <div class="col-md-12">
                         <div class="careplus-fancy-title">
-                            <h2>Meet Our Specialists</h2>
+                            <h2>Meet Our Team</h2>
                             <span><small></small><i class="icon-tool5"></i></span>
                         </div>
                         <div class="careplus-team careplus-team-modern">
@@ -542,5 +541,4 @@
 
   </body>
 
-<!-- Mirrored from eyecix.com/html/careplus/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:03 GMT -->
 </html>
