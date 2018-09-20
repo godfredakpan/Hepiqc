@@ -41,3 +41,9 @@ Route::get('/project', function()
     return View::make('project');
     
 });
+
+Route::get('/healthissues', function()
+{
+    return View::make('healthissues');
+    
+});
