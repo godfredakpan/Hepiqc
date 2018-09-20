@@ -28,7 +28,7 @@
     <![endif]-->
   </head>
   <body>
-	
+  
     <!--// Main Wrapper \\-->
     <div class="careplus-main-wrapper">
 
@@ -84,7 +84,7 @@
                                         <li class="active"><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="{{url('/about')}}"> About</a>
                                         </li>
-					 <li><a href="{{url('healthissues')}}"> Health Issues</a>
+           <li><a href="{{url('healthissues')}}"> Health Issues</a>
    
                                        </li>
                                         <li><a href="#">Projects</a>
@@ -129,8 +129,8 @@
         </header>
         <!--// Header \\-->
 
-		<!--// Main Banner \\-->
-		<div class="careplus-banner">
+    <!--// Main Banner \\-->
+    <div class="careplus-banner">
 
             <!--// Slider \\-->
             <div class="careplus-banner-one">
@@ -180,17 +180,17 @@
             <!--// Slider \\-->
             
         </div>
-		<!--// Main Banner \\-->
+    <!--// Main Banner \\-->
 
-		<!--// Main Content \\-->
-		<div class="careplus-main-content">
+    <!--// Main Content \\-->
+    <div class="careplus-main-content">
 
-			<!--// Main Section \\-->
-			<div class="careplus-main-section careplus-services-full">
-				<div class="container">
-					<div class="row">
-						
-						<div class="col-md-12">
+      <!--// Main Section \\-->
+      <div class="careplus-main-section careplus-services-full">
+        <div class="container">
+          <div class="row">
+            
+            <div class="col-md-12">
                             <div class="careplus-fancy-title">
                                 <h2>What We Do</h2>
                                 <span><small></small><i class="icon-tool5"></i></span>
@@ -257,10 +257,10 @@
                             </div>
                         </div>
 
-					</div>
-				</div>
-			</div>
-			<!--// Main Section \\-->
+          </div>
+        </div>
+      </div>
+      <!--// Main Section \\-->
 
              
 
@@ -536,7 +536,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img1.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                                <!-- <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -546,7 +546,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img2.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                               <!--  <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -556,7 +556,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img3.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                     <!--            <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -566,7 +566,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img4.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                                <!-- <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -576,7 +576,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img5.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                                <!-- <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -586,7 +586,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img6.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                             <!--    <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -596,7 +596,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img7.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                               <!--  <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -606,7 +606,7 @@
                                             <span></span>
                                             <figcaption>
                                                 <a data-fancybox-group="group" href="extra-images/modern-gallery-img8.jpg" class="fancybox fa fa-arrows"></a>
-                                                <h6>Lorem ipsum dolo si amet, consect</h6>
+                                              <!--   <h6>Lorem ipsum dolo si amet, consect</h6> -->
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -639,7 +639,7 @@
                                         </figure>
                                         <div class="careplus-blog-modern-text">
                                             <h5><a href="{{url('/blog')}}">How To Build a Long Distance Care Team</a></h5>
-                                            <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p>
+                                            <!-- <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p> -->
                                             <a href="blog-detail.html" class="careplus-readmore-btn">Read More <span></span></a>
                                         </div>
                                     </li>
@@ -649,7 +649,7 @@
                                         </figure>
                                         <div class="careplus-blog-modern-text">
                                             <h5><a href="{{url('/blog')}}">How To Build a Long Distance Care Team</a></h5>
-                                            <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p>
+                                            <!-- <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p> -->
                                             <a href="blog-detail.html" class="careplus-readmore-btn">Read More <span></span></a>
                                         </div>
                                     </li>
@@ -659,7 +659,7 @@
                                         </figure>
                                         <div class="careplus-blog-modern-text">
                                             <h5><a href="{{url('/blog')}}">How To Build a Long Distance Care Team</a></h5>
-                                            <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p>
+                                            <!-- <p>Lorem ipsum dolor sit amet, constetur ad iscing elit. Sed et elementum nua, eu pla at felis. Etiam tincidunt orci lacus.</p> -->
                                             <a href="blog-detail.html" class="careplus-readmore-btn">Read More <span></span></a>
                                         </div>
                                     </li>
@@ -797,7 +797,7 @@
         </footer>
         <!--// Footer \\-->
 
-	<div class="clearfix"></div>
+  <div class="clearfix"></div>
     </div>
     <!--// Main Wrapper \\-->
 
@@ -817,8 +817,8 @@
 
 
 
-	<!-- jQuery (necessary for JavaScript plugins) -->
-	<script type="text/javascript" src="script/jquery.js"></script>
+  <!-- jQuery (necessary for JavaScript plugins) -->
+  <script type="text/javascript" src="script/jquery.js"></script>
     <script type="text/javascript" src="script/bootstrap.min.js"></script>
     <script type="text/javascript" src="script/slick.slider.min.js"></script>
     <script type="text/javascript" src="script/isotope.min.js"></script>
