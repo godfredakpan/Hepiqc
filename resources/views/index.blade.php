@@ -84,6 +84,9 @@
                                         <li class="active"><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="{{url('/about')}}"> About</a>
                                         </li>
+					 <li><a href="{{url('healthissues')}}"> Health Issues</a>
+   
+                                       </li>
                                         <li><a href="#">Projects</a>
                                             <ul class="careplus-dropdown-menu">
                                                 <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
