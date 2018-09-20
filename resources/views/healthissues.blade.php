@@ -173,7 +173,7 @@
                             <div class="careplus-about-service">
                               <strong><h3>Health Issues</h3> </strong>
                           </p>
-                          <ul>
+                          <ul style="list-style: none;">
                               <li>Arthritis
                                 
                               </li>
@@ -236,47 +236,46 @@
                               When the joint symptoms of osteoarthritis are mild or moderate, they can be
                               managed by:
                           </p>
-                          <ul>
+                        <ul style="list-style: none;">
                               <li>
-                                  <p>
+                                 
                                       balancing activity with rest
-                                  </p>
+                                
                               </li>
                               <li>
-                                  <p>
+                                
                                       using hot and cold therapies
-                                  </p>
+                                 
                               </li>
                               <li>
-                                  <p>
+                               
                                       regular physical activity
-                                  </p>
+                                
                               </li>
                               <li>
-                                  <p>
+                                 
                                       maintaining a healthy weight
-                                  </p>
+                                  
                               </li>
                               <li>
-                                  <p>
+                                 
                                       strengthening the muscles around the joint for added support
-                                  </p>
+                               
                               </li>
                               <li>
-                                  <p>
+                               
                                       using assistive devices
-                                  </p>
+                                 
                               </li>
                               <li>
-                                  <p>
+                                
                                       taking over-the-counter (OTC) pain relievers or anti-inflammatory
                                       medicines
-                                  </p>
+                                  
                               </li>
                               <li>
-                                  <p>
-                                      avoiding excessive repetitive movements
-                                  </p>
+                                  
+                               
                               </li>
                           </ul>
                           <p>
