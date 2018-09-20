@@ -138,7 +138,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h1>About Us</h1>
-                            <span>Aliquam in elit vel eros tincidunt pulvinar sit amet</span>
+                            <span></span>
                         </div>
                     </div>
                 </div>
@@ -168,24 +168,52 @@
                         <div class="col-md-6">
                             <div class="careplus-about-service">
                                 <h2>Well Come To <span>Hepiqc</span></h2>
-                                <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et eleme ntum nulla, eu placerat felis. </h6>
-                                <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Cur abitur ultrices ligula eu libero pellentesque feugiat. Etiam rhoncus leo in lig ula egestas aliquam. Praesent dui urna, volutpat a finibus nec, tristique ull amcorper nisi.</p>
+                                <h6>HEPIQ-C is an Initiative of President Muhammadu Buhari’s Administration which was born out of the quest to improve the quality of healthcare for the aging population. </h6>
+                                <p>Prior to this time, there is relatively low commitment to healthy aging compared to other health interventions in Nigeria and across the African continent as a whole. Therefore, the need for a project on healthy aging is very imminent at the moment of global trending on healthcare for the aging population. This is in line with the global action strategy on health and aging (2016-2020). This Initiative has developed healthy ageing policies, strategic documents and frameworks. It is a drive with focus on improving health outcomes of Nigerian senior citizens, through performance-based project execution leading to system strengthening of the Nigeria’s  basic health care services and setting a model worth emulating by other African countries. With this target approach, with Hepiq-C Project, Nigeria will improve the quality of lives of about 18 million elderly population and their economic growth subsequently.</p>
                                 <ul class="careplus-about-service-list">
+
+                                  <li><h3>Core Elements</h3></li>
+
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>Qualified Doctors</h6>
-                                        <p>Pellentesque vitae tortor vel sem pul vinar euismod. Cras congue blandit condimentum. Sed feugiat </p>
+                                        <h6><i class="fa fa-heart-o"></i>Proper Coordination</h6>
+                                        <p>A management committee comprising public sector, private sector and development partners to ensure proper coordination and support.</p>
                                     </li>
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>EMERGENCY CASE</h6>
-                                        <p>Pellentesque vitae tortor vel sem pul vinar euismod. Cras congue blandit condimentum. Sed feugiat </p>
+                                        <h6><i class="fa fa-heart-o"></i>Proper Project Management</h6>
+                                        <p>Information management system for proper project management</p>
                                     </li>
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>FREE COUNSELING</h6>
-                                        <p>Pellentesque vitae tortor vel sem pul vinar euismod. Cras congue blandit condimentum. Sed feugiat </p>
+                                        <h6><i class="fa fa-heart-o"></i>Effective Project Execution</h6>
+                                        <p>A Program delivery unit for effective project execution</p>
                                     </li>
-                                    <li>
+                                   <!--  <li>
                                         <h6><i class="fa fa-heart-o"></i> ONLINE APPOINTMENT</h6>
                                         <p>Pellentesque vitae tortor vel sem pul vinar euismod. Cras congue blandit condimentum. Sed feugiat </p>
+                                    </li> -->
+                                </ul>
+                                <ul class="careplus-about-service-list">
+
+                                  <li><h3>Objectives</h3></li>
+
+                                    <li>
+                                        <h6><i class="fa fa-heart-o"></i>1</h6>
+                                        <p>Identify knowledge gaps of both the Aged and Healthcare workers and Promote Healthy Aging </p>
+                                    </li>
+                                    <li>
+                                        <h6><i class="fa fa-heart-o"></i>2</h6>
+                                        <p>Ensure Free Universal Health coverage for the Aged.</p>
+                                    </li>
+                                    <li>
+                                        <h6><i class="fa fa-heart-o"></i>3</h6>
+                                        <p>Determine and support stakeholder’s role in healthy ageing.</p>
+                                    </li>
+                                    <li>
+                                        <h6><i class="fa fa-heart-o"></i>4</h6>
+                                        <p>Achieve global strategy on Health and Ageing.</p>
+                                    </li>
+                                    <li>
+                                        <h6><i class="fa fa-heart-o"></i>5</h6>
+                                        <p>Build capacity in training and research among the Aged and the healthcare workers on healthy ageing. </p>
                                     </li>
                                 </ul>
                             </div>
@@ -194,6 +222,46 @@
                             <figure class="careplus-about-image"><img src="extra-images/about-us-img.jpg" alt=""></figure>
                         </div>
                     </div>
+                  <div class="col-md-12">
+                    <ul>
+                      <h3>Project Components</h3>
+                      <p>The “HEPIQ-C Project” is aimed at addressing the fundamental pillars that ensures healthy aging through significant reduction of the leading causes of morbidity and mortality of the aged in Nigeria.The Initiative comprises of 4 components. Within each component, ambitious goals have been set, namely: </p>
+                  <li>
+                    <h6>A) Clinical care:</h6>
+                      <p><span>Phase 1.</span><br> Establishment of Geriatric Centres at regional level that will be fully funded to train health professionals and build manpower that will cascade downwards.<br>
+                     <span>I.</span> One Geriatric Centre in Southern and Northern Nigeria each. <br>
+                      <span>II.</span> One Geriatric Centre in each Geo-political zone.<br>
+                      <span> Phase 2.</span> Provision of affordable health insurance to the aged to ensure Universal health coverage.iii) Delivering an integrated package of healthcare for the elderly at 5,000 primary health care centres.</p>
+                  </li>
+                  <li>
+                      <h6>B) Training of Healthcare Practitioners::</h6>
+                      <p>Through an effective training of healthcare workforce at all levels of care; tertiary, secondary and primary levels. This will increase the number of Geriatric professionals with adequate knowledge on healthy aging.</p>
+                  </li>
+                  <li>
+                      <h6>C) Research and Development on Healthy Aging:</h6>
+                      <p>Research on Geriatric Medicine and Gerontology in close collaboration with National Research Group on Aging (NARG-Aging) and other bodies. This research will cut across all sectors of aging ranging from Neuroscience to Social support with the intent to be re-appraising development and challenges of healthy aging in Nigeria.</p>
+                  </li>
+                  <li>
+                      <h6>D) Health-social Support </h6>
+                      <span>i.</span> Introduction of Community-based support and Home-based care <br>
+                      <span>ii.</span> Provision of free elderly kits to the vulnerable aged.<br>
+                      <span>iii.</span> Nutrition and Vaccination; treating the elderly with malnutrition, in collaboration with the relevant sectors.<br>
+                      <span>iv.</span> Introduce and promote innovation and use of technology to improve health services of the aged.<br>
+                      <span>v.</span> Occupational health safety
+                  </li>
+
+                    </ul>
+                    
+
+                  </div>
+                  <div>
+                    <h3>Who is Involved</h3>
+                    <p>
+                  Constructive and productive collaborators and/or partners will be key to successful implementation. A coalition of public and private sector partners will participate in driving this movement that is led by the HEPIQ-C Project of the Federal Ministry of Health. 
+                  The partners include: Federal Ministry of Health, Ministry of Women Affairs and Social Development, Ministry of Budget and Planning, Office of SSAP-SDGs, National Primary Health Care Development Agency (NPHCDA), National Health Insurance Scheme (NHIS), Nigeria Governor’s Forum, National Health Institutions Chairmen Forum, Religious and Traditional leaders and Civil Society amongst others.
+                  Development Partners include United States Agency for International Development (USAID), UK Department for International Development (DFID/UKAID), Canadian International Development Agency (CIDA), Government of Japan, World Bank, World Health Organization, United Nations Children’s Fund (UNICEF), United Nations Population Fund (UNFPA), US Centre for Disease Control and Prevention (CDC),  Clinton Health Access Initiative, Bill and Melinda Gates Foundation, The Global Fund, and several other new and emerging partners.</p>
+
+                  </div>
                 </div>
             </div>
             <!--// Main section \\-->
@@ -207,13 +275,13 @@
                             <div class="careplus-about-post-text">
                                 <h2>Having a Positive Outlook on Life is a Crucial Part of Finding Inspiration</h2>
                                 <div class="clearfix"></div>
-                                <a href="{{url('/project')}}" class="careplus-readmore-btn">Get Appointment <span></span></a>
+                                <a href="{{url('/project')}}" class="careplus-readmore-btn">View Our Projects <span></span></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="careplus-department-counter">
+            <!-- <div class="careplus-department-counter">
                 <ul>
                     <li>
                         <i class="icon-social10"></i>
@@ -232,7 +300,7 @@
                         <h6><span id="word-count4">09</span> Awards Winnings</h6>
                     </li>
                 </ul>
-            </div>
+            </div> -->
             <!--// Main section \\-->
 
             <!--// Main section \\-->
