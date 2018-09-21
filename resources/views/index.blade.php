@@ -84,7 +84,7 @@
                                         <li class="active"><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="{{url('/about')}}"> About</a>
                                         </li>
-           <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                        <li><a href="{{url('healthissues')}}"> Health Issues</a>
    
                                        </li>
                                         <li><a href="#">Projects</a>
@@ -430,6 +430,7 @@
                                     <div class="careplus-content-post-title">
                                         <h2>Health Issues</h2>
                                         <span><i class="icon-tool5"></i></span>
+                                          <a href="{{url('/healthissues')}}" class="careplus-readmore-btn">Learn More <span></span></a>
                                     </div>
                                     <div class="careplus-tabs-list">
                                         <div class="careplus-images-list-layer"><span><i class="icon-medical-3"></i></span></div>
