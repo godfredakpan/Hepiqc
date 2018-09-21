@@ -1122,9 +1122,1641 @@
                               </li>
                           </ul>
                           <h3>
-                              <br/>
-                              <br/>
+                            Let's take a closer look
+
                           </h3>
+                          <p>When fat builds up inside your arteries it causes slight injury to your blood vessel walls. In an attempt to heal the blood vessel walls, the cells release chemicals that make the blood vessel walls stnickier. Other substances traveling through your blood stream, such as inflammatory cells, cellular waste products, proteins and calcium, begin to stick to the vessel walls. The fat and other substances combine to form a material called plaque.</p>
+                          <p><img src="images/healthissues/img1.png">
+                          </p>
+                          <p>Over time, the inside of the arteries develop plaques of different sizes. Many of the plaque deposits are soft on the inside with a hard fibrous "cap" covering the outside. If the hard surface cracks or tears, the soft, fatty inside is exposed. Platelets (disc-shaped particles in the blood that aid clotting) come to the area, and blood clots form around the plaque.</p>
+                          <p><img src="images/healthissues/img2.png">
+                          </p>
+                          <p>If a blood clot totally blocks the blood supply to the heart muscle, called a coronary thrombus or coronary occlusion, the heart muscle becomes "starved" for oxygen and nutrients (called ischemia) in the region below the blockage. Within a short time, an acute coronary syndrome can occur.</p>
+
+                          <p><strong>Acute Coronary Syndrome</strong> is a name given to three types of coronary artery disease that are associated with sudden rupture of plaque inside the coronary artery: unstable angina, Non-ST segment elevation myocardial infarction or heart attack (NSTEMI), or ST segment elevation myocardial infarction or heart attack (STEMI).</p>
+
+                          <p><img src="images/healthissues/img3.png">
+                          </p>
+                          <p><strong>Circumflex Occlusion (Back of heart)</strong></p>
+
+                          <p><img src="images/healthissues/img4.png">
+                          <p><strong>Left Anterior Descending (LAD) Occlusion (Front of heart)</strong></p>
+
+                          <p><img src="images/healthissues/img5.png">
+                          <p><strong>Right Coronary Artery Occlusion (Front of heart)</strong><br>
+                          <strong>Dark red</strong> = artery<br>
+                          <strong>Blue</strong> = outlines region of heart affected by blockage</p>
+                          <p>
+                            Each coronary artery supplies blood to a region of the heart muscle. If an artery is occluded (blocked) there is no blood supply to that region.<br>
+                            The amount of damage to the heart muscle depends on the size of the area supplied by the blocked artery and the time between injury and treatment.
+                          </p>
+                          <h3>What is a coronary spasm?</h3>
+                          <p><img src="images/healthissues/img6.png"></p>
+                         <h3>Spasm</h3>
+                          <br/>
+                          <p>
+                              A heart attack can also occur less frequently by a spasm of a coronary
+                              artery. During coronary spasm, the coronary arteries constrict or spasm on
+                              and off, causing lack of blood supply to the heart muscle (ischemia). It
+                              may occur at rest and can even occur in people without significant coronary
+                              artery disease. If coronary artery spasm occurs for a long period of time,
+                              a heart attack can occur.
+                          </p>
+                          <br/>
+                          <p>
+                              What are the symptoms of a heart attack?
+                          </p>
+                          <br/>
+                          <p>
+                              If you are having any one of the symptoms described below that lasts for
+                              more than 5 minutes, SEEK EMERGENCY TREATMENT (CALL 911) WITHOUT DELAY.
+                              These symptoms could be the signs of a heart attack (also called myocardial
+                              infarction or MI) and immediate treatment is essential.
+                          </p>
+                          <br/>
+                          <p>
+                              Symptoms of a heart attack include:
+                          </p>
+                          <br/>
+                          <p>
+                              **Angina:** Chest pain or discomfort in the center of the chest; also
+                              described as a heaviness, tightness, pressure, aching, burning, numbness,
+                              fullness or squeezing feeling that lasts for more than a few minutes or
+                              goes away and comes back. It is sometimes mistakenly thought to be
+                              indigestion or heartburn.
+                          </p>
+                          <br/>
+                          <p>
+                              Pain or discomfort in other areas of the upper body including the arms,
+                              left shoulder, back, neck, jaw, or stomach
+                          </p>
+                          <br/>
+                          <p>
+                              Difficulty breathing or shortness of breath
+                          </p>
+                          <br/>
+                          <p>
+                              Sweating or "cold sweat"
+                          </p>
+                          <br/>
+                          <p>
+                              Fullness, indigestion, or choking feeling (may feel like "heartburn")
+                          </p>
+                          <br/>
+                          <p>
+                              Nausea or vomiting
+                          </p>
+                          <br/>
+                          <p>
+                              Light-headedness, dizziness, extreme weakness or anxiety
+                          </p>
+                          <br/>
+                          <p>
+                              Rapid or irregular heart beats
+                          </p>
+                          <br/>
+                          <p>
+                              Women's symptoms sometimes differ
+                          </p>
+                          <br/>
+                          <p>
+                              Although most women and men report symptoms of chest pain with a heart
+                              attack, women are slightly more likely than men to report unusual symptoms.
+                              Those who have more vague or less typical "heart" symptoms have reported
+                              the following:
+                          </p>
+                          <br/>
+                          <p>
+                              Upper back or shoulder pain
+                          </p>
+                          <br/>
+                          <p>
+                              Jaw pain or pain spreading to the jaw
+                          </p>
+                          <br/>
+                          <p>
+                              Pressure or pain in the center of the chest
+                          </p>
+                          <br/>
+                          <p>
+                              Light headedness
+                          </p>
+                          <br/>
+                          <p>
+                              Pain that spreads to the arm
+                          </p>
+                          <br/>
+                          <p>
+                              Unusual fatigue for several days
+                          </p>
+                          <br/>
+                          <p>
+                              In a multi-center study of 515 women who had an acute myocardial infarction
+                              (MI), the most frequently reported symptoms were unusual fatigue, sleep
+                              disturbances, shortness of breath, indigestion and anxiety. The majority of
+                              women (78%) reported at least one symptom for more than one month before
+                              their heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Lessons learned:
+                          </p>
+                          <br/>
+                          <p>
+                              1. If you have chest pain or other symptoms of heart attack that last
+                              longer than 5 minutes - do not ignore it - seek emergency care to rule out
+                              a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              2. Learn to identify the common symptoms of heart disease. They may be
+                              warning signs of a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              3. Get a physical exam that includes screening for heart disease risk
+                              factors.
+                          </p>
+                          <br/>
+                          <p>
+                              4. If you have questions and symptoms persist, seek a second opinion.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn more about women and heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Silent MI
+                          </p>
+                          <br/>
+                          <p>
+                              Some people have a heart attack without having any symptoms (a "silent"
+                              myocardial infarction). A silent MI can occur among all patients, though it
+                              is more common among women or people with diabetes. A silent MI may be
+                              diagnosed during a routine doctor's exam.
+                          </p>
+                          <br/>
+                          <p>
+                              If You Take Nitroglycerin
+                          </p>
+                          <br/>
+                          <p>
+                              If you have been prescribed nitroglycerin and you experience angina, stop
+                              what you are doing and rest. Take one nitroglycerin tablet and let it
+                              dissolve under your tongue, or if using the spray form, spray it under your
+                              tongue. Wait 5 minutes. If you still have angina after 5 minutes, call 911
+                              to get emergency help.
+                          </p>
+                          <br/>
+                          <p>
+                              For patients diagnosed with chronic stable angina:
+                          </p>
+                          <br/>
+                          <p>
+                              If you experience angina, take one nitroglycerin (NTG) tablet and let it
+                              dissolve under your tongue. If chest discomfort or pain is not improved or
+                              getting worse 5 min after one dose, call 9-1-1 immediately to get emergency
+                              help before taking additional NTG. If symptoms are much improved by 1 dose
+                              of NTG, you may repeat the dose every 5 min for up to 3 tablets over 15
+                              minutes. If you still have angina after taking 3 doses of nitroglycerin,
+                              call 911 to get emergency help.
+                          </p>
+                          <br/>
+                          <p>
+                              Use of aspirin with unstable chest pain:
+                          </p>
+                          <br/>
+                          <p>
+                              After calling 911, emergency personnel may tell you to chew one full (325
+                              mg) aspirin slowly, if you do not have a history of aspirin allergy or
+                              bleeding. Aspirin is especially effective if taken within 30 minutes after
+                              the start of symptoms. Do NOT take an aspirin for symptoms of stroke.
+                              Continue to take your nitroglycerin as prescribed.
+                          </p>
+                          <br/>
+                          <p>
+                              Do not wait to get help: Time is Muscle
+                          </p>
+                          <br/>
+                          <p>
+                              At the first signs of a heart attack, call for emergency treatment (911).
+                              Do not wait for your symptoms to "go away." Early recognition and treatment
+                              of heart attack symptoms can reduce the risk of heart damage and allow
+                              treatment to be started immediately. Even if you're not sure your symptoms
+                              are those of a heart attack, you should still be evaluated.
+                          </p>
+                          <br/>
+                          <p>
+                              The best time to treat a heart attack is within one hour of the onset of
+                              the first symptoms. When a heart attack occurs, there's a limited amount of
+                              time before significant and long-lasting damage occurs to the heart muscle.
+                              If a large area of the heart is injured during the heart attack, full
+                              recovery becomes much more difficult.
+                          </p>
+                          <br/>
+                          <p>
+                              Studies show that the people who have symptoms of a heart attack often
+                              delay, or wait to seek treatment, for longer than seven hours.
+                          </p>
+                          <br/>
+                          <p>
+                              Reasons why people wait to get help:
+                          </p>
+                          <br/>
+                          <p>
+                              People who delay tend to be older, female, African-American and to have a
+                              history of angina, high blood pressure or diabetes. People who delay also
+                              consult their family members or try to treat themselves first before
+                              seeking treatment.
+                          </p>
+                          <br/>
+                          <p>
+                              Reasons people delay:
+                          </p>
+                          <br/>
+                          <p>
+                              They are young and don't believe a heart attack could happen to them
+                          </p>
+                          <br/>
+                          <p>
+                              Symptoms are not what they expected
+                          </p>
+                          <br/>
+                          <p>
+                              They may deny the symptoms are serious and wait until they go away
+                          </p>
+                          <br/>
+                          <p>
+                              They may ask the advice of others, especially family members
+                          </p>
+                          <br/>
+                          <p>
+                              They may first try to treat the symptoms them-selves, using aspirin or
+                              antacids
+                          </p>
+                          <br/>
+                          <p>
+                              They may think the symptoms are related to other health problems (upset
+                              stomach, arthritis)
+                          </p>
+                          <br/>
+                          <p>
+                              They may put the care of others first (take care of children or other
+                              family members) and not want to worry them
+                          </p>
+                          <br/>
+                          <p>
+                              Waiting just a couple hours for medical help may limit your treatment
+                              options, increase the amount of damage to your heart muscle, and reduce
+                              your chance of survival.
+                          </p>
+                          <br/>
+                          <p>
+                              Call 180 – Not a friend
+                          </p>
+                          <br/>
+                          <p>
+                              Calling 180 is almost always the fastest way to get life-saving treatment.
+                              When you call, emergency personnel may tell you to chew an aspirin to break
+                              up a possible blood clot, if there is not a medical reason for you to avoid
+                              aspirin. When emergency help arrives, they can promptly begin treatment,
+                              and they are trained to revive someone whose heart has stopped. Also,
+                              you're likelier to get treated faster at the hospital if you arrive by
+                              ambulance. If you are having symptoms, do not drive yourself unless there
+                              is absolutely no other option.
+                          </p>
+                          <br/>
+                          <p>
+                              If you've had prior heart treatments
+                          </p>
+                          <br/>
+                          <p>
+                              Even if you've been treated for a prior heart attack or if you've had other
+                              treatments for coronary artery disease, a heart attack CAN happen again.
+                              Treatments such as medications, open heart surgery and interventional
+                              procedures DO NOT cure coronary artery disease, so it is still important to
+                              lead a healthy lifestyle.
+                          </p>
+                          <br/>
+                          <p>
+                              Action Plan
+                          </p>
+                          <br/>
+                          <p>
+                              Ask your doctor whether you are at risk for a heart attack and what you can
+                              do to reduce your risk factors. Be sure to ask about aspirin and
+                              nitroglycerin.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn the signs and symptoms of a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn what to do if you have symptoms
+                          </p>
+                          <br/>
+                          <p>
+                              Talk with your family members, friends and coworkers about the heart attack
+                              warning signs and the importance of acting quickly.
+                          </p>
+                          <br/>
+                          <p>
+                              Importance of a heart-healthy lifestyle
+                          </p>
+                          <br/>
+                          <p>
+                              It is important for you to be committed to leading a heart-healthy
+                              lifestyle to reduce your risk of a heart attack. Your health care team can
+                              help you achieve your goals, but it is up to you to take your medications
+                              as prescribed, make dietary changes, quit smoking, exercise regularly, keep
+                              your follow-up appointments and be an active member of the treatment team.
+                          </p>
+                          <br/>
+                          <p>
+                              Share this information with your family members and caregivers so they
+                              learn to recognize the symptoms of a heart attack and when to help you seek
+                              emergency treatment.
+                          </p>
+                          <br/>
+                          <br/>
+                          <p>
+                              Diagnosing a Heart attack
+                          </p>
+                          <br/>
+                          <p>
+                              Once the emergency care team arrives, they will ask you about your symptoms
+                              and begin to evaluate you. The diagnosis of the heart attack is based on
+                              your symptoms, ECG and the results of your blood studies. The goal of
+                              treatment is to treat you quickly and limit heart muscle damage.
+                          </p>
+                          <br/>
+                          <p>
+                              12-lead ECG
+                          </p>
+                          <br/>
+                          <p>
+                              This is one of the initial tests that will be done. Frequently paramedics
+                              will do this on site or on the way to the hospital. The 12-lead ECG (also
+                              known as EKG or electrocardiogram) can help to tell what type of heart
+                              attack and where it has occurred.
+                          </p>
+                          <br/>
+                          <p>
+                              In addition, your heart rate and rhythm can be watched. You will also be
+                              connected with leads (wires) to a bedside monitor for continuous monitoring
+                              of your heart rate and rhythm.
+                          </p>
+                          <br/>
+                          <p>
+                              Blood studies
+                          </p>
+                          <br/>
+                          <p>
+                              Blood may be drawn to measure levels of biochemical markers. These markers
+                              are found inside your body's cells and are needed for their function. When
+                              your heart muscle cells are injured, their contents --including the markers
+                              -- are released into your bloodstream. By measuring the levels of these
+                              markers, the doctor can determine the size of the heart attack and
+                              approximately when the heart attack started. Other blood testsmay also be
+                              performed.
+                          </p>
+                          <br/>
+                          <p>
+                              Other tests and procedures that may be done during the early stages of an
+                              MI:
+                          </p>
+                          <br/>
+                          <p>
+                              Echocardiogram (echo)
+                          </p>
+                          <br/>
+                          <p>
+                              Echo can be used during and after a heart attack to learn about how the
+                              heart is pumping and identify what areas of the heart are not pumping
+                              normally. The echo is also valuable to see if any structures of the heart
+                              (valves, septum, etc.) have been injured during the heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Cardiac catheterization (cath)
+                          </p>
+                          <br/>
+                          <p>
+                              Cardiac catheterization (cath) may be performed during the first hours of a
+                              heart attack if medications are not relieving the ischemia or symptoms. The
+                              cardiac cath can be used to directly visualize the blocked artery and guide
+                              the choice for which procedure (such as angioplasty, stent placement or
+                              coronary artery bypass surgery) may follow.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn more about diagnostic tests and procedures
+                          </p>
+                          <br/>
+                          <p>
+                              Special treatments to open up your arteries
+                          </p>
+                          <br/>
+                          <p>
+                              Heart attack treatment begins immediately. Once symptoms are identified,
+                              call 9-1-1 to set in motion rapid diagnosis and treatment.
+                          </p>
+                          <br/>
+                          <p>
+                              Medications
+                          </p>
+                          <br/>
+                          <p>
+                              The knowledge gained in the past years regarding acute coronary syndromes
+                              and what happens in the artery during a heart attack has helped guide
+                              medical treatment. The goals of medication therapy are to break up or
+                              prevent blood clots, prevent platelets from gathering and sticking to the
+                              plaque, stabilize the plaque, and prevent further ischemia. These
+                              medications must be given as soon as possible (within 30 minutes from the
+                              start of heart attack symptoms) to decrease the amount of damage to the
+                              heart muscle. The longer the delay in starting these drugs, the more damage
+                              that occurs and the less benefit they can provide.
+                          </p>
+                           <p> <img src="images/healthissues/img7.png">
+                           </p>
+                           <p>
+                              <em>
+                                  Thrombolytic medications are used to break up clots blocking the artery
+                              </em>
+                          </p>
+                          <p>
+                              Medications given right after the start of a heart attack may include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/aspirin-therapy-in-heart-disease"
+                                      >
+                                          aspirin
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      thrombolytic therapy ("clot busters")
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/heparin-infusion"
+                                      >
+                                          heparin
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      other antiplatelet drugs
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      any combination of the above
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Other drugs, given during or after a heart attack lessen your heart's work,
+                              improve the functioning of the heart, widen or dilate your blood vessels,
+                              decrease your pain, and guard against any
+                              <a href="https://my.clevelandclinic.org/health/articles/arrhythmia">
+                                  life-threatening heart rhythms
+                              </a>
+                              . Your doctor will prescribe the appropriate medications for you.
+                          </p>
+                          <p>
+                              <strong>Interventional procedures</strong>
+                          </p>
+                          <p>
+                              During or shortly after a heart attack, you may go to the
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/cardiac-catheterization"
+                              >
+                                  cardiac catheterization
+                              </a>
+                              laboratory to directly evaluate the status of your heart, arteries and the
+                              amount of heart damage. In some cases, procedures (such as
+                              <a href="https://my.clevelandclinic.org/health/articles/cad-treatments">
+                                  angioplasty or stents
+                              </a>
+                              ) are used to open up your narrowed or blocked arteries. These procedures
+                              may be combined with thrombolytic therapy to open up the narrowed arteries,
+                              as well as to break up any clots that are blocking them.
+                          </p>
+                          <p>
+                              <strong>Coronary artery bypass surgery</strong>
+                          </p>
+                          <p>
+                              If necessary,
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/coronary-artery-bypass-surgery"
+                              >
+                                  bypass surgery
+                              </a>
+                              may be performed to restore the heart muscle's supply of blood.
+                          </p>
+                          <p>
+                              Doctors vary in quality due to differences in training and experience;
+                              hospitals differ in the number of services available. The more complex your
+                              medical problem, the greater these differences in quality become and the
+                              more they matter.
+                          </p>
+                          <p>
+                              Clearly, the doctor and hospital that you choose for complex, specialized
+                              medical care will have a direct impact on how well you do. To help you make
+                              this choice, please review our Miller Family Heart and Vascular Institute
+                              Outcomes.
+                          </p>
+                          <h3>
+                              Hypertension
+                          </h3>
+                          <p>
+                              Blood pressure is the measurement of the pressure or force of blood pushing
+                              against blood vessel walls. In hypertension (high blood pressure), the
+                              pressure against the blood vessel walls is consistently too high. High
+                              blood pressure is often called the “silent killer” because you may not be
+                              aware that anything is wrong, but the damage is occurring within your body.
+                          </p>
+                          <p>
+                              The only way to know if you have high blood pressure is to have your blood
+                              pressure taken. It is best to know your numbers and make the changes that
+                              can help prevent or limit damage.
+                          </p>
+                          <h3>
+                              Who is more likely to have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      People with family members who have high blood pressure,
+                                      cardiovascular disease, or diabetes.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-Americans.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who are pregnant.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who take birth control pills.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People over 35.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are overweight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are not active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who drink a lot of alcohol.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who eat too many fatty foods or foods with too much salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who smoke.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              Understanding BP readings
+                          </h3>
+                          <p>
+                              Your blood pressure reading has 2 numbers. The first is the systolic, which
+                              measures the pressure on the blood vessel walls when your heart beats. The
+                              second number is the diastolic, which measures the pressure on your blood
+                              vessels between beats when the heart is at rest.
+                          </p>
+                          <h3>
+                              What is a normal blood pressure reading?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Normal
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): less than 120
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              and Diastolic mm Hg (lower number): less than 80
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Prehypertension
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 120 – 139
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 80 – 89
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      High Blood Pressure (Hypertension) Stage 1
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 140 – 159
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 90 – 99
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      High Blood Pressure (Hypertension) Stage 2
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 160 or higher
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 100 or higher
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Hypertensive Crisis (Emergency care needed)
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): Higher than 180
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): Higher than 110
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I do if I have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      If you have been diagnosed with high blood pressure, you should
+                                      discuss your target blood pressure with your healthcare provider.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Check your own blood pressure at home as recommended.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Eat healthy foods that are low in salt and fat.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Achieve and maintain your ideal body weight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Limit alcohol to no more than two drinks each day. One drink is
+                                      defined as 1 oz. of alcohol, 5 oz. of wine, or 12 oz. of beer.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Be more physically active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Quit smoking.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Work on controlling anger and managing stress.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Take high blood pressure medicine if your healthcare provider
+                                      prescribes it, and follow the healthcare provider's directions
+                                      carefully.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have regular blood pressure checks by your healthcare provider.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I know about blood pressure medicine?
+                          </h3>
+                          <p>
+                              There are many different medicines to treat high blood pressure, and you
+                              might need to take medicine from now on. If your healthcare provider tells
+                              you to take high blood pressure medicine, be sure to follow the exact
+                              directions.
+                          </p>
+                          <p>
+                              Also, ask what side effects can happen with your medicine, and talk to your
+                              healthcare provider about any problems or side effects you might have with
+                              your medicine. Lastly, do not stop taking the medicine on your own.
+                          </p>
+                          <h3>
+                              What can happen if high blood pressure is not treated?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Stroke.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Enlarged heart.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Heart failure.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Peripheral vascular disease.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Heart attack.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Kidney disease/failure.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I include in my diet to control high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Eat foods that are lower in fat, salt, and calories, such as skim
+                                      or 1% milk, fresh vegetables and fruits, and whole grain, rice, and
+                                      pasta. (Ask your doctor or healthcare provider for a more detailed
+                                      list of salt-free foods to eat.)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Use flavorings, spices, and herbs to make foods tasty without using
+                                      salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Avoid or cut down on butter and margarine, regular salad dressings,
+                                      fatty meats, whole milk dairy products, fried foods, processed
+                                      foods or fast foods, and salted snacks.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Ask your healthcare provider if you should increase potassium in
+                                      your diet or if you need to take a potassium supplement.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Discuss the Dietary Approaches to Stop Hypertension (DASH) diet
+                                      with your healthcare provider.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              How can I be more active?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Check first with your healthcare provider before increasing your
+                                      physical activity. Ask your provider what type and amount of
+                                      exercise is right for you.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Choose aerobic activities such as walking, biking, or swimming.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Start slowly and increase activity gradually. Aim for a regular
+                                      routine of activity 5 times a week for 30 to 45 minutes each
+                                      session.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Activity can be done in 10-minute sessions to add up to the 30-45
+                                      minutes total.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What is high blood pressure?
+                          </h3>
+                          <p>
+                              Blood pressure is the measurement of the pressure or force of blood pushing
+                              against blood vessel walls. In hypertension (high blood pressure), the
+                              pressure against the blood vessel walls is consistently too high. High
+                              blood pressure is often called the “silent killer” because you may not be
+                              aware that anything is wrong, but the damage is occurring within your body.
+                          </p>
+                          <p>
+                              The only way to know if you have high blood pressure is to have your blood
+                              pressure taken. It is best to know your numbers and make the changes that
+                              can help prevent or limit damage.
+                          </p>
+                          <h3>
+                              Who is more likely to have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      People with family members who have high blood pressure,
+                                      cardiovascular disease, or diabetes.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-Americans.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who are pregnant.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who take birth control pills.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People over 35.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are overweight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are not active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who drink a lot of alcohol.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who eat too many fatty foods or foods with too much salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who smoke.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              How is prostate cancer detected?
+                          </h3>
+                          <p>
+                              The most effective means of detecting prostate cancer early is through a
+                              screening, which involves a digital rectal exam and measuring the amount of
+                              prostate-specific antigen (PSA) in the blood. In a digital rectal exam, the
+                              doctor inserts a gloved, lubricated finger into the anus in order to feel
+                              the shape and size of the prostate.
+                          </p>
+                          <p>
+                              The PSA test is believed to find most prostate cancers. PSA is a protein
+                              that the prostate secretes into the bloodstream. If a man has higher levels
+                              of this antigen, it may mean he has prostate cancer.
+                          </p>
+                          <p>
+                              If cancer is suspected, the doctor will perform a prostate
+                              <a href="https://my.clevelandclinic.org/health/articles/biopsy-overview">
+                                  biopsy
+                              </a>
+                              (removal of tiny pieces of prostate tissue). By removing a tissue sample
+                              from the tumor and examining it, doctors can confirm or rule out a
+                              diagnosis of cancer and determine whether the disease has spread to other
+                              organs.
+                          </p>
+                          <h3>
+                              What if prostate cancer is diagnosed?
+                          </h3>
+                          <p>
+                              Fortunately, most prostate cancers have not spread at the time they are
+                              diagnosed, and the cancer is most often limited to the prostate gland.
+                          </p>
+                          <p>
+                              To help predict how aggressive the prostate cancer is, your physician will
+                              look at your PSA levels before the biopsy, and will also calculate the
+                              “Gleason Score.” The Gleason Score is a sum of the grades of the two most
+                              common prostate tumors.
+                          </p>
+                          <p>
+                              After looking at tiny sections of the prostate tissue biopsy through a
+                              microscope, the pathologist assigns a grade from 1 to 5 to the tumors,
+                              based on their appearance (with 1 being closest to normal appearance and 5
+                              being least normal). The Gleason Score can range from 6 to 10, with 6 being
+                              the least aggressive form of cancer (confined to the gland) and 10 the most
+                              aggressive form (highest risk of spreading outside the gland).
+                          </p>
+                          <p>
+                              From the PSA levels and the Gleason Score, a treatment plan is created. For
+                              men with a low risk of the cancer spreading outside the gland, staging
+                              studies such as
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/whole-body-bone-scan"
+                              >
+                                  bone scans
+                              </a>
+                              and
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/computed-tomography-ct-scan"
+                              >
+                                  computed tomography scans
+                              </a>
+                              are not needed. Men who have cancer with a higher likelihood of spreading
+                              may need these staging studies to learn where the cancer may have spread.
+                          </p>
+                          <h3>
+                              What are the treatment options for prostate cancer?
+                          </h3>
+                          <p>
+                              Physicians design prostate cancer treatment plans to meet their patient's
+                              needs, based on the type of cancer, the age of the person, how far the
+                              cancer has spread, and the general health of the patient.
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Observation or surveillance</strong>
+                                      . For men with low-risk cancer, observation (watching) may be the
+                                      first strategy.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/robotic-prostate-surgery"
+                                          >
+                                              Laparoscopic radical prostatectomy
+                                          </a>
+                                      </strong>
+                                      . A minimally invasive procedure, a laparoscopic radical
+                                      prostatectomy removes the prostate gland. Unlike conventional
+                                      surgery, a laparoscopic prostatectomy requires only five small
+                                      (button-hole) incisions (cuts into the skin). Through these
+                                      incisions, a surgeon uses a laparoscope—a tiny camera—and surgical
+                                      instruments to perform the operation and remove the prostate.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/what-is-radiation-therapy"
+                                          >
+                                              Robotic radical prostatectomy
+                                          </a>
+                                      </strong>
+                                      . During this procedure, surgeons use a robot to guide the
+                                      laparoscope through small incisions to remove the cancerous
+                                      prostate and any other tissue that might be affected. Various
+                                      robotic systems are available, which may consist of a 3-armed robot
+                                      connected to a remote console. The surgeon operates the system
+                                      while seated at the console. Foot pedals are used for control, and
+                                      three-dimensional displays give the surgeon sharp, detailed views
+                                      of the surgical field.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Open radical prostatectomy</strong>
+                                      . Open radical prostatectomy removes the entire prostate with an
+                                      incision in the lower abdomen. Because the prostate wraps around
+                                      the urethra, the surgeon must reconnect the bladder with the
+                                      urethra after removing the prostate.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Radiation therapy</strong>
+                                      . Radiation therapy uses high-energy X-rays to kill cancer cells
+                                      and shrink tumors. Radiation can be produced in two ways: external
+                                      radiation, which comes from a machine outside the body; or internal
+                                      radiation, in which materials that produce radiation
+                                      (radioisotopes) are placed through thin plastic tubes into the area
+                                      in which the cancer cells are found.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/permanent-radioactive-seed-implants"
+                                          >
+                                              Interstitial brachytherapy (seed implantation)
+                                          </a>
+                                      </strong>
+                                      . Interstitial brachytherapy is a form of radiation therapy. A
+                                      radiation oncologist and urologist place radioactive pellets or
+                                      "seeds" into the prostate, and the pellets release radiation into
+                                      the prostate and nearby tissue over time.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/intensity-modulated-radiation-therapy"
+                                          >
+                                              Intensity-modulated radiotherapy
+                                          </a>
+                                      </strong>
+                                      . This is an advanced form of radiation therapy that can shorten
+                                      the length of prostate cancer treatment by several weeks. High
+                                      doses of radiation (guided by a computer) are delivered directly to
+                                      the tumor, which reduces the risk to normal tissue.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/cryotherapy"
+                                          >
+                                              Cryotherapy
+                                          </a>
+                                      </strong>
+                                      . Small needle-shaped probes are inserted into the prostate to
+                                      freeze it and kill the prostate cancer. This procedure, which is
+                                      minimally invasive and does not require an incision, is performed
+                                      either on an outpatient basis (the patient goes home the day of
+                                      surgery) or with a one-night hospital admission. Patients recover
+                                      in a matter of days and usually have very few after effects.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Hormone therapy</strong>
+                                      . Hormone therapy changes the body's hormone balance to prevent
+                                      certain cancers from growing. Hormone therapy may be done using
+                                      drugs that change the way hormones work, or with surgery that
+                                      removes hormone-producing organs such as the testes.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/chemotherapy-for-cancer-treatments"
+                                          >
+                                              Chemotherapy
+                                          </a>
+                                      </strong>
+                                      . Chemotherapy uses drugs to kill cancer cells. Chemotherapy may be
+                                      taken orally (by mouth) or injected into a vein. Chemotherapy is
+                                      usually a systemic treatment, which means that the drugs enter the
+                                      bloodstream, travel through the body, and can kill cancer cells
+                                      anywhere in the body, including the prostate.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              It’s important to note that PSA levels decrease after the prostate has been
+                              removed. If the prostate gland was totally removed to treat prostate
+                              cancer, a new rise in the PSA level may mean that the tumor has come back.
+                              Additional tests would then be needed to learn why the PSA level has
+                              increased.
+                          </p>
+                          <h3>
+                              Which prostate cancer treatment should I choose?
+                          </h3>
+                          <p>
+                              The type of treatment is mostly a matter of patient choice. You'll want to
+                              consider the pros and cons of each option for your own situation, and how
+                              aggressive and advanced your cancer is. As you begin your decision-making
+                              process, here are some issues to think about.
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          Ask your doctor about the stage and grade of your cancer
+                                      </strong>
+                                      . This will give you information on how aggressive your cancer is.
+                                      With this information, you and your doctor can discuss the risk
+                                      that your cancer poses to your well-being and longevity, how well
+                                      each treatment option might work in your situation, and what the
+                                      treatment side effects might be.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Consider your age and health</strong>
+                                      . Younger patients in their 40s and 50s with decades of life ahead
+                                      may choose to treat the cancer aggressively. Cancer discovered in
+                                      men in their 70s is likely to be slow-growing and may not have time
+                                      to affect their life before they would die of other causes. Poor
+                                      health adds to the complexity and makes treatment more risky.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Think about your quality of life after treatment</strong>
+                                      . Radiation can cause impotence and other urinary and rectal
+                                      symptoms. Surgery can cause impotence and incontinence. So there
+                                      are some difficult trade-offs to make in the face of uncertainty.
+                                      Some men fear their sex lives may change, others are more fearful
+                                      of dying or the anxiety of untreated cancer and prefer treatment
+                                      despite the potential side effects.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          Make sure you are getting balanced and impartial information
+                                      </strong>
+                                      . If your doctor is a surgeon, you may want to talk with a
+                                      radiation therapist, and vice versa. Make sure you feel comfortable
+                                      discussing all of your options with all of your doctors and that
+                                      they have taken the time to answer all of your questions. You
+                                      should also do your own research and not just rely on your doctor's
+                                      opinion. Consult with your doctors armed with your questions. It is
+                                      important to ask about your doctor's personal expertise and
+                                      experience in treating cancers like yours, as this can help
+                                      determine a successful outcome.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>
+                                          Ask yourself how well you tolerate uncertainty and repeated
+                                          doctor's visits to deal with your cancer
+                                      </strong>
+                                      . If you are considering "active surveillance," can you deal with
+                                      knowing that you have an untreated cancer inside your body? Will
+                                      you follow through with office visits to your doctor for repeat
+                                      testing? Would more aggressive treatment fit your personality and
+                                      anxiety level?
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              Who is at risk for prostate cancer?
+                          </h3>
+                          <p>
+                              The number of cases of prostate cancer has dropped among white American
+                              men. Among black men, the disease rate and death rate are twice as high as
+                              those of white men, according to the American Cancer Society.
+                          </p>
+                          <p>
+                              The following are some of the risk factors for prostate cancer:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Age</strong>
+                                      . The greatest risk factor for prostate cancer is age. More than 75
+                                      percent of all prostate cancers are diagnosed in men older than 65.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Family history</strong>
+                                      . Men whose relatives have had prostate cancer are considered to be
+                                      at high risk. Having a father or brother with the disease doubles
+                                      your risk for prostate cancer, according to the American Cancer
+                                      Society. Therefore, screening for prostate cancer should be started
+                                      at age 40 in men with a family history of the disease.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      To date, two genes have been identified that can lead to prostate
+                                      cancer. Experts estimate that the hereditary form of prostate
+                                      cancer accounts for just 9 percent of all cases.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Race. African-Americans have the highest incidence of prostate
+                                      cancer. They are 30 to 50 percent more likely to develop prostate
+                                      cancer than other races in the U.S. Japanese and African men living
+                                      in their native countries have a low incidence of prostate cancer.
+                                      Rates for these groups increase sharply when they immigrate to the
+                                      U.S.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-American men, therefore, are another group for whom
+                                      prostate cancer screening should begin at age 40. The higher rate
+                                      of prostate cancer in African-American men suggests that the
+                                      environment may play a role, including: high-fat diets, not enough
+                                      exposure to the sun, exposure to heavy metals such as cadmium,
+                                      infectious agents, or smoking.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Diet</strong>
+                                      . Research also suggests that a high-fat diet may lead to prostate
+                                      cancer. The disease is much more common in countries in which meat
+                                      and dairy products are commonly eaten, compared with countries in
+                                      which the basic diet consists of rice, soybean products, and
+                                      vegetables.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Male hormones</strong>
+                                      . High levels of male hormones called androgens may increase the
+                                      risk of prostate cancer for some men, according to the American
+                                      Cancer Society.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Inactive lifestyle</strong>
+                                      . You may be able to reduce your risk for prostate cancer by
+                                      getting regular exercise and maintaining your ideal weight.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What is the outlook for men who have prostate cancer?
+                          </h3>
+                          <p>
+                              Eighty-nine percent of men diagnosed with prostate cancer will live at
+                              least 5 years, while 63% will live 10 years or longer.
+                          </p>
+                          <p>
+                              Because prostate cancer is a slow-growing disease, many affected men will
+                              die from other causes. Many patients who have a prostate screening every
+                              year detect their prostate cancer while it can be cured.
+                          </p>
+                          <p>
+                              Glaucoma
+                          </p>
+                          <h3>
+                              What is glaucoma?
+                          </h3>
+                          <p>
+                              Glaucoma is a group of
+                              <a
+                                  href="https://my.clevelandclinic.org/departments/eye/conditions-treatments"
+                              >
+                                  eye diseases
+                              </a>
+                              that has one thing in common: progressive (increasing) damage to the vision
+                              nerve (optic nerve) that connects the eyeball to the brain.
+                          </p>
+                          <p>
+                              This damage is recognized by a loss of optic nerve tissue in a pattern
+                              called "cupping," and by blind spots or blurry spots in the peripheral
+                              (side) vision. Advanced glaucoma can lead to permanently
+                              <a href="https://my.clevelandclinic.org/health/articles/low-vision">
+                                  blurred or dimmed vision
+                              </a>
+                              , or even to blindness. Early and moderate stage glaucoma generally has no
+                              symptoms. This is why it is important to be examined by an ophthalmologist
+                              (eye doctor) regularly to determine if you are likely to develop the
+                              disease.
+                          </p>
+                          <p>
+                              In many cases, we do not know exactly what causes glaucoma. However,
+                              increased eye pressure is the most common risk factor for developing the
+                              disease. The pressure comes when the clear fluid in
+                              <a
+                                  href="https://my.clevelandclinic.org/services/cole-eye/patient-education/take-a-tour-of-the-eye"
+                              >
+                                  the eye
+                              </a>
+                              , called the aqueous humor, does not drain properly.
+                          </p>
+                          <p>
+                              This fluid normally helps to nourish the eye, and flows in and out of the
+                              eye through a mesh-like channel. In people with high eye pressure, the
+                              fluid does not drain properly and pressure builds up in the eye.
+                          </p>
+                          <p>
+                              However, it is possible to develop glaucoma even if your eye pressure is
+                              normal. Currently, treatment for glaucoma is aimed at lowering your eye
+                              pressure, even if it is “normal.”
+                          </p>
+                          <p>
+                              Glaucoma treatment cannot restore vision that is lost. But treatment can
+                              reduce the likelihood of additional
+                              <a href="https://my.clevelandclinic.org/health/articles/coping-vision-loss">
+                                  vision loss
+                              </a>
+                              . That is why screening and early detection of glaucoma are so important.
+                          </p>
+                          <h3>
+                              What are the different types of glaucoma?
+                          </h3>
+                          <p>
+                              There are 2 main types of glaucoma found in adults:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Open-angle glaucoma is the most common type. It is found in
+                                      approximately 90% of glaucoma patients in the United States. In
+                                      open-angle glaucoma, the structures in the eye appear to be normal,
+                                      but fluid does not drain properly, probably because of changes in
+                                      and along the drainage passage. This type of glaucoma has no early
+                                      warning signs and can go unnoticed for years.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Chronic or acute angle-closure glaucoma accounts for about 10% of
+                                      glaucoma cases in U.S. Here, the normal drainage passage in the eye
+                                      is narrowed and then becomes blocked.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              If either type of glaucoma is diagnosed early enough, a simple laser
+                              treatment can be used to improve the drainage.
+                          </p>
+                          <h3>
+                              Who is most likely to get glaucoma?
+                          </h3>
+                          <p>
+                              Glaucoma is more commonly found in people over the age of 35. You are more
+                              likely to get glaucoma if you:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Are of African-American descent.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have family members with glaucoma.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/diabetes-basics"
+                                      >
+                                          diabetes.
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have had a serious eye injury in the past.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Take
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/corticosteroids"
+                                      >
+                                          corticosteroid
+                                      </a>
+                                      (e.g., prednisone) medications.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Glaucoma usually occurs in both eyes, although one eye may be more affected
+                              than the other.
+                          </p>
+                          <h3>
+                              What are the symptoms of glaucoma?
+                          </h3>
+                          <p>
+                              Most patients with glaucoma do not notice any symptoms at first, until they
+                              have lost some of their peripheral (side) vision. Often, this is not
+                              recognized by the patient until the disease has progressed.
+                          </p>
+                          <p>
+                              When other symptoms are present, they may include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Pain in the eye.
+                                      <em>
+                                          (IMPORTANT: If you have sudden, severe eye pain,
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/overview-of-headaches-in-adults"
+                                          >
+                                              headache
+                                          </a>
+                                          , and blurred vision, your internal eye pressure may be very
+                                          high. You should call your ophthalmologist or go to an
+                                          emergency room right away.)
+                                      </em>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Redness in the eye.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      The vision in one or both eyes appearing hazy.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Seeing halos around lights.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Narrowing of vision (tunnel vision).
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              If there are no recognizable symptoms, how can I tell if I have glaucoma?
+                          </h3>
+                          <p>
+                              Your ophthalmologist (eye doctor) will perform regular
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/eye-examinations-what-to-expect"
+                              >
+                                  examinations
+                              </a>
+                              of your eyes and will be able to tell if you are likely to have glaucoma.
+                          </p>
+                          <p>
+                              Glaucoma tests are painless and take very little time. The ophthalmologist
+                              uses a device called a tonometer to measure the pressure in your eyes. He
+                              or she also uses an ophthalmoscope and other instruments to examine the
+                              eye’s interior and detect damage to the optic nerve.
+                          </p>
+                          <p>
+                              Your ophthalmologist may also test your field of vision (the range in which
+                              you see clearly), including your peripheral vision, and may also obtain
+                              special pictures, such as optical coherence tomography pictures, of the
+                              nerve in the back of the eye.
+                          </p>
+                          <h3>
+                              How is glaucoma treated?
+                          </h3>
+                          <p>
+                              The goal of glaucoma treatment is to prevent further vision loss by
+                              controlling pressure in the eye – like controlling blood pressure to
+                              prevent a stroke. There are several ways in which glaucoma can be treated
+                              successfully:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Medications, in the form of eye drops or pills, lower pressure by
+                                      reducing the amount of fluid produced in the eye, and by increasing
+                                      drainage. One or more medicines may be used at the same time.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Laser therapy, performed on an outpatient basis, is used to reduce
+                                      pressure in the eye. A procedure called laser trabeculoplasty
+                                      improves fluid drainage in patients with open-angle glaucoma.
+                                      People with closed-angle glaucoma usually must be treated with a
+                                      procedure called laser iridotomy, which creates a tiny opening in
+                                      the iris (colored part of the eye), allowing the drainage angle to
+                                      open.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Surgery may be needed to create a second drainage channel in the
+                                      eye to support the natural one. Glaucoma surgery is usually
+                                      performed on an outpatient basis using local anesthesia, and may
+                                      allow the patient to reduce or eliminate glaucoma medications.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      For more advanced cases, an artificial glaucoma drainage implant
+                                      may help to decrease pressure. The implant helps to drain excess
+                                      fluid, which is then absorbed into the body.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              I have glaucoma and cataracts. What can be done to help?
+                          </h3>
+                          <p>
+                              A
+                              <a href="https://my.clevelandclinic.org/health/articles/cataracts">
+                                  cataract
+                              </a>
+                              is a clouding of the lens of the eye that prevents light from entering.
+                              Since many people develop cataracts as they age, many people with glaucoma
+                              also have them. The 2 problems can be treated in many patients using a
+                              single combined procedure. Vision is restored more quickly, and further
+                              surgery usually is not needed.
+                          </p>
+                          <h3>
+                              Can vision loss or blindness from glaucoma be cured?
+                          </h3>
+                          <p>
+                              Unfortunately, no. Treatment cannot bring back vision that has been lost as
+                              a result of glaucoma. But treatment can reduce the chance of further vision
+                              loss. See your ophthalmologist for regular eye examinations and glaucoma
+                              screenings.
+                          </p>
+
                           </div>
                         </div>
                         
