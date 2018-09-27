@@ -445,6 +445,8 @@
 
                                             <p>Common arthritis joint symptoms include swelling, pain, stiffness and decreased range of motion. Symptoms may come and go. They can be mild, moderate or severe. They may stay about the same for years, but may progress or get worse over time. Severe arthritis can result in chronic pain, inability to do daily activities and make it difficult to walk or climb stairs. Arthritis can cause permanent joint changes. These changes may be visible, such as knobby finger joints, but often the damage can only be seen on X-ray. Some types of arthritis also affect the heart, eyes, lungs, kidneys and skin as well as the joints.
                                             There are different types of arthritis:</p>
+
+                                            <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
@@ -452,30 +454,30 @@
                                             <p>
                                             Diabetes mellitus
                                             Diabetes mellitus is a disease that prevents your body from properly using the energy from the food you eat</p>
+                                            <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                                                                         
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Heart Attack</h4>
                                              <p>A heart attack, or myocardial infarction (MI), is permanent damage to the heart muscle. "Myo" means muscle, "cardial" refers to the heart, and "infarction" means death of tissue due to lack of blood supply.</p> 
+                                             <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Hypertension</h4>
-                                           <!--  <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p> -->
+                                           
+                                            <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
                                             <h4> Prostate cancer</h4>
-                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
+                                            <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                             
                                         </div>
 
                                         <div class="careplus-images-thumb-layer">
                                             <h4>Glaucoma and Cataract</h4>
-                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
+                                           <a href="{{url('/healthissues')}}" class="careplus-banner-btn">Learn More <span></span></a>
                                             
                                         </div>
 
