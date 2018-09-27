@@ -21,7 +21,7 @@
     <style>
         ul {
   list-style: none !important;
-	}
+    }
     </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -89,7 +89,7 @@
                                        <li><a href="{{url('/about')}}"> About</a>
    
                                        </li>
-				       <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                       <li><a href="{{url('healthissues')}}"> Health Issues</a>
    
                                        </li>
                                        <li><a href="#">Projects</a>
@@ -1129,20 +1129,20 @@
                           <p><img src="images/healthissues/img1.png">
                           </p>
                           <p>Over time, the inside of the arteries develop plaques of different sizes. Many of the plaque deposits are soft on the inside with a hard fibrous "cap" covering the outside. If the hard surface cracks or tears, the soft, fatty inside is exposed. Platelets (disc-shaped particles in the blood that aid clotting) come to the area, and blood clots form around the plaque.</p>
-                          <p><img src="images/healthissues/img2.png">
+                          <img src="images/healthissues/img2.png"><hr>
                           </p>
                           <p>If a blood clot totally blocks the blood supply to the heart muscle, called a coronary thrombus or coronary occlusion, the heart muscle becomes "starved" for oxygen and nutrients (called ischemia) in the region below the blockage. Within a short time, an acute coronary syndrome can occur.</p>
 
                           <p><strong>Acute Coronary Syndrome</strong> is a name given to three types of coronary artery disease that are associated with sudden rupture of plaque inside the coronary artery: unstable angina, Non-ST segment elevation myocardial infarction or heart attack (NSTEMI), or ST segment elevation myocardial infarction or heart attack (STEMI).</p>
 
-                          <p><img src="images/healthissues/img3.png">
+                          <img src="images/healthissues/img3.png"><hr>
                           </p>
                           <p><strong>Circumflex Occlusion (Back of heart)</strong></p>
 
-                          <p><img src="images/healthissues/img4.png">
+                          <img src="images/healthissues/img4.png"><hr>
                           <p><strong>Left Anterior Descending (LAD) Occlusion (Front of heart)</strong></p>
 
-                          <p><img src="images/healthissues/img5.png">
+                          <img src="images/healthissues/img5.png"><hr>
                           <p><strong>Right Coronary Artery Occlusion (Front of heart)</strong><br>
                           <strong>Dark red</strong> = artery<br>
                           <strong>Blue</strong> = outlines region of heart affected by blockage</p>
@@ -1151,7 +1151,8 @@
                             The amount of damage to the heart muscle depends on the size of the area supplied by the blocked artery and the time between injury and treatment.
                           </p>
                           <h3>What is a coronary spasm?</h3>
-                          <p><img src="images/healthissues/img6.png"></p>
+                         <img src="images/healthissues/img6.png">
+                        </p>
                          <h3>Spasm</h3>
                           <br/>
                           <p>
@@ -1578,8 +1579,7 @@
                               start of heart attack symptoms) to decrease the amount of damage to the
                               heart muscle. The longer the delay in starting these drugs, the more damage
                               that occurs and the less benefit they can provide.
-                          </p>
-                           <p> <img src="images/healthissues/img7.png">
+                            <img src="images/healthissues/img7.png"><hr>
                            </p>
                            <p>
                               <em>
