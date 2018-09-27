@@ -84,7 +84,7 @@
                                         <li class="active"><a href="{{url('/')}}">Home</a></li>
                                         <li><a href="{{url('/about')}}"> About</a>
                                         </li>
-                                        <li><a href="{{url('healthissues')}}"> Health Issues</a>
+           <li><a href="{{url('healthissues')}}"> Health Issues</a>
    
                                        </li>
                                         <li><a href="#">Projects</a>
@@ -430,7 +430,6 @@
                                     <div class="careplus-content-post-title">
                                         <h2>Health Issues</h2>
                                         <span><i class="icon-tool5"></i></span>
-                                          <a href="{{url('/healthissues')}}" class="careplus-readmore-btn">Learn More <span></span></a>
                                     </div>
                                     <div class="careplus-tabs-list">
                                         <div class="careplus-images-list-layer"><span><i class="icon-medical-3"></i></span></div>
@@ -456,23 +455,31 @@
                                                                                         
                                         </div>
                                         <div class="careplus-images-thumb-layer">
-                                            <h4>Mental Health</h4>
-                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
-                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
+                                            <h4>Heart Attack</h4>
+                                             <p>A heart attack, or myocardial infarction (MI), is permanent damage to the heart muscle. "Myo" means muscle, "cardial" refers to the heart, and "infarction" means death of tissue due to lack of blood supply.</p> 
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
-                                            <h4>Chronic Health Conditions</h4>
+                                            <h4>Hypertension</h4>
                                            <!--  <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p> -->
                                             
                                         </div>
                                         <div class="careplus-images-thumb-layer">
-                                            <h4>Occupational Health</h4>
+                                            <h4> Prostate cancer</h4>
                                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
                                             <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
                                             
                                         </div>
+
+                                        <div class="careplus-images-thumb-layer">
+                                            <h4>Glaucoma and Cataract</h4>
+                                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum nulla, eu placerat felis. Etiam tin orci lacus, id varius dolor fermentum sit amet. Morbi consectetur ante odio, at vestibulum nibh fringilla id rttitor nunc at leo porttitor mattis.</p>
+                                            <p>Aliquam in elit vel eros tincidunt pulvinar sit amet eu justo. Nulla facilisi. Curabitur ultrices ligula eu libero entesque feugiat. Etiam rhoncus leo in ligula egestas aliquam.</p> -->
+                                            
+                                        </div>
+
+                                      
                                         
                                         </div>
                                     </div>
