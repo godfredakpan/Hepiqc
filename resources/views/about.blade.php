@@ -22,7 +22,7 @@
   list-style: none !important;
     }
     p{
-        color:black !important;
+        color:#555555 !important;
     }
     </style>
 
