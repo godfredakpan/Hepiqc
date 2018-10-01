@@ -210,23 +210,23 @@
 
                                     <li>
                                         
-                                        <p>Identify knowledge gaps of both the Aged and Healthcare workers and Promote Healthy Aging </p>
+                                        <p>1. Identify knowledge gaps of both the Aged and Healthcare workers and Promote Healthy Aging </p>
                                     </li>
                                     <li>
                                         
-                                        <p>Ensure Free Universal Health coverage for the Aged.</p>
+                                        <p>2. Ensure Free Universal Health coverage for the Aged.</p>
                                     </li>
                                     <li>
                                        
-                                        <p>Determine and support stakeholder’s role in healthy ageing.</p>
+                                        <p>3. Determine and support stakeholder’s role in healthy ageing.</p>
                                     </li>
                                     <li>
                                         
-                                        <p>Achieve global strategy on Health and Ageing.</p>
+                                        <p>4. Achieve global strategy on Health and Ageing.</p>
                                     </li>
                                     <li>
                                        
-                                        <p>Build capacity in training and research among the Aged and the healthcare workers on healthy ageing. </p>
+                                        <p>5. Build capacity in training and research among the Aged and the healthcare workers on healthy ageing. </p>
                                     </li>
                                 </ul>
                             </div>
