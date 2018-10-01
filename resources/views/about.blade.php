@@ -91,7 +91,7 @@
                                        <li><a href="{{url('/about')}}"> About</a>
    
                                        </li>
-                        <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                    <li><a href="{{url('healthissues')}}"> Health Issues</a>
    
                                        </li>
                                        <li><a href="#">Projects</a>
@@ -146,7 +146,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1>About Us</h1>
+                          <img src="extra-images/banner-2.jpg" alt="About Us">
                             <span></span>
                         </div>
                     </div>
