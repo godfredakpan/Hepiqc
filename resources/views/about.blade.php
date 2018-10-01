@@ -42,7 +42,7 @@
                <div class="careplus-main-header">
                    <div class="container">
                        <div class="row">
-                           <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
+                           <aside class="col-md-3"><a href="http://hepiqc.herokuapp.com"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
                            <aside class="col-md-9">
                                <ul class="careplus-infolist">
                                    <li>
@@ -84,32 +84,32 @@
                                    </div>
                                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
                                      <ul class="nav navbar-nav">
-                                       <li class="active"><a href="{{url('/')}}">Home</a></li>
-                                       <li><a href="{{url('/about')}}"> About</a>
+                                       <li class="active"><a href="http://hepiqc.herokuapp.com">Home</a></li>
+                                       <li><a href="http://hepiqc.herokuapp.com/about"> About</a>
    
                                        </li>
-                        <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                        <li><a href="http://hepiqc.herokuapp.com/healthissues"> Health Issues</a>
    
                                        </li>
                                        <li><a href="#">Projects</a>
                                            <ul class="careplus-dropdown-menu">
-                                               <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
+                                               <li><a href="http://hepiqc.herokuapp.com/project">Research on the Ageing Population</a>
                                                    <ul class="careplus-dropdown-menu">
-                                                       <li><a href="{{url('/project')}}">Clinical Research</a></li>
-                                                       <li><a href="{{url('/project')}}">Gerontology</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Clinical Research</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Gerontology</a></li>
                                                    </ul>
                                                </li>
-                                               <li><a href="{{url('/project')}}">Training of Health Workers</a>
+                                               <li><a href="http://hepiqc.herokuapp.com/project">Training of Health Workers</a>
                                                    <ul class="careplus-dropdown-menu">
-                                                       <li><a href="{{url('/project')}}">Short Term Training</a></li>
-                                                       <li><a href="{{url('/project')}}">Long Term Training</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Short Term Training</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Long Term Training</a></li>
                                                    </ul>
                                                </li>
                                                
                                                <li><a href="blog-large.html">Health Social Support</a>
                                                    <ul class="careplus-dropdown-menu">
-                                                       <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
-                                                       <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Community Geriartric Services</a></li>
+                                                       <li><a href="http://hepiqc.herokuapp.com/project">Resource Mobilization</a></li>
                                                    </ul>
                                                </li>
                                                
@@ -118,7 +118,7 @@
                                        
                                        
                                        
-                                       <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
+                                       <li class="careplus-megamenu-li"><a href="http://hepiqc.herokuapp.com/contact">Contact us</a>
                                        </li>
                                      </ul>
                                    </div>
@@ -154,7 +154,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ul>
-                                <li><a href="{{url('/')}}">Homepage</a></li>
+                                <li><a href="http://hepiqc.herokuapp.com">Homepage</a></li>
                                 <li>About Us</li>
                             </ul>
                         </div>
@@ -282,7 +282,7 @@
                             <div class="careplus-about-post-text">
                                 <h2>Having a Positive Outlook on Life is a Crucial Part of Finding Inspiration</h2>
                                 <div class="clearfix"></div>
-                                <a href="{{url('/project')}}" class="careplus-readmore-btn">View Our Projects <span></span></a>
+                                <a href="http://hepiqc.herokuapp.com/project" class="careplus-readmore-btn">View Our Projects <span></span></a>
                             </div>
                         </div>
                     </div>
@@ -439,7 +439,7 @@
                 <div class="row">
                     <!--// Widget Contact Info \\-->
                     <aside class="col-md-4 widget widget_contact_info">
-                        <a href="{{url('/')}}"class="footer-logo"><img src="images/header-hepiqc.png" alt=""></a>
+                        <a href="http://hepiqc.herokuapp.com"class="footer-logo"><img src="images/header-hepiqc.png" alt=""></a>
                         <p>HEPIQ-C - Healthcare package for the elderly.</p>
                         <ul>
                             <li>
@@ -462,14 +462,14 @@
                     <aside class="col-md-4 widget widget_useful_link">
                         <h2 class="careplus-footer-title">Useful Links</h2>
                         <ul>
-                            <li><a href="{{url('/')}}">Home</a></li>
-                            <li><a href="{{url('/blog')}}">Blog</a></li>
-                            <li><a href="{{url('/about')}}">About</a></li>
-                            <li><a href="{{url('/privacy')}}">Privacy</a></li>
-                            <li><a href="{{url('/contact')}}">Contact</a></li>
-                            <li><a href="{{url('/fag')}}">FAQ</a></li>
-                            <li><a href="{{url('/gallery')}}">Gallery</a></li>
-                            <li><a href="{{url('/terms')}}">Terms of Use</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com">Home</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/blog">Blog</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/about">About</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/privacy">Privacy</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/contact">Contact</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/fag">FAQ</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/gallery">Gallery</a></li>
+                            <li><a href="http://hepiqc.herokuapp.com/terms">Terms of Use</a></li>
                         </ul>
                     </aside>
                     <!--// Widget Useful Link \\-->
