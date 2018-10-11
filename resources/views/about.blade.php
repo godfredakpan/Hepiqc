@@ -118,9 +118,8 @@
                                                
                                            </ul>
                                        </li>
-                                       
-                                       
-                                       
+                                                                       
+                                    
                                        <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
                                        </li>
                                      </ul>
@@ -168,9 +167,8 @@
         <!--// SubHeader \\-->
 
         <!--// Main Content \\-->
-        <div class="careplus-main-content">
-
-    <div class="careplus-main-section careplus-about-postfull">
+        <div class="careplus-main-content" style="padding:0px;">
+          <div class="careplus-main-section careplus-about-postfull">
                 <span class="careplus-about-transparent"></span>
                 <div class="container">
                     <div class="row">
@@ -178,12 +176,13 @@
                             <div class="careplus-about-post-text">
                                  <h2>Well Come To <span>Hepiqc</span></h2>
                                  <div class="clearfix"></div>
-                                <a href="{{url('/project')}}" class="careplus-readmore-btn">View Our Projects <span></span></a>
+                                <a href="http://hepiqc.herokuapp.com/project" class="careplus-readmore-btn">View Our Projects <span></span></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
 
             <!--// Main section \\-->
             <div class="careplus-main-section careplus-about-servicefull">
