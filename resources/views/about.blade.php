@@ -138,34 +138,7 @@
        </header>
        <!--// Header \\-->
 
-        <!--// SubHeader \\-->
-        <div class="careplus-subheader">
-            <div class="careplus-subheader-image">
-                <span class="careplus-dark-transparent"></span>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                         <h4>About Us</h4>
-                            <span></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="careplus-breadcrumb">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <ul>
-                                <li><a href="{{url('/')}}">Homepage</a></li>
-                                <li>About Us</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--// SubHeader \\-->
-
+       
         <!--// Main Content \\-->
         <div class="careplus-main-content" style="padding:0px;">
           <div class="careplus-main-section careplus-about-postfull">
@@ -188,7 +161,7 @@
             <div class="careplus-main-section careplus-about-servicefull">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
                                
                                 <h6>HEPIQ-C is an Initiative of President Muhammadu Buhari’s Administration which was born out of the quest to improve the quality of healthcare for the aging population. </h6>
