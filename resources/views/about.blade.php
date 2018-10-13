@@ -188,15 +188,15 @@
                                        <h3>Core Elements</h3><br>
 
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>Proper Coordination</h6>
+                                        <h6>1. Proper Coordination</h6>
                                         <p>A management committee comprising public sector, private sector and development partners to ensure proper coordination and support.</p>
                                     </li>
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>Proper Project Management</h6>
+                                        <h6>2. Proper Project Management</h6>
                                         <p>Information management system for proper project management</p>
                                     </li>
                                     <li>
-                                        <h6><i class="fa fa-heart-o"></i>Effective Project Execution</h6>
+                                        <h6>3. Effective Project Execution</h6>
                                         <p>A Program delivery unit for effective project execution</p>
                                     </li>
                                    <!--  <li>
