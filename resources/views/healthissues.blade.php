@@ -89,7 +89,19 @@
                                        <li><a href="{{url('/about')}}"> About</a>
    
                                        </li>
-                       <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                       
+                                      <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                           <ul class="careplus-dropdown-menu">
+                                               <li><a href="{{url('/arthritis')}}">Arthritis</a>
+                                                      <li><a href="{{url('/diabetes_mellitus')}}"> Diabetes Mellitus</a></li>
+                                                       <li><a href="{{url('/heartattack')}}"> Heart Attack</a></li>
+                                                       <li><a href="{{url('/hypertension')}}">Hypertension</a></li>
+                                                       <li><a href="{{url('/gerontology')}}">Gerontology</a></li>
+                                                       <li><a href="{{url('/glaucoma_and_cataract')}}">Glaucoma and Cataract</a></li>
+                                                </li>
+                                                                                                                                        
+                                           </ul>
+                                       </li>
    
                                        </li>
                                        <li><a href="#">Projects</a>
