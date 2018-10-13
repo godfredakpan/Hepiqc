@@ -150,10 +150,7 @@
         <!--// Header \\-->
 
 		<!--// SubHeader \\-->
-        <div class="careplus-subheader">
-            <div class="careplus-subheader-image">
-                <span class="careplus-dark-transparent"></span>
-           </div>
+        
             <div class="careplus-breadcrumb">
                 <div class="container">
                     <div class="row">
@@ -166,7 +163,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+       
         <!--// SubHeader \\-->
 
 		<!--// Main Content \\-->
