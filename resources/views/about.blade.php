@@ -235,56 +235,11 @@
                                       </div>
                                     </div>
                                   </div>
-                                 <!-- <div class="col-md-12">
-                              <ul class="">
-                                 <h3>Core Elements</h3><br>
-
-                                    <li>
-                                        <h6><i class="fa fa-heart-o"></i>Proper Coordination</h6>
-                                        <p>A management committee comprising public sector, private sector and development partners to ensure proper coordination and support.</p>
-                                    </li>
-                                    <li>
-                                        <h6><i class="fa fa-heart-o"></i>Proper Project Management</h6>
-                                        <p>Information management system for proper project management</p>
-                                    </li>
-                                    <li>
-                                        <h6><i class="fa fa-heart-o"></i>Effective Project Execution</h6>
-                                        <p>A Program delivery unit for effective project execution</p>
-                                    </li>
-                                    <li>
-                                        <h6><i class="fa fa-heart-o"></i> ONLINE APPOINTMENT</h6>
-                                        <p>Pellentesque vitae tortor vel sem pul vinar euismod. Cras congue blandit condimentum. Sed feugiat </p>
-                                    </li> 
-                                </ul>
-                                <ul class="">
-
-                                  <h3>Objectives</h3><br>
-
-                                    <li>
-                                        
-                                        <p>1. Identify knowledge gaps of both the Aged and Healthcare workers and Promote Healthy Aging </p>
-                                    </li>
-                                    <li>
-                                        
-                                        <p>2. Ensure Free Universal Health coverage for the Aged.</p>
-                                    </li>
-                                    <li>
-                                       
-                                        <p>3. Determine and support stakeholder’s role in healthy ageing.</p>
-                                    </li>
-                                    <li>
-                                        
-                                        <p>4. Achieve global strategy on Health and Ageing.</p>
-                                    </li>
-                                    <li>
-                                       
-                                        <p>5. Build capacity in training and research among the Aged and the healthcare workers on healthy ageing. </p>
-                                    </li>
-                                </ul>
-                            </div> -->
+                              
                         </div>
                         
                     </div>
+                    <hr>
                   <div class="col-md-12">
                     <ul>
                       <h3>Project Components</h3><br>
