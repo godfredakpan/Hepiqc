@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from eyecix.com/html/careplus/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:54:57 GMT -->
+<!-- Mirrored from eyecix.com/html/careplus/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>HEPIQ-C Contact Us</title>
-    <!-- favicon -->
-    <link rel="icon" href="images/header-hepiqc.png" sizes="16x16" type="image/png">
+    <title>Hepiq-C Project</title>
 
     <!-- Css Files -->
     <link href="/css/bootstrap.css" rel="stylesheet">
@@ -20,7 +18,11 @@
     <link href="/css/style.css" rel="stylesheet">
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
-    
+    <style>
+        ul {
+  list-style: none !important;
+    }
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,103 +32,121 @@
     <![endif]-->
   </head>
   <body>
-	
-    <!--// Main Wrapper \\-->
-    <div class="careplus-main-wrapper">
     
-            <!--// Header \\-->
-            <header id="careplus-header" class="careplus-header-one">
-                
-                <!--// Main Header \\-->
-                <div class="careplus-main-header">
-                    <div class="container">
-                        <div class="row">
-                            <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
-                            <aside class="col-md-9">
-                                <ul class="careplus-infolist">
-                                    <li>
-                                        <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                        <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                        <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
-                                    </li>
-                                    <li>
-                                        <i class="careplus-bgcolor-two fa fa-clock-o"></i>
-                                        <span>9:00 am - 05:00 am</span>
-                                        <span>Monday - Friday</span>
-                                    </li>
-                                    <li>
-                                        <i class="careplus-bgcolor-two fa fa-map-marker"></i>
-                                        <span>3rd Floor, Federal Ministry of Health, Abuja </span>
-                                    </li>
-                                </ul>
-                                
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-                <!--// Main Header \\-->
+   <!--// Main Wrapper \\-->
+   <div class="careplus-main-wrapper">
+   
+           <!--// Header \\-->
+           <header id="careplus-header" class="careplus-header-one">
+               
+               <!--// Main Header \\-->
+               <div class="careplus-main-header">
+                   <div class="container">
+                       <div class="row">
+                           <aside class="col-md-3"><a href="{{url('/')}}"class="careplus-logo"><img src="images/header-hepiqc.png" alt=""></a></aside>
+                           <aside class="col-md-9">
+                               <ul class="careplus-infolist">
+                                   <li>
+                                       <i class="careplus-bgcolor-two fa fa-envelope"></i>
+                                       <a href="mailto:saidu@hepiqc.com">saidu@hepiqc.com</a>
+                                       <a href="mailto:info@hepiqc.com"> info@hepiqc.com</a>
+                                   </li>
+                                   <li>
+                                       <i class="careplus-bgcolor-two fa fa-clock-o"></i>
+                                       <span>9:00 am - 05:00 am</span>
+                                       <span>Monday - Friday</span>
+                                   </li>
+                                   <li>
+                                       <i class="careplus-bgcolor-two fa fa-map-marker"></i>
+                                       <span>3rd Floor, Federal Ministry of Health, Abuja </span>
+                                   </li>
+                               </ul>
+                               
+                           </aside>
+                       </div>
+                   </div>
+               </div>
+               <!--// Main Header \\-->
 
-            <!--// Navigation Section \\-->
-            <div class="careplus-navigation-section careplus-bgcolor">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="careplus-navinner">
-                                <nav class="navbar navbar-default">
-                                    <div class="navbar-header">
-                                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="true">
-                                        <span class="sr-only">Toggle navigation</span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                      </button>
-                                    </div>
-                                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
-                                      <ul class="nav navbar-nav">
-                                        <li class="active"><a href="{{url('/')}}">Home</a></li>
-                                        <li><a href="{{url('/about')}}">About</a>
-    
-                                        </li>
-                                        <li><a href="{{url('/#')}}">Projects</a>
-                                            <ul class="careplus-dropdown-menu">
-                                                <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="{{url('/project')}}">Clinical Research</a></li>
-                                                        <li><a href="{{url('/project')}}">Gerontology</a></li>
-                                                    </ul>
+           <!--// Navigation Section \\-->
+           <div class="careplus-navigation-section careplus-bgcolor">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-md-12">
+                           <div class="careplus-navinner">
+                               <nav class="navbar navbar-default">
+                                   <div class="navbar-header">
+                                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="true">
+                                       <span class="sr-only">Toggle navigation</span>
+                                       <span class="icon-bar"></span>
+                                       <span class="icon-bar"></span>
+                                       <span class="icon-bar"></span>
+                                     </button>
+                                   </div>
+                                   <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                                     <ul class="nav navbar-nav">
+                                       <li class="active"><a href="{{url('/')}}">Home</a></li>
+                                       <li><a href="{{url('/about')}}"> About</a>
+   
+                                       </li>
+                       
+                                      <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                           <ul class="careplus-dropdown-menu">
+                                               <li><a href="{{url('/arthritis')}}">Arthritis</a>
+                                                      <li><a href="{{url('/diabetes_mellitus')}}"> Diabetes Mellitus</a></li>
+                                                       <li><a href="{{url('/heartattack')}}"> Heart Attack</a></li>
+                                                       <li><a href="{{url('/hypertension')}}">Hypertension</a></li>
+                                                       <li><a href="{{url('/prostate_cancer')}}">Prostate Cancer</a></li>
+                                                       <li><a href="{{url('/glaucoma_and_cataract')}}">Glaucoma and Cataract</a></li>
                                                 </li>
-                                                <li><a href="#">Training of Health Workers</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="{{url('/project')}}">Short Term Training</a></li>
-                                                        <li><a href="{{url('/project')}}">Long Term Training</a></li>
-                                                    </ul>
-                                                </li>
-                                                
-                                                <li><a href="#">Health Social Support</a>
-                                                    <ul class="careplus-dropdown-menu">
-                                                        <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
-                                                        <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
-                                                    </ul>
-                                                </li>
-                                                
-                                            </ul>
-                                        </li>                                       
-                                        <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
-                                        </li>
-                                      </ul>
-                                    </div>
-                                </nav>
-                                <ul class="careplus-user-list">
-                                    <li><a href="{{url('/project')}}" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// Navigation Section \\-->
+                                                                                                                                        
+                                           </ul>
+                                       </li>
+   
+                                       </li>
+                                       <li><a href="#">Projects</a>
+                                           <ul class="careplus-dropdown-menu">
+                                               <li><a href="{{url('/project')}}">Research on the Ageing Population</a>
+                                                   <ul class="careplus-dropdown-menu">
+                                                       <li><a href="{{url('/project')}}">Clinical Research</a></li>
+                                                       <li><a href="{{url('/project')}}">Gerontology</a></li>
+                                                   </ul>
+                                               </li>
+                                               <li><a href="{{url('/project')}}">Training of Health Workers</a>
+                                                   <ul class="careplus-dropdown-menu">
+                                                       <li><a href="{{url('/project')}}">Short Term Training</a></li>
+                                                       <li><a href="{{url('/project')}}">Long Term Training</a></li>
+                                                   </ul>
+                                               </li>
+                                               
+                                               <li><a href="blog-large.html">Health Social Support</a>
+                                                   <ul class="careplus-dropdown-menu">
+                                                       <li><a href="{{url('/project')}}">Community Geriartric Services</a></li>
+                                                       <li><a href="{{url('/project')}}">Resource Mobilization</a></li>
+                                                   </ul>
+                                               </li>
+                                               
+                                           </ul>
+                                       </li>
+                                       
+                                       
+                                       
+                                       <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
+                                       </li>
+                                     </ul>
+                                   </div>
+                               </nav>
+                               <ul class="careplus-user-list">
+                                   <li><a href="#" class="careplus-color-two fa fa-search" data-toggle="modal" data-target="#searchmodal"></a></li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           <!--// Navigation Section \\-->
 
-        </header>
+       </header>
         <!--// Header \\-->
 
 		<!--// SubHeader \\-->

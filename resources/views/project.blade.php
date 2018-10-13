@@ -18,7 +18,11 @@
     <link href="/css/style.css" rel="stylesheet">
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
-    
+    <style>
+        ul {
+  list-style: none !important;
+    }
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,8 +48,8 @@
                                <ul class="careplus-infolist">
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-envelope"></i>
-                                       <a href="mailto:yourdomain@name.com">saidu@hepiqc.com</a>
-                                       <a href="mailto:yourdomain@name.com"> info@hepiqc.com</a>
+                                       <a href="mailto:saidu@hepiqc.com">saidu@hepiqc.com</a>
+                                       <a href="mailto:info@hepiqc.com"> info@hepiqc.com</a>
                                    </li>
                                    <li>
                                        <i class="careplus-bgcolor-two fa fa-clock-o"></i>
@@ -83,6 +87,21 @@
                                      <ul class="nav navbar-nav">
                                        <li class="active"><a href="{{url('/')}}">Home</a></li>
                                        <li><a href="{{url('/about')}}"> About</a>
+   
+                                       </li>
+                       
+                                      <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                           <ul class="careplus-dropdown-menu">
+                                               <li><a href="{{url('/arthritis')}}">Arthritis</a>
+                                                      <li><a href="{{url('/diabetes_mellitus')}}"> Diabetes Mellitus</a></li>
+                                                       <li><a href="{{url('/heartattack')}}"> Heart Attack</a></li>
+                                                       <li><a href="{{url('/hypertension')}}">Hypertension</a></li>
+                                                       <li><a href="{{url('/prostate_cancer')}}">Prostate Cancer</a></li>
+                                                       <li><a href="{{url('/glaucoma_and_cataract')}}">Glaucoma and Cataract</a></li>
+                                                </li>
+                                                                                                                                        
+                                           </ul>
+                                       </li>
    
                                        </li>
                                        <li><a href="#">Projects</a>

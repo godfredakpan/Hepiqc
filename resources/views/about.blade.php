@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   
+<!-- Mirrored from eyecix.com/html/careplus/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Mar 2018 16:51:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,11 +19,8 @@
     <link href="/css/color.css" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
     <style>
-    ul, li {
+        ul {
   list-style: none !important;
-    }
-    p{
-        color:#555555 !important;
     }
     </style>
 
@@ -91,7 +89,19 @@
                                        <li><a href="{{url('/about')}}"> About</a>
    
                                        </li>
-                                    <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                       
+                                      <li><a href="{{url('healthissues')}}"> Health Issues</a>
+                                           <ul class="careplus-dropdown-menu">
+                                               <li><a href="{{url('/arthritis')}}">Arthritis</a>
+                                                      <li><a href="{{url('/diabetes_mellitus')}}"> Diabetes Mellitus</a></li>
+                                                       <li><a href="{{url('/heartattack')}}"> Heart Attack</a></li>
+                                                       <li><a href="{{url('/hypertension')}}">Hypertension</a></li>
+                                                       <li><a href="{{url('/prostate_cancer')}}">Prostate Cancer</a></li>
+                                                       <li><a href="{{url('/glaucoma_and_cataract')}}">Glaucoma and Cataract</a></li>
+                                                </li>
+                                                                                                                                        
+                                           </ul>
+                                       </li>
    
                                        </li>
                                        <li><a href="#">Projects</a>
@@ -118,8 +128,9 @@
                                                
                                            </ul>
                                        </li>
-                                                                       
-                                    
+                                       
+                                       
+                                       
                                        <li class="careplus-megamenu-li"><a href="{{url('/contact')}}">Contact us</a>
                                        </li>
                                      </ul>
