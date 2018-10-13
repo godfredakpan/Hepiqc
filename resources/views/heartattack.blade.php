@@ -158,7 +158,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="careplus-about-post-text">
-                                 <h2>Arthritis<span></span></h2>
+                                 <h2>Heart Attack<span></span></h2>
                                  <div class="clearfix"></div>
                                 <a href="http://hepiqc.herokuapp.com/project" class="careplus-readmore-btn">View Our Projects <span></span></a>
                             </div>
