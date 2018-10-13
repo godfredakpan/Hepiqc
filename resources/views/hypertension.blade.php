@@ -174,7 +174,433 @@
                     <div class="row">
                         <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
+                              <!-- Contents Starts Here -->
 
+                              <h3>
+                              Hypertension
+                          </h3>
+                          <p>
+                              Blood pressure is the measurement of the pressure or force of blood pushing
+                              against blood vessel walls. In hypertension (high blood pressure), the
+                              pressure against the blood vessel walls is consistently too high. High
+                              blood pressure is often called the “silent killer” because you may not be
+                              aware that anything is wrong, but the damage is occurring within your body.
+                          </p>
+                          <p>
+                              The only way to know if you have high blood pressure is to have your blood
+                              pressure taken. It is best to know your numbers and make the changes that
+                              can help prevent or limit damage.
+                          </p>
+                          <h3>
+                              Who is more likely to have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      People with family members who have high blood pressure,
+                                      cardiovascular disease, or diabetes.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-Americans.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who are pregnant.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who take birth control pills.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People over 35.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are overweight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are not active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who drink a lot of alcohol.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who eat too many fatty foods or foods with too much salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who smoke.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              Understanding BP readings
+                          </h3>
+                          <p>
+                              Your blood pressure reading has 2 numbers. The first is the systolic, which
+                              measures the pressure on the blood vessel walls when your heart beats. The
+                              second number is the diastolic, which measures the pressure on your blood
+                              vessels between beats when the heart is at rest.
+                          </p>
+                          <h3>
+                              What is a normal blood pressure reading?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Normal
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): less than 120
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              and Diastolic mm Hg (lower number): less than 80
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Prehypertension
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 120 – 139
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 80 – 89
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      High Blood Pressure (Hypertension) Stage 1
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 140 – 159
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 90 – 99
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      High Blood Pressure (Hypertension) Stage 2
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): 160 or higher
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): 100 or higher
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Blood Pressure Category:</strong>
+                                      Hypertensive Crisis (Emergency care needed)
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Systolic mm Hg (upper number): Higher than 180
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              or Diastolic mm Hg (lower number): Higher than 110
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I do if I have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      If you have been diagnosed with high blood pressure, you should
+                                      discuss your target blood pressure with your healthcare provider.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Check your own blood pressure at home as recommended.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Eat healthy foods that are low in salt and fat.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Achieve and maintain your ideal body weight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Limit alcohol to no more than two drinks each day. One drink is
+                                      defined as 1 oz. of alcohol, 5 oz. of wine, or 12 oz. of beer.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Be more physically active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Quit smoking.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Work on controlling anger and managing stress.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Take high blood pressure medicine if your healthcare provider
+                                      prescribes it, and follow the healthcare provider's directions
+                                      carefully.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have regular blood pressure checks by your healthcare provider.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I know about blood pressure medicine?
+                          </h3>
+                          <p>
+                              There are many different medicines to treat high blood pressure, and you
+                              might need to take medicine from now on. If your healthcare provider tells
+                              you to take high blood pressure medicine, be sure to follow the exact
+                              directions.
+                          </p>
+                          <p>
+                              Also, ask what side effects can happen with your medicine, and talk to your
+                              healthcare provider about any problems or side effects you might have with
+                              your medicine. Lastly, do not stop taking the medicine on your own.
+                          </p>
+                          <h3>
+                              What can happen if high blood pressure is not treated?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Stroke.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Enlarged heart.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Heart failure.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Peripheral vascular disease.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Heart attack.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Kidney disease/failure.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What should I include in my diet to control high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Eat foods that are lower in fat, salt, and calories, such as skim
+                                      or 1% milk, fresh vegetables and fruits, and whole grain, rice, and
+                                      pasta. (Ask your doctor or healthcare provider for a more detailed
+                                      list of salt-free foods to eat.)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Use flavorings, spices, and herbs to make foods tasty without using
+                                      salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Avoid or cut down on butter and margarine, regular salad dressings,
+                                      fatty meats, whole milk dairy products, fried foods, processed
+                                      foods or fast foods, and salted snacks.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Ask your healthcare provider if you should increase potassium in
+                                      your diet or if you need to take a potassium supplement.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Discuss the Dietary Approaches to Stop Hypertension (DASH) diet
+                                      with your healthcare provider.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              How can I be more active?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Check first with your healthcare provider before increasing your
+                                      physical activity. Ask your provider what type and amount of
+                                      exercise is right for you.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Choose aerobic activities such as walking, biking, or swimming.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Start slowly and increase activity gradually. Aim for a regular
+                                      routine of activity 5 times a week for 30 to 45 minutes each
+                                      session.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Activity can be done in 10-minute sessions to add up to the 30-45
+                                      minutes total.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What is high blood pressure?
+                          </h3>
+                          <p>
+                              Blood pressure is the measurement of the pressure or force of blood pushing
+                              against blood vessel walls. In hypertension (high blood pressure), the
+                              pressure against the blood vessel walls is consistently too high. High
+                              blood pressure is often called the “silent killer” because you may not be
+                              aware that anything is wrong, but the damage is occurring within your body.
+                          </p>
+                          <p>
+                              The only way to know if you have high blood pressure is to have your blood
+                              pressure taken. It is best to know your numbers and make the changes that
+                              can help prevent or limit damage.
+                          </p>
+                          <h3>
+                              Who is more likely to have high blood pressure?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      People with family members who have high blood pressure,
+                                      cardiovascular disease, or diabetes.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-Americans.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who are pregnant.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Women who take birth control pills.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People over 35.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are overweight.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who are not active.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who drink a lot of alcohol.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who eat too many fatty foods or foods with too much salt.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      People who smoke.
+                                  </p>
+                              </li>
+                          </ul>
+
+                              
+                              <!-- Contents Ends Here -->
                               
                                
                       </div>          

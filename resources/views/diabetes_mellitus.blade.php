@@ -25,11 +25,7 @@
     </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  
   </head>
   <body>
     
@@ -174,7 +170,680 @@
                     <div class="row">
                         <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
+                          <!-- Contents Starts Here -->
 
+                          <h3>
+                              Diabetes mellitus
+                          </h3>
+                          <p>
+                              Diabetes mellitus is a disease that prevents your body from properly using
+                              the energy from the food you eat. Diabetes occurs in one of the following
+                              situations:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      The pancreas (an organ behind your stomach) produces little insulin
+                                      or no insulin at all. (Insulin is a naturally occurring hormone,
+                                      produced by the beta cells of the pancreas, which helps the body
+                                      use sugar for energy.)
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              <strong>-Or-</strong>
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      The pancreas makes insulin, but the insulin made does not work as
+                                      it should. This condition is called insulin resistance.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              To better understand diabetes, it helps to know more about how the body
+                              uses food for energy (a process called metabolism). Your body is made up of
+                              millions of cells.
+                          </p>
+                          <p>
+                              To make energy, the cells need food in a very simple form. When you eat or
+                              drink, much of your food is broken down into a simple sugar called glucose.
+                              Glucose provides the energy your body needs for daily activities.
+                          </p>
+                          <p>
+                              The blood vessels and blood are the highways that transport sugar from
+                              where it is either taken in (the stomach) or manufactured (in the liver) to
+                              the cells where it is used (muscles) or where it is stored (fat). Sugar
+                              cannot go into the cells by itself. The pancreas releases insulin into the
+                              blood, which serves as the helper, or the "key," that lets sugar into the
+                              cells for use as energy.
+                          </p>
+                          <p>
+                              When sugar leaves the bloodstream and enters the cells, the blood sugar
+                              level is lowered. Without insulin, or the "key," sugar cannot get into the
+                              body's cells for use as energy. This causes sugar to rise. Too much sugar
+                              in the blood is called "hyperglycemia" (high blood sugar) or diabetes.
+                          </p>
+                          <h3>
+                              What are the types of diabetes?
+                          </h3>
+                          <p>
+                          There are two main types of diabetes: <strong>Type 1</strong> and    <strong>Type 2</strong>:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Type 1 diabetes occurs because the insulin-producing cells of the
+                                      pancreas (beta cells) are damaged. In Type 1 diabetes, the pancreas
+                                      makes little or no insulin, so sugar cannot get into the body's
+                                      cells for use as energy. People with Type 1 diabetes must use
+                                      insulin injections to control their blood glucose. Type 1 is the
+                                      most common form of diabetes in people who are under age 30, but it
+                                      can occur at any age. Ten percent of people with diabetes are
+                                      diagnosed with Type 1.
+                                  </p>
+                              </li>
+                          </ul>
+                          <ul>
+                              <li>
+                                  <p>
+                                      In Type 2 diabetes, the pancreas makes insulin, but it either
+                                      doesn't produce enough, or the insulin does not work properly. Nine
+                                      out of 10 people with diabetes have Type 2. This type occurs most
+                                      often in people who are over 40 years old and overweight. Type 2
+                                      diabetes may sometimes be controlled with a combination of diet,
+                                      weight management, and exercise. However, treatment also may
+                                      include oral glucose-lowering medications (taken by mouth) or
+                                      insulin injections (shots).
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Other types of diabetes might result from pregnancy (gestational diabetes),
+                              surgery, use of certain medicines, various illnesses, and other specific
+                              causes.
+                          </p>
+                          <h3>
+                              What is gestational diabetes?
+                          </h3>
+                          <p>
+                              Gestational diabetes occurs when there is a high blood glucose level during
+                              pregnancy. As pregnancy progresses, the developing baby has a greater need
+                              for glucose. Hormone changes during pregnancy also affect the action of
+                              insulin, which brings about high blood glucose levels.
+                          </p>
+                          <p>
+                              Pregnant women who have a greater risk of developing gestational diabetes
+                              include those who:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Are over 25 years old
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Are above their desired body weight
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have a family history of diabetes
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Are Hispanic, African-American, Native American, or Asian-American.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Blood glucose levels usually return to normal after childbirth. However,
+                              women who have had gestational diabetes have an increased risk of
+                              developing Type 2 diabetes later in life.
+                          </p>
+                          <h3>
+                              What causes diabetes?
+                          </h3>
+                          <p>
+                              The causes of diabetes are not known. The following factors may increase
+                              your chance of getting diabetes:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Family history of diabetes or inherited tendency
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      African-American, Hispanic, Native American, or Asian-American
+                                      race, Pacific Islander or ethnic background
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Being overweight (20 percent or more over your desired body weight)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Physical stress (such as surgery or illness)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Use of certain medications, including steroids and blood pressure
+                                      medications
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Injury to the pancreas (such as infection, tumor, surgery, or
+                                      accident)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Autoimmune disease
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      High blood pressure
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Abnormal blood cholesterol or triglyceride levels
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Age (risk increases with age)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Alcohol (risk increases with years of heavy alcohol use)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Smoking
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      History of gestational diabetes or delivery of a baby weighing more
+                                      than 9 pounds (4.1 Kg).
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Pregnancy
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              It is important to note that sugar itself does not cause diabetes. Eating a
+                              lot of sugar can lead to tooth decay, but it does not cause diabetes.
+                          </p>
+                          <h3>
+                              What are the symptoms of diabetes?
+                          </h3>
+                          <p>
+                              The symptoms of diabetes include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Increased thirst
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Increased hunger (especially after eating)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Dry mouth
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Frequent urination
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Unexplained weight loss (even though you are eating and feel
+                                      hungry)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Weak, tired feeling
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Blurred vision
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Numbness or tingling in the hands or feet
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Slow-healing sores or cuts
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Dry and itchy skin (usually in the vaginal or groin area)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Frequent yeast infections
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              What are the symptoms of low blood sugar?
+                          </h3>
+                          <p>
+                              Most people have symptoms of low blood sugar (hypoglycemia) when their
+                              blood sugar is less than 60 mg/dl. (Your health care provider will tell you
+                              how to test your blood sugar level.)
+                          </p>
+                          <p>
+                              When your blood sugar is low, your body gives out signs that you need food.
+                              Different people have different symptoms. You will learn to know your
+                              symptoms.
+                          </p>
+                          <p>
+                              Common early symptoms of low blood sugar include the following:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Feeling weak
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Feeling dizzy
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Feeling hungry
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Trembling and feeling shaky
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Sweating
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Pounding heart
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Pale skin
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Feeling frightened or anxious
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Late symptoms of low blood sugar include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Feeling confused
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Headache
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Feeling cranky
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Poor coordination
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Bad dreams or nightmares
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Being unable keep your mind on one subject
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Numbness in your mouth and tongue
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Passing out
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              How is diabetes diagnosed?
+                          </h3>
+                          <p>
+                              Diabetes is diagnosed with fasting sugar blood tests or with A1c blood
+                              tests, also known as glycated hemoglobin tests. A fasting blood sugar test
+                              is performed after you have had nothing to eat or drink for at least eight
+                              hours. Normal fasting blood sugar is less than 100 mg/dl (5.6 mmol/l). You
+                              do not have to be fasting for an A1c blood test. Diabetes is diagnosed by
+                              one of the following (see chart):
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Your blood sugar level is equal to or greater than 126 mg/dl (7
+                                      mmol/l).
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      You have two random blood sugar tests over 200 mg/dl (11.1 mmol/l)
+                                      with symptoms.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      You have an oral glucose tolerance test with results over 200 mg/dl
+                                      (11.1 mmol/l).
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Your A1c test is greater than 6.5% on two separate days.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              An A1c test should be performed in a laboratory using a method that is
+                              certified by the National Glycohemoglobin Standardization Program (NGSP)
+                              and standardized to the Diabetes Control and Complications Trial (DCCT)
+                              assay.
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Fasting Glucose Test</strong>
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Normal: Less than 100
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Pre-diabetes: 100-125
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Diabetes: 126 or higher
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Random (anytime) Glucose Test</strong>
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Normal: Less than 140
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Pre-diabetes: 140-199
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Diabetes: 200 or higher
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>A1c Test</strong>
+                                  </p>
+                                  <ul>
+                                      <li>
+                                          <p>
+                                              Normal: Less than 5.7%
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Pre-diabetes: 5.7 - 6.4%
+                                          </p>
+                                      </li>
+                                      <li>
+                                          <p>
+                                              Diabetes: 6.5% or higher
+                                          </p>
+                                      </li>
+                                  </ul>
+                              </li>
+                          </ul>
+                          <h3>
+                              How is diabetes managed?
+                          </h3>
+                          <p>
+                              There is no cure for diabetes, but it can be treated and controlled. The
+                              goals of managing diabetes are to:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Keep your blood glucose levels as near to normal as possible by
+                                      balancing food intake with medication and activity.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Maintain your blood cholesterol and triglyceride (lipid) levels as
+                                      near the normal ranges as possible by decreasing the total amount
+                                      of fat to 30% or less of your total daily calories, and by reducing
+                                      saturated fat and cholesterol.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Control your blood pressure. (Your blood pressure should not go
+                                      over 130/80.)
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Decrease or possibly prevent the development of diabetes-related
+                                      health problems.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              You hold the keys to managing your diabetes by:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Planning what you eat and following a balanced meal plan.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Exercising regularly.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Taking medication, if prescribed, and closely following the
+                                      guidelines on how and when to take it.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Monitoring your blood glucose and blood pressure levels at home.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Keeping your appointments with your health care providers and
+                                      having laboratory tests completed as ordered by your doctor.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              What you do at home every day affects your blood glucose more than what
+                              your doctor can do every few months during your check-up.
+                          </p>
+                          <h3>
+                              What are insulin pumps?
+                          </h3>
+                          <p>
+                              Insulin pumps are small, computerized devices, about the size of a beeper
+                              that you wear on your belt or put in your pocket. They have a small
+                              flexible tube with a fine needle on the end. The needle is inserted under
+                              the skin of your abdomen and taped in place. The pump releases a carefully
+                              measured, steady flow of insulin into the tissue. Insulin pumps can cost
+                              $6,000 to $10,000 for the pump, with additional costs for necessary
+                              supplies to use the pump.Using a pump means you will have to monitor your
+                              blood sugar level at least four times a day. You program doses and make
+                              adjustments to your insulin, depending on your food intake and exercise
+                              program. Some health care providers prefer the insulin pump over injections
+                              because its slow release of insulin imitates a working pancreas.
+                          </p>
+                          <h3>
+                              Can I take both pills and insulin to control my blood sugar?
+                          </h3>
+                          <p>
+                              Yes. The combination of insulin and an oral medication, when taken as
+                              directed by your doctor, is very safe and effective in controlling blood
+                              sugar. A typical combination therapy consists of taking an oral medication
+                              during the day and insulin at night. Once you begin taking insulin, you
+                              will need to monitor your blood sugar more often to reduce the risk of low
+                              blood sugar reactions.Combination therapies are often helpful for people
+                              who have Type 2 diabetes (adult onset diabetes). If you have been taking an
+                              oral medication, your doctor may change your treatment plan to include
+                              insulin injections. This change is often made to help people with Type 2
+                              diabetes gain better control of their blood sugar.
+                          </p>
+                          <h3>
+                              <br/>
+                              <br/>
+                          </h3>
+                          <h3>
+                              Can diabetes be cured?
+                          </h3>
+                          <p>
+                              No. A cure for diabetes has not yet been found. However, diabetes can be
+                              treated and controlled. Most people with diabetes manage their disease and
+                              lead normal lives.
+                          </p>
+                          <h3>
+                              What are some of the long-term complications of diabetes?
+                          </h3>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <strong>Retinopathy (eye disease)</strong>
+                                      : All patients with diabetes should see an ophthalmologist (eye
+                                      specialist) every year for a dilated eye examination. Patients with
+                                      known eye disease or symptoms of blurred vision in one eye or who
+                                      have blind spots may need to see their ophthalmologist more often.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Nephropathy (kidney disease)</strong>
+                                      : Urine testing should be performed every year. Regular blood
+                                      pressure checks also are important because control of high blood
+                                      pressure is essential in slowing kidney disease. Generally, blood
+                                      pressure should be less than 130/80 in adults. Persistent swelling
+                                      in the leg or feet also may be a symptom of kidney disease and
+                                      should be reported to your doctor.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <strong>Neuropathy (nerve disease)</strong>
+                                      : Numbness or tingling in your feet should be reported to your
+                                      doctor at your regular visits. Check your feet every day for
+                                      redness, calluses, cracks, or breakdown in the skin tissue. If you
+                                      notice these symptoms before your scheduled visits, notify your
+                                      doctor immediately.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Other long-term complications may include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Eye problems, including glaucoma and cataracts
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Dental problems
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      High blood pressure
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Heart disease
+                                  </p>
+                              </li>
+                          </ul>
+
+                          <!-- Contents Ends Here -->
                               
                                
                       </div>          

@@ -175,6 +175,286 @@
                         <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
 
+                              <!-- Contents Starts Here -->
+
+                              <h3>
+                              Glaucoma
+                          </h3>
+                          <h3>
+                              What is glaucoma?
+                          </h3>
+                          <p>
+                              Glaucoma is a group of
+                              <a
+                                  href="https://my.clevelandclinic.org/departments/eye/conditions-treatments"
+                              >
+                                  eye diseases
+                              </a>
+                              that has one thing in common: progressive (increasing) damage to the vision
+                              nerve (optic nerve) that connects the eyeball to the brain.
+                          </p>
+                          <p>
+                              This damage is recognized by a loss of optic nerve tissue in a pattern
+                              called "cupping," and by blind spots or blurry spots in the peripheral
+                              (side) vision. Advanced glaucoma can lead to permanently
+                              <a href="https://my.clevelandclinic.org/health/articles/low-vision">
+                                  blurred or dimmed vision
+                              </a>
+                              , or even to blindness. Early and moderate stage glaucoma generally has no
+                              symptoms. This is why it is important to be examined by an ophthalmologist
+                              (eye doctor) regularly to determine if you are likely to develop the
+                              disease.
+                          </p>
+                          <p>
+                              In many cases, we do not know exactly what causes glaucoma. However,
+                              increased eye pressure is the most common risk factor for developing the
+                              disease. The pressure comes when the clear fluid in
+                              <a
+                                  href="https://my.clevelandclinic.org/services/cole-eye/patient-education/take-a-tour-of-the-eye"
+                              >
+                                  the eye
+                              </a>
+                              , called the aqueous humor, does not drain properly.
+                          </p>
+                          <p>
+                              This fluid normally helps to nourish the eye, and flows in and out of the
+                              eye through a mesh-like channel. In people with high eye pressure, the
+                              fluid does not drain properly and pressure builds up in the eye.
+                          </p>
+                          <p>
+                              However, it is possible to develop glaucoma even if your eye pressure is
+                              normal. Currently, treatment for glaucoma is aimed at lowering your eye
+                              pressure, even if it is “normal.”
+                          </p>
+                          <p>
+                              Glaucoma treatment cannot restore vision that is lost. But treatment can
+                              reduce the likelihood of additional
+                              <a href="https://my.clevelandclinic.org/health/articles/coping-vision-loss">
+                                  vision loss
+                              </a>
+                              . That is why screening and early detection of glaucoma are so important.
+                          </p>
+                          <h3>
+                              What are the different types of glaucoma?
+                          </h3>
+                          <p>
+                              There are 2 main types of glaucoma found in adults:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Open-angle glaucoma is the most common type. It is found in
+                                      approximately 90% of glaucoma patients in the United States. In
+                                      open-angle glaucoma, the structures in the eye appear to be normal,
+                                      but fluid does not drain properly, probably because of changes in
+                                      and along the drainage passage. This type of glaucoma has no early
+                                      warning signs and can go unnoticed for years.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Chronic or acute angle-closure glaucoma accounts for about 10% of
+                                      glaucoma cases in U.S. Here, the normal drainage passage in the eye
+                                      is narrowed and then becomes blocked.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              If either type of glaucoma is diagnosed early enough, a simple laser
+                              treatment can be used to improve the drainage.
+                          </p>
+                          <h3>
+                              Who is most likely to get glaucoma?
+                          </h3>
+                          <p>
+                              Glaucoma is more commonly found in people over the age of 35. You are more
+                              likely to get glaucoma if you:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Are of African-American descent.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have family members with glaucoma.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/diabetes-basics"
+                                      >
+                                          diabetes.
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Have had a serious eye injury in the past.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Take
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/corticosteroids"
+                                      >
+                                          corticosteroid
+                                      </a>
+                                      (e.g., prednisone) medications.
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Glaucoma usually occurs in both eyes, although one eye may be more affected
+                              than the other.
+                          </p>
+                          <h3>
+                              What are the symptoms of glaucoma?
+                          </h3>
+                          <p>
+                              Most patients with glaucoma do not notice any symptoms at first, until they
+                              have lost some of their peripheral (side) vision. Often, this is not
+                              recognized by the patient until the disease has progressed.
+                          </p>
+                          <p>
+                              When other symptoms are present, they may include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Pain in the eye.
+                                      <em>
+                                          (IMPORTANT: If you have sudden, severe eye pain,
+                                          <a
+                                              href="https://my.clevelandclinic.org/health/articles/overview-of-headaches-in-adults"
+                                          >
+                                              headache
+                                          </a>
+                                          , and blurred vision, your internal eye pressure may be very
+                                          high. You should call your ophthalmologist or go to an
+                                          emergency room right away.)
+                                      </em>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Redness in the eye.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      The vision in one or both eyes appearing hazy.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Seeing halos around lights.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Narrowing of vision (tunnel vision).
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              If there are no recognizable symptoms, how can I tell if I have glaucoma?
+                          </h3>
+                          <p>
+                              Your ophthalmologist (eye doctor) will perform regular
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/eye-examinations-what-to-expect"
+                              >
+                                  examinations
+                              </a>
+                              of your eyes and will be able to tell if you are likely to have glaucoma.
+                          </p>
+                          <p>
+                              Glaucoma tests are painless and take very little time. The ophthalmologist
+                              uses a device called a tonometer to measure the pressure in your eyes. He
+                              or she also uses an ophthalmoscope and other instruments to examine the
+                              eye’s interior and detect damage to the optic nerve.
+                          </p>
+                          <p>
+                              Your ophthalmologist may also test your field of vision (the range in which
+                              you see clearly), including your peripheral vision, and may also obtain
+                              special pictures, such as optical coherence tomography pictures, of the
+                              nerve in the back of the eye.
+                          </p>
+                          <h3>
+                              How is glaucoma treated?
+                          </h3>
+                          <p>
+                              The goal of glaucoma treatment is to prevent further vision loss by
+                              controlling pressure in the eye – like controlling blood pressure to
+                              prevent a stroke. There are several ways in which glaucoma can be treated
+                              successfully:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      Medications, in the form of eye drops or pills, lower pressure by
+                                      reducing the amount of fluid produced in the eye, and by increasing
+                                      drainage. One or more medicines may be used at the same time.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Laser therapy, performed on an outpatient basis, is used to reduce
+                                      pressure in the eye. A procedure called laser trabeculoplasty
+                                      improves fluid drainage in patients with open-angle glaucoma.
+                                      People with closed-angle glaucoma usually must be treated with a
+                                      procedure called laser iridotomy, which creates a tiny opening in
+                                      the iris (colored part of the eye), allowing the drainage angle to
+                                      open.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Surgery may be needed to create a second drainage channel in the
+                                      eye to support the natural one. Glaucoma surgery is usually
+                                      performed on an outpatient basis using local anesthesia, and may
+                                      allow the patient to reduce or eliminate glaucoma medications.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      For more advanced cases, an artificial glaucoma drainage implant
+                                      may help to decrease pressure. The implant helps to drain excess
+                                      fluid, which is then absorbed into the body.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                              I have glaucoma and cataracts. What can be done to help?
+                          </h3>
+                          <p>
+                              A
+                              <a href="https://my.clevelandclinic.org/health/articles/cataracts">
+                                  cataract
+                              </a>
+                              is a clouding of the lens of the eye that prevents light from entering.
+                              Since many people develop cataracts as they age, many people with glaucoma
+                              also have them. The 2 problems can be treated in many patients using a
+                              single combined procedure. Vision is restored more quickly, and further
+                              surgery usually is not needed.
+                          </p>
+                          <h3>
+                              Can vision loss or blindness from glaucoma be cured?
+                          </h3>
+                          <p>
+                              Unfortunately, no. Treatment cannot bring back vision that has been lost as
+                              a result of glaucoma. But treatment can reduce the chance of further vision
+                              loss. See your ophthalmologist for regular eye examinations and glaucoma
+                              screenings.
+                          </p>
+
+
+                              <!-- Contents Ends Here -->
                               
                                
                       </div>          

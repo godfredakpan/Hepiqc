@@ -175,13 +175,183 @@
                         <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
 
-                              
+          <!-- content starts here -->
+                                <strong>Arthritis</strong>
+                          </p>
+                          <p>
+                              Arthritis is very common but is not well understood. Actually, “arthritis”
+                              is not a single disease; it is an informal way of referring to joint pain
+                              or joint disease. There are more than 100 different
+                              <a href="https://www.arthritis.org/about-arthritis/types/">
+                                  types of arthritis
+                              </a>
+                              and related conditions. People of all ages, sexes and races can and do have
+                              arthritis. It is most common among women and occurs more frequently as
+                              people get older.
+                          </p>
+                          <p>
+                              Common arthritis joint symptoms include swelling, pain, stiffness and
+                              decreased range of motion. Symptoms may come and go. They can be mild,
+                              moderate or severe. They may stay about the same for years, but may
+                              progress or get worse over time. Severe arthritis can result in chronic
+                              pain, inability to do daily activities and make it difficult to walk or
+                              climb stairs. Arthritis can cause permanent joint changes. These changes
+                              may be visible, such as knobby finger joints, but often the damage can only
+                              be seen on X-ray. Some types of arthritis also affect the heart, eyes,
+                              lungs, kidneys and skin as well as the joints.
+                          </p>
+                          <p>
+                              There are different types of arthritis:
+                          </p>
+                          <h2>
+                              Degenerative Arthritis
+                          </h2>
+                          <p>
+                              Osteoarthritis is the most common type of arthritis. When the cartilage –
+                              the slick, cushioning surface on the ends of bones – wears away, bone rubs
+                              against bone, causing pain, swelling and stiffness. Over time, joints can
+                              lose strength and pain may become chronic. Risk factors include excess
+                              weight, family history, age and previous injury (an anterior cruciate
+                              ligament, or ACL, tear, for example).
+                          </p>
+                          <p>
+                              When the joint symptoms of osteoarthritis are mild or moderate, they can be
+                              managed by:
+                          </p>
+                        <ul style="list-style: none;">
+                              <li>
+                                 
+                                      Balancing activity with rest
+                                
+                              </li>
+                              <li>
+                                
+                                      Using hot and cold therapies
+                                 
+                              </li>
+                              <li>
                                
+                                      Regular physical activity
+                                
+                              </li>
+                              <li>
+                                 
+                                      Maintaining a healthy weight
+                                  
+                              </li>
+                              <li>
+                                 
+                                      Strengthening the muscles around the joint for added support
+                               
+                              </li>
+                              <li>
+                               
+                                      Using assistive devices
+                                 
+                              </li>
+                              <li>
+                                
+                                      Taking over-the-counter (OTC) pain relievers or anti-inflammatory
+                                      medicines
+                                  
+                              </li>
+                              <li>
+                                  
+                               
+                              </li>
+                          </ul>
+                          <p>
+                              If joint symptoms are severe, causing limited mobility and affecting
+                              quality of life, some of the above management strategies may be helpful,
+                              but joint replacement may be necessary.
+                          </p>
+                          <p>
+                              Osteoarthritis can prevented by staying active, maintaining a healthy
+                              weight, and avoiding injury and repetitive movements.
+                          </p>
+                          <h2>
+                              Inflammatory Arthritis
+                          </h2>
+                          <p>
+                              A healthy immune system is protective. It generates internal inflammation
+                              to get rid of infection and prevent disease. But the immune system can go
+                              awry, mistakenly attacking the joints with uncontrolled inflammation,
+                              potentially causing joint erosion and may damage internal organs, eyes and
+                              other parts of the body. Rheumatoid arthritis and psoriatic arthritis are
+                              examples of inflammatory arthritis. Researchers believe that a combination
+                              of genetics and environmental factors can trigger autoimmunity. Smoking is
+                              an example of an environmental risk factor that can trigger rheumatoid
+                              arthritis in people with certain genes.
+                          </p>
+                          <p>
+                              With autoimmune and inflammatory types of arthritis, early diagnosis and
+                              aggressive treatment is critical. Slowing disease activity can help
+                              minimize or even prevent permanent joint damage. Remission is the goal and
+                              may be achieved through the use of one or more medications known as
+                              disease-modifying antirheumatic drugs (DMARDs). The goal of treatment is to
+                              reduce pain, improve function, and prevent further joint damage.
+                          </p>
+                          <h2>
+                              Infectious Arthritis
+                          </h2>
+                          <p>
+                              A bacterium, virus or fungus can enter the joint and trigger inflammation.
+                              Examples of organisms that can infect joints are salmonella and shigella
+                              (food poisoning or contamination), chlamydia and gonorrhea (sexually
+                              transmitted diseases) and hepatitis C (a blood-to-blood infection, often
+                              through shared needles or transfusions). In many cases, timely treatment
+                              with antibiotics may clear the joint infection, but sometimes the arthritis
+                              becomes chronic.
+                          </p>
+                          <h2>
+                              Metabolic Arthritis
+                          </h2>
+                          <p>
+                              Uric acid is formed as the body breaks down purines, a substance found in
+                              human cells and in many foods. Some people have high levels of uric acid
+                              because they naturally produce more than is needed or the body can’t get
+                              rid of the uric acid quickly enough. In some people the uric acid builds up
+                              and forms needle-like crystals in the joint, resulting in sudden spikes of
+                              extreme joint pain, or a gout attack. Gout can come and go in episodes or,
+                              if uric acid levels aren’t reduced, it can become chronic, causing ongoing
+                              pain and disability.
+                          </p>
+                          <p>
+                              <strong>Diagnosing Arthritis</strong>
+                          </p>
+                          <p>
+                              Arthritis diagnosis often begins with a primary care physician, who
+                              performs a physical exam and may do blood tests and imaging scans to help
+                              determine the type of arthritis. An arthritis specialist, or
+                              rheumatologist, should be involved if the diagnosis is uncertain or if the
+                              arthritis may be inflammatory. Rheumatologists typically manage ongoing
+                              treatment for inflammatory arthritis, gout and other complicated cases.
+                              Orthopaedic surgeons do joint surgery, including joint replacements. When
+                              the arthritis affects other body systems or parts, other specialists, such
+                              as ophthalmologists, dermatologists or dentists, may also be included in
+                              the health care team.
+                          </p>
+                          <p>
+                              <strong>What Can Be Done About Arthritis?</strong>
+                          </p>
+                          <p>
+                              There are many things that can be done to preserve joint function, mobility
+                              and quality of life. Learning about the disease and treatment options,
+                              making time for physical activity and maintaining a healthy weight are
+                          essential. Arthritis is a commonly misunderstood disease    <strong>. HEPIQ-C is a Federal Government Intervention Project</strong>
+                              dedicated to serving all people with arthritis.
+                          </p>
+                          <p>
+                              Source <a href="https://www.arthritis.org/">https://www.arthritis.org</a>
+                          </p>
+                           <!--// Contents Ends Here \\-->
+                              
                       </div>          
                   </div>
                 </div>
             </div>
         </div>
+
             <!--// Main section \\-->
 
             <!--// Main section \\-->

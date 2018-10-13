@@ -174,7 +174,645 @@
                     <div class="row">
                         <div class="col-md-12" style="padding-top:10px;">
                             <div class="careplus-about-service">
+                              <!-- Contents Starts Here -->
+                              <h3>
+                              A heart attack, or myocardial infarction (MI), is permanent damage to the
+                              heart muscle. "Myo" means muscle, "cardial" refers to the heart, and
+                              "infarction" means death of tissue due to lack of blood supply.
+                          </h3>
+                          <ul>
+                              <li>
+                                  <h3>
+                                      A closer look inside your coronary arteries
+                                  </h3>
+                              </li>
+                              <li>
+                                  <p>
+                                      Your heart muscle needs to receive a good supply of blood at all
+                                      times to function properly. Your heart muscle gets the blood it
+                                      needs to do its job from the
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/heart-blood-vessels-coronary-arteries"
+                                      >
+                                          coronary arteries
+                                      </a>
+                                      .
+                                  </p>
+                              </li>
+                              <li>
+                                  <h3>
+                                      What is coronary artery disease?
+                                  </h3>
+                              </li>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/coronary-artery-disease"
+                                      >
+                                          Coronary artery disease
+                                      </a>
+                                      is the narrowing or blockage of the coronary arteries caused by
+                                      atherosclerosis.
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/arterial-disease"
+                                      >
+                                          Atherosclerosis
+                                      </a>
+                                      (sometimes called "hardening" or "clogging" of the arteries) is the
+                                      buildup of cholesterol and fatty deposits (called plaque) on the
+                                      inner walls of the arteries that restricts blood flow to the heart.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      Without adequate blood, the heart becomes starved of oxygen and the
+                                      vital nutrients it needs to work properly. This can cause chest
+                                      pain called angina. When one or more of the coronary arteries are
+                                      completely blocked, a heart attack (injury to the heart muscle) may
+                                      occur.
+                                  </p>
+                              </li>
+                              <li>
+                                  <h3>
+                                      What happens during a heart attack?
+                                  </h3>
+                              </li>
+                              <li>
+                                  <p>
+                                      A network of blood vessels known as coronary arteries surround the
+                                      heart muscle and supply it with blood that is rich in oxygen and
+                                      nutrients. The heart muscle needs this continuous supply of oxygen
+                                      and nutrients to function.
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/cad-heart-attack"
+                                      >
+                                          A heart attack occurs
+                                      </a>
+                                      when a coronary artery becomes suddenly blocked, stopping the flow
+                                      of blood to the heart muscle and damaging it.
+                                  </p>
+                              </li>
+                          </ul>
+                          <h3>
+                            Let's take a closer look
 
+                          </h3>
+                          <p>When fat builds up inside your arteries it causes slight injury to your blood vessel walls. In an attempt to heal the blood vessel walls, the cells release chemicals that make the blood vessel walls stnickier. Other substances traveling through your blood stream, such as inflammatory cells, cellular waste products, proteins and calcium, begin to stick to the vessel walls. The fat and other substances combine to form a material called plaque.</p>
+                          <p><img src="images/healthissues/img1.png">
+                          </p>
+                          <p>Over time, the inside of the arteries develop plaques of different sizes. Many of the plaque deposits are soft on the inside with a hard fibrous "cap" covering the outside. If the hard surface cracks or tears, the soft, fatty inside is exposed. Platelets (disc-shaped particles in the blood that aid clotting) come to the area, and blood clots form around the plaque.</p>
+                          <img src="images/healthissues/img2.png"><hr>
+                          </p>
+                          <p>If a blood clot totally blocks the blood supply to the heart muscle, called a coronary thrombus or coronary occlusion, the heart muscle becomes "starved" for oxygen and nutrients (called ischemia) in the region below the blockage. Within a short time, an acute coronary syndrome can occur.</p>
+
+                          <p><strong>Acute Coronary Syndrome</strong> is a name given to three types of coronary artery disease that are associated with sudden rupture of plaque inside the coronary artery: unstable angina, Non-ST segment elevation myocardial infarction or heart attack (NSTEMI), or ST segment elevation myocardial infarction or heart attack (STEMI).</p>
+
+                          <img src="images/healthissues/img3.png"><hr>
+                          </p>
+                          <p><strong>Circumflex Occlusion (Back of heart)</strong></p>
+
+                          <img src="images/healthissues/img4.png"><hr>
+                          <p><strong>Left Anterior Descending (LAD) Occlusion (Front of heart)</strong></p>
+
+                          <img src="images/healthissues/img5.png"><hr>
+                          <p><strong>Right Coronary Artery Occlusion (Front of heart)</strong><br>
+                          <strong>Dark red</strong> = artery<br>
+                          <strong>Blue</strong> = outlines region of heart affected by blockage</p>
+                          <p>
+                            Each coronary artery supplies blood to a region of the heart muscle. If an artery is occluded (blocked) there is no blood supply to that region.<br>
+                            The amount of damage to the heart muscle depends on the size of the area supplied by the blocked artery and the time between injury and treatment.
+                          </p>
+                          <h3>What is a coronary spasm?</h3>
+                         <img src="images/healthissues/img6.png">
+                        </p>
+                         <h3>Spasm</h3>
+                          <br/>
+                          <p>
+                              A heart attack can also occur less frequently by a spasm of a coronary
+                              artery. During coronary spasm, the coronary arteries constrict or spasm on
+                              and off, causing lack of blood supply to the heart muscle (ischemia). It
+                              may occur at rest and can even occur in people without significant coronary
+                              artery disease. If coronary artery spasm occurs for a long period of time,
+                              a heart attack can occur.
+                          </p>
+                          <br/>
+                          <p>
+                              What are the symptoms of a heart attack?
+                          </p>
+                          <br/>
+                          <p>
+                              If you are having any one of the symptoms described below that lasts for
+                              more than 5 minutes, SEEK EMERGENCY TREATMENT (CALL 911) WITHOUT DELAY.
+                              These symptoms could be the signs of a heart attack (also called myocardial
+                              infarction or MI) and immediate treatment is essential.
+                          </p>
+                          <br/>
+                          <p>
+                              Symptoms of a heart attack include:
+                          </p>
+                          <br/>
+                          <p>
+                              **Angina:** Chest pain or discomfort in the center of the chest; also
+                              described as a heaviness, tightness, pressure, aching, burning, numbness,
+                              fullness or squeezing feeling that lasts for more than a few minutes or
+                              goes away and comes back. It is sometimes mistakenly thought to be
+                              indigestion or heartburn.
+                          </p>
+                          <br/>
+                          <p>
+                              Pain or discomfort in other areas of the upper body including the arms,
+                              left shoulder, back, neck, jaw, or stomach
+                          </p>
+                          <br/>
+                          <p>
+                              Difficulty breathing or shortness of breath
+                          </p>
+                          <br/>
+                          <p>
+                              Sweating or "cold sweat"
+                          </p>
+                          <br/>
+                          <p>
+                              Fullness, indigestion, or choking feeling (may feel like "heartburn")
+                          </p>
+                          <br/>
+                          <p>
+                              Nausea or vomiting
+                          </p>
+                          <br/>
+                          <p>
+                              Light-headedness, dizziness, extreme weakness or anxiety
+                          </p>
+                          <br/>
+                          <p>
+                              Rapid or irregular heart beats
+                          </p>
+                          <br/>
+                          <p>
+                              Women's symptoms sometimes differ
+                          </p>
+                          <br/>
+                          <p>
+                              Although most women and men report symptoms of chest pain with a heart
+                              attack, women are slightly more likely than men to report unusual symptoms.
+                              Those who have more vague or less typical "heart" symptoms have reported
+                              the following:
+                          </p>
+                          <br/>
+                          <p>
+                              Upper back or shoulder pain
+                          </p>
+                          <br/>
+                          <p>
+                              Jaw pain or pain spreading to the jaw
+                          </p>
+                          <br/>
+                          <p>
+                              Pressure or pain in the center of the chest
+                          </p>
+                          <br/>
+                          <p>
+                              Light headedness
+                          </p>
+                          <br/>
+                          <p>
+                              Pain that spreads to the arm
+                          </p>
+                          <br/>
+                          <p>
+                              Unusual fatigue for several days
+                          </p>
+                          <br/>
+                          <p>
+                              In a multi-center study of 515 women who had an acute myocardial infarction
+                              (MI), the most frequently reported symptoms were unusual fatigue, sleep
+                              disturbances, shortness of breath, indigestion and anxiety. The majority of
+                              women (78%) reported at least one symptom for more than one month before
+                              their heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Lessons learned:
+                          </p>
+                          <br/>
+                          <p>
+                              1. If you have chest pain or other symptoms of heart attack that last
+                              longer than 5 minutes - do not ignore it - seek emergency care to rule out
+                              a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              2. Learn to identify the common symptoms of heart disease. They may be
+                              warning signs of a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              3. Get a physical exam that includes screening for heart disease risk
+                              factors.
+                          </p>
+                          <br/>
+                          <p>
+                              4. If you have questions and symptoms persist, seek a second opinion.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn more about women and heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Silent MI
+                          </p>
+                          <br/>
+                          <p>
+                              Some people have a heart attack without having any symptoms (a "silent"
+                              myocardial infarction). A silent MI can occur among all patients, though it
+                              is more common among women or people with diabetes. A silent MI may be
+                              diagnosed during a routine doctor's exam.
+                          </p>
+                          <br/>
+                          <p>
+                              If You Take Nitroglycerin
+                          </p>
+                          <br/>
+                          <p>
+                              If you have been prescribed nitroglycerin and you experience angina, stop
+                              what you are doing and rest. Take one nitroglycerin tablet and let it
+                              dissolve under your tongue, or if using the spray form, spray it under your
+                              tongue. Wait 5 minutes. If you still have angina after 5 minutes, call 911
+                              to get emergency help.
+                          </p>
+                          <br/>
+                          <p>
+                              For patients diagnosed with chronic stable angina:
+                          </p>
+                          <br/>
+                          <p>
+                              If you experience angina, take one nitroglycerin (NTG) tablet and let it
+                              dissolve under your tongue. If chest discomfort or pain is not improved or
+                              getting worse 5 min after one dose, call 9-1-1 immediately to get emergency
+                              help before taking additional NTG. If symptoms are much improved by 1 dose
+                              of NTG, you may repeat the dose every 5 min for up to 3 tablets over 15
+                              minutes. If you still have angina after taking 3 doses of nitroglycerin,
+                              call 911 to get emergency help.
+                          </p>
+                          <br/>
+                          <p>
+                              Use of aspirin with unstable chest pain:
+                          </p>
+                          <br/>
+                          <p>
+                              After calling 911, emergency personnel may tell you to chew one full (325
+                              mg) aspirin slowly, if you do not have a history of aspirin allergy or
+                              bleeding. Aspirin is especially effective if taken within 30 minutes after
+                              the start of symptoms. Do NOT take an aspirin for symptoms of stroke.
+                              Continue to take your nitroglycerin as prescribed.
+                          </p>
+                          <br/>
+                          <p>
+                              Do not wait to get help: Time is Muscle
+                          </p>
+                          <br/>
+                          <p>
+                              At the first signs of a heart attack, call for emergency treatment (911).
+                              Do not wait for your symptoms to "go away." Early recognition and treatment
+                              of heart attack symptoms can reduce the risk of heart damage and allow
+                              treatment to be started immediately. Even if you're not sure your symptoms
+                              are those of a heart attack, you should still be evaluated.
+                          </p>
+                          <br/>
+                          <p>
+                              The best time to treat a heart attack is within one hour of the onset of
+                              the first symptoms. When a heart attack occurs, there's a limited amount of
+                              time before significant and long-lasting damage occurs to the heart muscle.
+                              If a large area of the heart is injured during the heart attack, full
+                              recovery becomes much more difficult.
+                          </p>
+                          <br/>
+                          <p>
+                              Studies show that the people who have symptoms of a heart attack often
+                              delay, or wait to seek treatment, for longer than seven hours.
+                          </p>
+                          <br/>
+                          <p>
+                              Reasons why people wait to get help:
+                          </p>
+                          <br/>
+                          <p>
+                              People who delay tend to be older, female, African-American and to have a
+                              history of angina, high blood pressure or diabetes. People who delay also
+                              consult their family members or try to treat themselves first before
+                              seeking treatment.
+                          </p>
+                          <br/>
+                          <p>
+                              Reasons people delay:
+                          </p>
+                          <br/>
+                          <p>
+                              They are young and don't believe a heart attack could happen to them
+                          </p>
+                          <br/>
+                          <p>
+                              Symptoms are not what they expected
+                          </p>
+                          <br/>
+                          <p>
+                              They may deny the symptoms are serious and wait until they go away
+                          </p>
+                          <br/>
+                          <p>
+                              They may ask the advice of others, especially family members
+                          </p>
+                          <br/>
+                          <p>
+                              They may first try to treat the symptoms them-selves, using aspirin or
+                              antacids
+                          </p>
+                          <br/>
+                          <p>
+                              They may think the symptoms are related to other health problems (upset
+                              stomach, arthritis)
+                          </p>
+                          <br/>
+                          <p>
+                              They may put the care of others first (take care of children or other
+                              family members) and not want to worry them
+                          </p>
+                          <br/>
+                          <p>
+                              Waiting just a couple hours for medical help may limit your treatment
+                              options, increase the amount of damage to your heart muscle, and reduce
+                              your chance of survival.
+                          </p>
+                          <br/>
+                          <p>
+                              Call 180 – Not a friend
+                          </p>
+                          <br/>
+                          <p>
+                              Calling 180 is almost always the fastest way to get life-saving treatment.
+                              When you call, emergency personnel may tell you to chew an aspirin to break
+                              up a possible blood clot, if there is not a medical reason for you to avoid
+                              aspirin. When emergency help arrives, they can promptly begin treatment,
+                              and they are trained to revive someone whose heart has stopped. Also,
+                              you're likelier to get treated faster at the hospital if you arrive by
+                              ambulance. If you are having symptoms, do not drive yourself unless there
+                              is absolutely no other option.
+                          </p>
+                          <br/>
+                          <p>
+                              If you've had prior heart treatments
+                          </p>
+                          <br/>
+                          <p>
+                              Even if you've been treated for a prior heart attack or if you've had other
+                              treatments for coronary artery disease, a heart attack CAN happen again.
+                              Treatments such as medications, open heart surgery and interventional
+                              procedures DO NOT cure coronary artery disease, so it is still important to
+                              lead a healthy lifestyle.
+                          </p>
+                          <br/>
+                          <p>
+                              Action Plan
+                          </p>
+                          <br/>
+                          <p>
+                              Ask your doctor whether you are at risk for a heart attack and what you can
+                              do to reduce your risk factors. Be sure to ask about aspirin and
+                              nitroglycerin.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn the signs and symptoms of a heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn what to do if you have symptoms
+                          </p>
+                          <br/>
+                          <p>
+                              Talk with your family members, friends and coworkers about the heart attack
+                              warning signs and the importance of acting quickly.
+                          </p>
+                          <br/>
+                          <p>
+                              Importance of a heart-healthy lifestyle
+                          </p>
+                          <br/>
+                          <p>
+                              It is important for you to be committed to leading a heart-healthy
+                              lifestyle to reduce your risk of a heart attack. Your health care team can
+                              help you achieve your goals, but it is up to you to take your medications
+                              as prescribed, make dietary changes, quit smoking, exercise regularly, keep
+                              your follow-up appointments and be an active member of the treatment team.
+                          </p>
+                          <br/>
+                          <p>
+                              Share this information with your family members and caregivers so they
+                              learn to recognize the symptoms of a heart attack and when to help you seek
+                              emergency treatment.
+                          </p>
+                          <br/>
+                          <br/>
+                          <p>
+                              Diagnosing a Heart attack
+                          </p>
+                          <br/>
+                          <p>
+                              Once the emergency care team arrives, they will ask you about your symptoms
+                              and begin to evaluate you. The diagnosis of the heart attack is based on
+                              your symptoms, ECG and the results of your blood studies. The goal of
+                              treatment is to treat you quickly and limit heart muscle damage.
+                          </p>
+                          <br/>
+                          <p>
+                              12-lead ECG
+                          </p>
+                          <br/>
+                          <p>
+                              This is one of the initial tests that will be done. Frequently paramedics
+                              will do this on site or on the way to the hospital. The 12-lead ECG (also
+                              known as EKG or electrocardiogram) can help to tell what type of heart
+                              attack and where it has occurred.
+                          </p>
+                          <br/>
+                          <p>
+                              In addition, your heart rate and rhythm can be watched. You will also be
+                              connected with leads (wires) to a bedside monitor for continuous monitoring
+                              of your heart rate and rhythm.
+                          </p>
+                          <br/>
+                          <p>
+                              Blood studies
+                          </p>
+                          <br/>
+                          <p>
+                              Blood may be drawn to measure levels of biochemical markers. These markers
+                              are found inside your body's cells and are needed for their function. When
+                              your heart muscle cells are injured, their contents --including the markers
+                              -- are released into your bloodstream. By measuring the levels of these
+                              markers, the doctor can determine the size of the heart attack and
+                              approximately when the heart attack started. Other blood testsmay also be
+                              performed.
+                          </p>
+                          <br/>
+                          <p>
+                              Other tests and procedures that may be done during the early stages of an
+                              MI:
+                          </p>
+                          <br/>
+                          <p>
+                              Echocardiogram (echo)
+                          </p>
+                          <br/>
+                          <p>
+                              Echo can be used during and after a heart attack to learn about how the
+                              heart is pumping and identify what areas of the heart are not pumping
+                              normally. The echo is also valuable to see if any structures of the heart
+                              (valves, septum, etc.) have been injured during the heart attack.
+                          </p>
+                          <br/>
+                          <p>
+                              Cardiac catheterization (cath)
+                          </p>
+                          <br/>
+                          <p>
+                              Cardiac catheterization (cath) may be performed during the first hours of a
+                              heart attack if medications are not relieving the ischemia or symptoms. The
+                              cardiac cath can be used to directly visualize the blocked artery and guide
+                              the choice for which procedure (such as angioplasty, stent placement or
+                              coronary artery bypass surgery) may follow.
+                          </p>
+                          <br/>
+                          <p>
+                              Learn more about diagnostic tests and procedures
+                          </p>
+                          <br/>
+                          <p>
+                              Special treatments to open up your arteries
+                          </p>
+                          <br/>
+                          <p>
+                              Heart attack treatment begins immediately. Once symptoms are identified,
+                              call 9-1-1 to set in motion rapid diagnosis and treatment.
+                          </p>
+                          <br/>
+                          <p>
+                              Medications
+                          </p>
+                          <br/>
+                          <p>
+                              The knowledge gained in the past years regarding acute coronary syndromes
+                              and what happens in the artery during a heart attack has helped guide
+                              medical treatment. The goals of medication therapy are to break up or
+                              prevent blood clots, prevent platelets from gathering and sticking to the
+                              plaque, stabilize the plaque, and prevent further ischemia. These
+                              medications must be given as soon as possible (within 30 minutes from the
+                              start of heart attack symptoms) to decrease the amount of damage to the
+                              heart muscle. The longer the delay in starting these drugs, the more damage
+                              that occurs and the less benefit they can provide.
+                            <img src="images/healthissues/img7.png"><hr>
+                           </p>
+                           <p>
+                              <em>
+                                  Thrombolytic medications are used to break up clots blocking the artery
+                              </em>
+                          </p>
+                          <p>
+                              Medications given right after the start of a heart attack may include:
+                          </p>
+                          <ul>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/aspirin-therapy-in-heart-disease"
+                                      >
+                                          aspirin
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      thrombolytic therapy ("clot busters")
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      <a
+                                          href="https://my.clevelandclinic.org/health/articles/heparin-infusion"
+                                      >
+                                          heparin
+                                      </a>
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      other antiplatelet drugs
+                                  </p>
+                              </li>
+                              <li>
+                                  <p>
+                                      any combination of the above
+                                  </p>
+                              </li>
+                          </ul>
+                          <p>
+                              Other drugs, given during or after a heart attack lessen your heart's work,
+                              improve the functioning of the heart, widen or dilate your blood vessels,
+                              decrease your pain, and guard against any
+                              <a href="https://my.clevelandclinic.org/health/articles/arrhythmia">
+                                  life-threatening heart rhythms
+                              </a>
+                              . Your doctor will prescribe the appropriate medications for you.
+                          </p>
+                          <p>
+                              <strong>Interventional procedures</strong>
+                          </p>
+                          <p>
+                              During or shortly after a heart attack, you may go to the
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/cardiac-catheterization"
+                              >
+                                  cardiac catheterization
+                              </a>
+                              laboratory to directly evaluate the status of your heart, arteries and the
+                              amount of heart damage. In some cases, procedures (such as
+                              <a href="https://my.clevelandclinic.org/health/articles/cad-treatments">
+                                  angioplasty or stents
+                              </a>
+                              ) are used to open up your narrowed or blocked arteries. These procedures
+                              may be combined with thrombolytic therapy to open up the narrowed arteries,
+                              as well as to break up any clots that are blocking them.
+                          </p>
+                          <p>
+                              <strong>Coronary artery bypass surgery</strong>
+                          </p>
+                          <p>
+                              If necessary,
+                              <a
+                                  href="https://my.clevelandclinic.org/health/articles/coronary-artery-bypass-surgery"
+                              >
+                                  bypass surgery
+                              </a>
+                              may be performed to restore the heart muscle's supply of blood.
+                          </p>
+                          <p>
+                              Doctors vary in quality due to differences in training and experience;
+                              hospitals differ in the number of services available. The more complex your
+                              medical problem, the greater these differences in quality become and the
+                              more they matter.
+                          </p>
+                          <p>
+                              Clearly, the doctor and hospital that you choose for complex, specialized
+                              medical care will have a direct impact on how well you do. To help you make
+                              this choice, please review our Miller Family Heart and Vascular Institute
+                              Outcomes.
+                          </p>
+                              <!-- Contents Ends Here -->
                               
                                
                       </div>          

@@ -1047,11 +1047,11 @@
                                   </p>
                               </li>
                           </ul>
-                          <p>
+                          <h3>
                               A heart attack, or myocardial infarction (MI), is permanent damage to the
                               heart muscle. "Myo" means muscle, "cardial" refers to the heart, and
                               "infarction" means death of tissue due to lack of blood supply.
-                          </p>
+                          </h3>
                           <ul>
                               <li>
                                   <h3>
