@@ -315,7 +315,7 @@
                                           Provides training for the healthcare workforce on care for elderly Nigerians.                                  
                                     </li>
                                 </ul>
-                                <a href="{{url('/project')}}" class="careplus-readmore-btn">Learn More <span></span></a>
+                                <a href="{{url('/about')}}" class="careplus-readmore-btn">Learn More <span></span></a>
                             </div>
                         </div>
 
