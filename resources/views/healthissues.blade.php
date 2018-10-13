@@ -96,7 +96,7 @@
                                                       <li><a href="{{url('/diabetes_mellitus')}}"> Diabetes Mellitus</a></li>
                                                        <li><a href="{{url('/heartattack')}}"> Heart Attack</a></li>
                                                        <li><a href="{{url('/hypertension')}}">Hypertension</a></li>
-                                                       <li><a href="{{url('/gerontology')}}">Gerontology</a></li>
+                                                       <li><a href="{{url('/prostate_cancer')}}">Prostate Cancer</a></li>
                                                        <li><a href="{{url('/glaucoma_and_cataract')}}">Glaucoma and Cataract</a></li>
                                                 </li>
                                                                                                                                         
@@ -377,10 +377,6 @@
                           <p>
                               Source <a href="https://www.arthritis.org/">https://www.arthritis.org</a>
                           </p>
-                          <h3>
-                              <br/>
-                              <br/>
-                          </h3>
                           <h3>
                               Diabetes mellitus
                           </h3>

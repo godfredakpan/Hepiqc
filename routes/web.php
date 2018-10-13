@@ -47,3 +47,39 @@ Route::get('/healthissues', function()
     return View::make('healthissues');
     
 });
+
+Route::get('/arthritis', function()
+{
+    return View::make('arthritis');
+    
+});
+
+Route::get('/diabetes_mellitus', function()
+{
+    return View::make('diabetes_mellitus');
+    
+});
+
+Route::get('/heart_attack', function()
+{
+    return View::make('heart_attack');
+    
+});
+
+Route::get('/hypertension', function()
+{
+    return View::make('hypertension');
+    
+});
+
+Route::get('/prostate_cancer', function()
+{
+    return View::make('prostate_cancer');
+    
+});
+
+Route::get('/glaucoma_and_cataract', function()
+{
+    return View::make('glaucoma_and_cataract');
+    
+});
