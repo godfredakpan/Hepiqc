@@ -33,7 +33,7 @@ Route::get('/team', function()
 Route::get('/blog', function()
 {
     return View::make('blog');
-    
+     
 });
 
 Route::get('/project', function()
